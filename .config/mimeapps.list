@@ -1,0 +1,19 @@
+[Default Applications]
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=brave-browser.desktop
+text/plain=text.desktop;
+text/x-shellscript=text.desktop;
+application/postscript=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+text/x-chdr=nvim.desktop;
+text/x-csrc=nvim.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+text/html=brave-browser.desktop;
+
+[Added Associations]
+image/svg+xml=nvim.desktop;
+application/rtf=nvim.desktop;

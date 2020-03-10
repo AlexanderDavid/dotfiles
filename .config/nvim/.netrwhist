@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/alex/repos'
+let g:netrw_dirhist_3='/usr/include/i3'
+let g:netrw_dirhist_2='/home/alex/.config/i3blocks'
+let g:netrw_dirhist_1='/home/alex/.config'

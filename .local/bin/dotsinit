@@ -1,0 +1,10 @@
+#!/usr/bin/fish
+
+# create dir for git bare repo
+git init --bare $HOME/.dotfiles
+
+# create alias - use "dots" instead of "git" to interact
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# set flag to hide not explicitly tracked files
+dots config --local status.showUntrackedFiles no

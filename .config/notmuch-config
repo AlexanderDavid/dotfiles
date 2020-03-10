@@ -1,0 +1,14 @@
+[database]
+path=/home/alex/.local/share/mail
+[user]
+name=Alex Day
+primary_email=alex@alexday.me
+[new]
+tags=unread;inbox;
+ignore=
+[search]
+exclude_tags=deleted;spam;
+[maildir]
+synchronize_flags=true
+[crypto]
+gpg_path=gpg

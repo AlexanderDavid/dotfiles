@@ -1,0 +1,14 @@
+#! /bin/sh
+
+# This program iterates through all the suckless repos on my computer, updates and then installs them
+
+SUCKLESS_DIRS="/home/alex/repos/dwm /home/alex/repos/st /home/alex/repos/dmenu /home/alex/repos/slock /home/alex/repos/slstatus"
+
+for ITEM in $SUCKLESS_DIRS; do
+    echo "Updating $ITEM"
+    cd "$ITEM" || continue
+    git pull &> /dev/null || continue
+    echo "Finished updating $ITEM"
+    sudo make clean install &> /dev/null || continue
+    echo "Finished compiling $ITEM"
+done

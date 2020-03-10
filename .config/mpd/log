@@ -1,0 +1,2866 @@
+Dec 27 14:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 14:43 : exception: Failed to open '/home/alex/.config/mpd/state': No such file or directory
+Dec 27 14:43 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 27 15:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 15:04 : exception: Failed to open '/home/alex/.config/mpd/state': No such file or directory
+Dec 27 15:04 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 27 15:04 : client: [0] opened from 127.0.0.1:46536
+Dec 27 15:04 : client: [0] closed
+Dec 27 15:19 : client: [1] opened from 127.0.0.1:46712
+Dec 27 15:19 : client: [1] closed
+Dec 27 15:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 15:34 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 27 15:34 : client: [0] opened from 127.0.0.1:40414
+Dec 27 15:34 : client: [0] closed
+Dec 27 15:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 15:37 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 27 15:44 : client: [0] opened from 127.0.0.1:60338
+Dec 27 15:44 : client: [0] closed
+Dec 27 15:44 : client: [1] opened from 127.0.0.1:60344
+Dec 27 15:44 : client: [1] closed
+Dec 27 15:54 : client: [2] opened from 127.0.0.1:60514
+Dec 27 15:54 : client: [2] closed
+Dec 27 16:17 : client: [3] opened from 127.0.0.1:60862
+Dec 27 16:17 : client: [3] closed
+Dec 27 16:19 : client: [4] opened from 127.0.0.1:60916
+Dec 27 16:19 : client: [4] closed
+Dec 27 16:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 16:38 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 27 16:54 : client: [0] opened from 127.0.0.1:33110
+Dec 27 16:54 : client: [0] closed
+Dec 27 16:55 : client: [1] opened from 127.0.0.1:33116
+Dec 27 16:55 : client: [1] closed
+Dec 27 16:57 : client: [2] opened from 127.0.0.1:33456
+Dec 27 16:57 : client: [2] closed
+Dec 27 17:45 : client: [3] opened from 127.0.0.1:33862
+Dec 27 17:45 : client: [3] closed
+Dec 27 17:45 : client: [4] opened from 127.0.0.1:33866
+Dec 27 17:45 : client: [4] closed
+Dec 27 17:50 : client: [5] opened from 127.0.0.1:33932
+Dec 27 17:50 : client: [5] closed
+Dec 27 17:55 : client: [6] opened from 127.0.0.1:34868
+Dec 27 17:55 : client: [6] closed
+Dec 27 17:55 : client: [7] opened from 127.0.0.1:34880
+Dec 27 17:55 : client: [7] closed
+Dec 27 17:55 : client: [8] opened from 127.0.0.1:34900
+Dec 27 17:55 : client: [8] closed
+Dec 27 17:55 : client: [9] opened from 127.0.0.1:34904
+Dec 27 17:55 : client: [9] closed
+Dec 27 17:55 : client: [10] opened from 127.0.0.1:34908
+Dec 27 17:55 : client: [10] closed
+Dec 27 17:59 : client: [11] opened from 127.0.0.1:36738
+Dec 27 17:59 : client: [11] closed
+Dec 27 17:59 : client: [12] opened from 127.0.0.1:36798
+Dec 27 17:59 : client: [12] closed
+Dec 27 18:00 : client: [13] opened from 127.0.0.1:37434
+Dec 27 18:00 : client: [13] closed
+Dec 27 18:00 : client: [14] opened from 127.0.0.1:37470
+Dec 27 18:00 : client: [14] closed
+Dec 27 18:00 : client: [15] opened from 127.0.0.1:37498
+Dec 27 18:00 : client: [15] closed
+Dec 27 18:00 : client: [16] opened from 127.0.0.1:37526
+Dec 27 18:00 : client: [16] closed
+Dec 27 18:01 : client: [17] opened from 127.0.0.1:37714
+Dec 27 18:01 : client: [17] closed
+Dec 27 18:02 : client: [18] opened from 127.0.0.1:38176
+Dec 27 18:02 : client: [18] closed
+Dec 27 18:02 : client: [19] opened from 127.0.0.1:38204
+Dec 27 18:02 : client: [19] closed
+Dec 27 18:02 : client: [20] opened from 127.0.0.1:38240
+Dec 27 18:02 : client: [20] closed
+Dec 27 18:02 : client: [21] opened from 127.0.0.1:38324
+Dec 27 18:02 : client: [21] closed
+Dec 27 18:02 : client: [22] opened from 127.0.0.1:38336
+Dec 27 18:02 : client: [22] closed
+Dec 27 18:02 : client: [23] opened from 127.0.0.1:38340
+Dec 27 18:02 : client: [23] closed
+Dec 27 18:02 : client: [24] opened from 127.0.0.1:38344
+Dec 27 18:02 : client: [24] closed
+Dec 27 18:02 : client: [25] opened from 127.0.0.1:38356
+Dec 27 18:02 : client: [25] closed
+Dec 27 18:02 : client: [26] opened from 127.0.0.1:38360
+Dec 27 18:02 : client: [26] closed
+Dec 27 18:02 : client: [27] opened from 127.0.0.1:38364
+Dec 27 18:02 : client: [27] closed
+Dec 27 18:02 : client: [28] opened from 127.0.0.1:38368
+Dec 27 18:02 : client: [28] closed
+Dec 27 18:02 : client: [29] opened from 127.0.0.1:38380
+Dec 27 18:02 : client: [29] closed
+Dec 27 18:02 : client: [30] opened from 127.0.0.1:38432
+Dec 27 18:02 : client: [30] closed
+Dec 27 18:02 : client: [31] opened from 127.0.0.1:38436
+Dec 27 18:02 : client: [31] closed
+Dec 27 18:02 : client: [32] opened from 127.0.0.1:38440
+Dec 27 18:02 : client: [32] closed
+Dec 27 18:02 : client: [33] opened from 127.0.0.1:38444
+Dec 27 18:02 : client: [33] closed
+Dec 27 18:02 : client: [34] opened from 127.0.0.1:38456
+Dec 27 18:02 : client: [34] closed
+Dec 27 18:02 : client: [35] opened from 127.0.0.1:38468
+Dec 27 18:02 : client: [35] closed
+Dec 27 18:02 : client: [36] opened from 127.0.0.1:38592
+Dec 27 18:02 : client: [36] closed
+Dec 27 18:02 : client: [37] opened from 127.0.0.1:38612
+Dec 27 18:02 : client: [37] closed
+Dec 27 18:02 : client: [38] opened from 127.0.0.1:38624
+Dec 27 18:02 : client: [38] closed
+Dec 27 18:03 : client: [39] opened from 127.0.0.1:38708
+Dec 27 18:03 : client: [39] closed
+Dec 27 18:03 : client: [40] opened from 127.0.0.1:38728
+Dec 27 18:03 : client: [40] closed
+Dec 27 18:04 : client: [41] opened from 127.0.0.1:39570
+Dec 27 18:04 : client: [41] closed
+Dec 27 18:06 : client: [42] opened from 127.0.0.1:40346
+Dec 27 18:06 : client: [42] closed
+Dec 27 18:06 : client: [43] opened from 127.0.0.1:40596
+Dec 27 18:06 : client: [43] closed
+Dec 27 20:26 : client: [44] opened from 127.0.0.1:51770
+Dec 27 20:26 : client: [44] closed
+Dec 27 20:26 : client: [45] opened from 127.0.0.1:51830
+Dec 27 20:26 : client: [45] closed
+Dec 27 20:26 : client: [46] opened from 127.0.0.1:51834
+Dec 27 20:26 : client: [46] closed
+Dec 27 20:26 : client: [47] opened from 127.0.0.1:51886
+Dec 27 20:26 : client: [47] closed
+Dec 27 20:27 : client: [48] opened from 127.0.0.1:51938
+Dec 27 20:27 : client: [48] closed
+Dec 27 20:27 : client: [49] opened from 127.0.0.1:51950
+Dec 27 20:27 : client: [49] closed
+Dec 27 20:50 : client: [50] opened from 127.0.0.1:34794
+Dec 27 20:50 : client: [50] closed
+Dec 27 21:06 : client: [51] opened from 127.0.0.1:41614
+Dec 27 21:06 : client: [51] closed
+Dec 27 21:13 : client: [52] opened from 127.0.0.1:41676
+Dec 27 21:14 : client: [52] closed
+Dec 27 21:18 : client: [53] opened from 127.0.0.1:41740
+Dec 27 21:18 : client: [53] closed
+Dec 27 21:25 : client: [54] opened from 127.0.0.1:41782
+Dec 27 21:25 : client: [54] closed
+Dec 27 21:27 : client: [55] opened from 127.0.0.1:41788
+Dec 27 21:27 : client: [55] closed
+Dec 27 21:27 : client: [56] opened from 127.0.0.1:41792
+Dec 27 21:28 : client: [56] closed
+Dec 27 21:28 : client: [57] opened from 127.0.0.1:41794
+Dec 27 21:28 : client: [57] closed
+Dec 27 21:31 : client: [58] opened from 127.0.0.1:41802
+Dec 27 21:31 : client: [58] closed
+Dec 27 21:32 : client: [59] opened from 127.0.0.1:41808
+Dec 27 21:32 : client: [59] closed
+Dec 27 21:34 : client: [60] opened from 127.0.0.1:41868
+Dec 27 21:34 : client: [60] closed
+Dec 27 21:35 : client: [61] opened from 127.0.0.1:41876
+Dec 27 21:35 : client: [61] closed
+Dec 27 21:39 : client: [62] opened from 127.0.0.1:41894
+Dec 27 21:39 : client: [62] closed
+Dec 27 22:03 : client: [63] opened from 127.0.0.1:42198
+Dec 27 22:03 : client: [63] closed
+Dec 27 22:06 : client: [64] opened from 127.0.0.1:42218
+Dec 27 22:06 : client: [64] closed
+Dec 27 22:21 : client: [65] opened from 127.0.0.1:42314
+Dec 27 22:21 : client: [65] closed
+Dec 27 22:22 : client: [66] opened from 127.0.0.1:42320
+Dec 27 22:22 : client: [66] closed
+Dec 27 22:23 : client: [67] opened from 127.0.0.1:42342
+Dec 27 22:23 : client: [67] closed
+Dec 28 00:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 00:07 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 28 01:22 : client: [0] opened from 127.0.0.1:42794
+Dec 28 01:22 : client: [0] closed
+Dec 28 01:22 : client: [1] opened from 127.0.0.1:42800
+Dec 28 01:22 : client: [1] closed
+Dec 28 12:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 12:02 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 28 12:03 : client: [0] opened from 127.0.0.1:36552
+Dec 28 12:03 : client: [0] closed
+Dec 28 12:03 : client: [1] opened from 127.0.0.1:36568
+Dec 28 12:03 : client: [1] closed
+Dec 28 12:04 : client: [2] opened from 127.0.0.1:36574
+Dec 28 12:04 : client: [2] closed
+Dec 28 12:04 : client: [3] opened from 127.0.0.1:36580
+Dec 28 12:04 : client: [3] closed
+Dec 28 12:32 : client: [4] opened from 127.0.0.1:36802
+Dec 28 12:32 : client: [4] closed
+Dec 28 12:32 : client: [5] opened from 127.0.0.1:36832
+Dec 28 12:32 : client: [5] closed
+Dec 28 12:34 : client: [6] opened from 127.0.0.1:36842
+Dec 28 12:34 : client: [6] closed
+Dec 28 12:36 : client: [7] opened from 127.0.0.1:36854
+Dec 28 12:36 : client: [7] closed
+Dec 28 12:38 : client: [8] opened from 127.0.0.1:36960
+Dec 28 12:38 : client: [8] closed
+Dec 28 12:39 : client: [9] opened from 127.0.0.1:36966
+Dec 28 12:39 : client: [9] closed
+Dec 28 12:40 : client: [10] opened from 127.0.0.1:36978
+Dec 28 12:40 : client: [10] closed
+Dec 28 12:41 : client: [11] opened from 127.0.0.1:36984
+Dec 28 12:41 : client: [11] closed
+Dec 28 12:42 : client: [12] opened from 127.0.0.1:36994
+Dec 28 12:42 : client: [12] closed
+Dec 28 12:42 : client: [13] opened from 127.0.0.1:37000
+Dec 28 12:42 : client: [13] closed
+Dec 28 12:44 : client: [14] opened from 127.0.0.1:37038
+Dec 28 12:44 : client: [14] closed
+Dec 28 12:45 : client: [15] opened from 127.0.0.1:37042
+Dec 28 12:45 : client: [15] closed
+Dec 28 12:45 : client: [16] opened from 127.0.0.1:37044
+Dec 28 12:46 : client: [16] closed
+Dec 28 12:46 : client: [17] opened from 127.0.0.1:37046
+Dec 28 12:46 : client: [17] closed
+Dec 28 12:46 : client: [18] opened from 127.0.0.1:37048
+Dec 28 12:48 : client: [18] closed
+Dec 28 12:48 : client: [19] opened from 127.0.0.1:37064
+Dec 28 12:49 : client: [19] closed
+Dec 28 12:49 : client: [20] opened from 127.0.0.1:37066
+Dec 28 12:50 : client: [20] closed
+Dec 28 12:50 : client: [21] opened from 127.0.0.1:37070
+Dec 28 12:50 : client: [21] closed
+Dec 28 12:50 : client: [22] opened from 127.0.0.1:37072
+Dec 28 12:50 : client: [22] closed
+Dec 28 12:50 : client: [23] opened from 127.0.0.1:37074
+Dec 28 12:51 : client: [23] closed
+Dec 28 12:51 : client: [24] opened from 127.0.0.1:37076
+Dec 28 12:52 : client: [24] closed
+Dec 28 12:52 : client: [25] opened from 127.0.0.1:37080
+Dec 28 12:52 : client: [25] closed
+Dec 28 12:52 : client: [26] opened from 127.0.0.1:37082
+Dec 28 12:52 : client: [26] closed
+Dec 28 12:52 : client: [27] opened from 127.0.0.1:37084
+Dec 28 12:52 : client: [27] closed
+Dec 28 12:52 : client: [28] opened from 127.0.0.1:37086
+Dec 28 12:52 : client: [28] closed
+Dec 28 12:52 : client: [29] opened from 127.0.0.1:37088
+Dec 28 12:53 : client: [29] closed
+Dec 28 12:53 : client: [30] opened from 127.0.0.1:37092
+Dec 28 12:53 : client: [30] closed
+Dec 28 12:53 : client: [31] opened from 127.0.0.1:37094
+Dec 28 12:54 : client: [31] closed
+Dec 28 12:54 : client: [32] opened from 127.0.0.1:37098
+Dec 28 12:56 : client: [32] closed
+Dec 28 12:57 : client: [33] opened from 127.0.0.1:37118
+Dec 28 12:58 : client: [33] closed
+Dec 28 12:58 : client: [34] opened from 127.0.0.1:37122
+Dec 28 12:58 : client: [34] closed
+Dec 28 12:58 : client: [35] opened from 127.0.0.1:37124
+Dec 28 12:59 : client: [35] closed
+Dec 28 12:59 : client: [36] opened from 127.0.0.1:37126
+Dec 28 12:59 : client: [36] closed
+Dec 28 12:59 : client: [37] opened from 127.0.0.1:37128
+Dec 28 13:00 : client: [37] closed
+Dec 28 13:00 : client: [38] opened from 127.0.0.1:37132
+Dec 28 13:00 : client: [38] closed
+Dec 28 13:00 : client: [39] opened from 127.0.0.1:37136
+Dec 28 13:01 : client: [39] closed
+Dec 28 13:01 : client: [40] opened from 127.0.0.1:37140
+Dec 28 13:01 : client: [40] closed
+Dec 28 13:01 : client: [41] opened from 127.0.0.1:37144
+Dec 28 13:02 : client: [41] closed
+Dec 28 13:02 : client: [42] opened from 127.0.0.1:37150
+Dec 28 13:04 : client: [42] closed
+Dec 28 13:04 : client: [43] opened from 127.0.0.1:37182
+Dec 28 13:04 : client: [43] closed
+Dec 28 13:04 : client: [44] opened from 127.0.0.1:37186
+Dec 28 13:06 : client: [44] closed
+Dec 28 13:06 : client: [45] opened from 127.0.0.1:37190
+Dec 28 13:07 : client: [45] closed
+Dec 28 13:07 : client: [46] opened from 127.0.0.1:37196
+Dec 28 13:08 : client: [46] closed
+Dec 28 13:08 : client: [47] opened from 127.0.0.1:37200
+Dec 28 13:09 : client: [47] closed
+Dec 28 13:09 : client: [48] opened from 127.0.0.1:37208
+Dec 28 13:54 : client: [49] opened from 127.0.0.1:37288
+Dec 28 13:54 : client: [49] closed
+Dec 28 13:55 : client: [50] opened from 127.0.0.1:37296
+Dec 28 13:55 : client: [50] closed
+Dec 28 13:56 : client: [48] closed
+Dec 28 13:56 : client: [51] opened from 127.0.0.1:37298
+Dec 28 13:56 : client: [52] opened from 127.0.0.1:37300
+Dec 28 13:56 : client: [52] closed
+Dec 28 13:56 : client: [51] closed
+Dec 28 13:56 : client: [53] opened from 127.0.0.1:37306
+Dec 28 14:11 : client: [54] opened from 127.0.0.1:37380
+Dec 28 14:11 : client: [54] closed
+Dec 28 14:21 : client: [55] opened from 127.0.0.1:37394
+Dec 28 14:21 : client: [55] closed
+Dec 28 14:31 : client: [56] opened from 127.0.0.1:37406
+Dec 28 14:31 : client: [56] closed
+Dec 28 14:41 : client: [57] opened from 127.0.0.1:37428
+Dec 28 14:41 : client: [57] closed
+Dec 28 14:51 : client: [58] opened from 127.0.0.1:37440
+Dec 28 14:51 : client: [58] closed
+Dec 28 14:52 : client: [53] closed
+Dec 28 14:52 : client: [59] opened from 127.0.0.1:37446
+Dec 28 14:52 : client: [59] closed
+Dec 28 14:52 : client: [60] opened from 127.0.0.1:37454
+Dec 28 14:53 : client: [60] closed
+Dec 28 14:53 : client: [61] opened from 127.0.0.1:37458
+Dec 28 14:54 : client: [61] closed
+Dec 28 14:54 : client: [62] opened from 127.0.0.1:37464
+Dec 28 14:54 : client: [62] closed
+Dec 28 14:54 : client: [63] opened from 127.0.0.1:37468
+Dec 28 14:54 : client: [63] closed
+Dec 28 14:54 : client: [64] opened from 127.0.0.1:37472
+Dec 28 14:54 : client: [64] closed
+Dec 28 14:54 : client: [65] opened from 127.0.0.1:37476
+Dec 28 14:55 : client: [65] closed
+Dec 28 14:55 : client: [66] opened from 127.0.0.1:37480
+Dec 28 14:56 : client: [66] closed
+Dec 28 14:56 : client: [67] opened from 127.0.0.1:37484
+Dec 28 14:57 : client: [67] closed
+Dec 28 14:57 : client: [68] opened from 127.0.0.1:37490
+Dec 28 14:58 : client: [68] closed
+Dec 28 14:58 : client: [69] opened from 127.0.0.1:37506
+Dec 28 14:59 : client: [70] opened from 127.0.0.1:37510
+Dec 28 14:59 : client: [69] closed
+Dec 28 15:00 : client: [70] closed
+Dec 28 15:00 : client: [71] opened from 127.0.0.1:37514
+Dec 28 15:01 : client: [71] closed
+Dec 28 15:01 : client: [72] opened from 127.0.0.1:37518
+Dec 28 15:27 : client: [73] opened from 127.0.0.1:37904
+Dec 28 15:27 : client: [73] closed
+Dec 28 16:06 : client: [74] opened from 127.0.0.1:38304
+Dec 28 16:06 : client: [74] closed
+Dec 28 16:06 : client: [75] opened from 127.0.0.1:38308
+Dec 28 16:06 : client: [75] closed
+Dec 28 16:23 : client: [76] opened from 127.0.0.1:38720
+Dec 28 16:23 : client: [76] closed
+Dec 28 16:40 : client: [72] closed
+Dec 28 16:40 : client: [77] opened from 127.0.0.1:38832
+Dec 28 16:40 : client: [78] opened from 127.0.0.1:38838
+Dec 28 16:40 : client: [78] closed
+Dec 28 16:41 : client: [79] opened from 127.0.0.1:38860
+Dec 28 16:41 : client: [79] closed
+Dec 28 21:26 : client: [80] opened from 127.0.0.1:38880
+Dec 28 21:26 : client: [80] closed
+Dec 28 21:26 : client: [81] opened from 127.0.0.1:38884
+Dec 28 21:26 : client: [81] closed
+Dec 28 21:27 : client: [77] closed
+Dec 28 21:27 : client: [82] opened from 127.0.0.1:38892
+Dec 28 21:40 : client: [82] closed
+Dec 28 21:40 : client: [83] opened from 127.0.0.1:39014
+Dec 28 21:41 : client: [83] closed
+Dec 28 21:41 : client: [84] opened from 127.0.0.1:39030
+Dec 28 21:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 21:43 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 28 21:43 : client: [0] opened from 127.0.0.1:58992
+Dec 28 21:45 : client: [0] closed
+Dec 28 21:45 : client: [1] opened from 127.0.0.1:59034
+Dec 28 21:50 : client: [1] closed
+Dec 28 21:50 : client: [2] opened from 127.0.0.1:59104
+Dec 28 21:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 21:54 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 28 21:54 : client: [0] opened from 127.0.0.1:34788
+Dec 28 22:22 : client: [1] opened from 127.0.0.1:35056
+Dec 28 22:22 : client: [1] closed
+Dec 28 22:22 : client: [2] opened from 127.0.0.1:35074
+Dec 28 22:22 : client: [2] closed
+Dec 28 22:41 : client: [3] opened from 127.0.0.1:35234
+Dec 28 22:41 : client: [3] closed
+Dec 28 22:51 : client: [4] opened from 127.0.0.1:35254
+Dec 28 22:51 : client: [4] closed
+Dec 28 22:51 : client: [5] opened from 127.0.0.1:35258
+Dec 28 22:51 : client: [5] closed
+Dec 28 23:58 : client: [0] closed
+Dec 28 23:58 : client: [6] opened from 127.0.0.1:36024
+Dec 29 00:05 : client: [7] opened from 127.0.0.1:36088
+Dec 29 00:05 : client: [7] closed
+Dec 29 00:05 : client: [8] opened from 127.0.0.1:36092
+Dec 29 00:05 : client: [8] closed
+Dec 29 02:09 : client: [9] opened from 127.0.0.1:36970
+Dec 29 02:09 : client: [9] closed
+Dec 29 13:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 13:13 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 29 13:13 : client: [0] opened from 127.0.0.1:48020
+Dec 29 13:14 : client: [0] closed
+Dec 29 13:14 : client: [1] opened from 127.0.0.1:48066
+Dec 29 13:14 : client: [2] opened from 127.0.0.1:48078
+Dec 29 13:14 : client: [2] closed
+Dec 29 13:18 : client: [1] closed
+Dec 29 13:18 : client: [3] opened from 127.0.0.1:48132
+Dec 29 13:21 : client: [4] opened from 127.0.0.1:48158
+Dec 29 13:21 : client: [4] closed
+Dec 29 13:21 : client: [5] opened from 127.0.0.1:48162
+Dec 29 13:21 : client: [5] closed
+Dec 29 13:31 : client: [6] opened from 127.0.0.1:48188
+Dec 29 13:31 : client: [6] closed
+Dec 29 13:31 : client: [7] opened from 127.0.0.1:48192
+Dec 29 13:31 : client: [7] closed
+Dec 29 13:37 : client: [3] closed
+Dec 29 13:37 : client: [8] opened from 127.0.0.1:48198
+Dec 29 13:38 : client: [8] closed
+Dec 29 13:39 : client: [9] opened from 127.0.0.1:48208
+Dec 29 13:39 : client: [10] opened from 127.0.0.1:48212
+Dec 29 13:39 : client: [10] closed
+Dec 29 13:39 : client: [11] opened from 127.0.0.1:48214
+Dec 29 13:39 : client: [11] closed
+Dec 29 13:39 : client: [12] opened from 127.0.0.1:48218
+                                  Dec 29 13:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 13:42 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 29 13:42 : client: [0] opened from 127.0.0.1:49698
+Dec 29 13:42 : client: [0] closed
+Dec 29 13:42 : client: [1] opened from 127.0.0.1:49702
+Dec 29 13:42 : client: [1] closed
+Dec 29 13:42 : client: [2] opened from 127.0.0.1:49706
+Dec 29 13:42 : client: [2] closed
+Dec 29 13:43 : client: [3] opened from 127.0.0.1:49714
+Dec 29 13:43 : client: [4] opened from 127.0.0.1:49718
+Dec 29 13:43 : client: [4] closed
+Dec 29 13:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 13:47 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 29 13:47 : client: [0] opened from 127.0.0.1:34136
+Dec 29 13:48 : client: [0] closed
+Dec 29 13:48 : client: [1] opened from 127.0.0.1:34144
+Dec 29 13:48 : client: [2] opened from 127.0.0.1:34148
+Dec 29 13:48 : client: [2] closed
+Dec 29 14:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 14:20 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 29 14:20 : client: [0] opened from 127.0.0.1:57138
+Dec 29 14:36 : client: [0] closed
+Dec 29 14:36 : client: [1] opened from 127.0.0.1:57376
+Dec 29 14:59 : client: [1] closed
+Dec 29 14:59 : client: [2] opened from 127.0.0.1:57612
+Dec 29 15:02 : client: [2] closed
+Dec 29 15:02 : client: [3] opened from 127.0.0.1:57644
+Dec 29 15:02 : client: [3] closed
+Dec 29 15:02 : client: [4] opened from 127.0.0.1:57648
+Dec 29 15:02 : client: [4] closed
+Dec 29 15:02 : client: [5] opened from 127.0.0.1:57652
+Dec 29 15:03 : client: [5] closed
+Dec 29 15:03 : client: [6] opened from 127.0.0.1:57656
+Dec 29 15:03 : client: [6] closed
+Dec 29 15:03 : client: [7] opened from 127.0.0.1:57660
+Dec 29 15:28 : client: [8] opened from 127.0.0.1:57914
+Dec 29 15:28 : client: [8] closed
+Dec 29 15:28 : client: [9] opened from 127.0.0.1:57918
+Dec 29 15:28 : client: [9] closed
+Dec 29 16:28 : client: [10] opened from 127.0.0.1:57946
+Dec 29 16:28 : client: [10] closed
+Dec 29 16:46 : client: [11] opened from 127.0.0.1:58072
+Dec 29 16:46 : client: [11] closed
+Dec 29 17:02 : client: [7] closed
+Dec 29 17:02 : client: [12] opened from 127.0.0.1:58242
+Dec 29 17:24 : client: [13] opened from 127.0.0.1:58350
+Dec 29 17:24 : client: [13] closed
+Dec 29 17:24 : client: [14] opened from 127.0.0.1:58354
+Dec 29 17:24 : client: [14] closed
+Dec 29 17:34 : client: [15] opened from 127.0.0.1:58402
+Dec 29 17:34 : client: [15] closed
+Dec 29 17:34 : client: [16] opened from 127.0.0.1:58406
+Dec 29 17:34 : client: [16] closed
+Dec 29 17:35 : client: [17] opened from 127.0.0.1:58414
+Dec 29 17:35 : client: [17] closed
+Dec 29 17:35 : client: [18] opened from 127.0.0.1:58418
+Dec 29 17:35 : client: [18] closed
+Dec 29 17:36 : client: [19] opened from 127.0.0.1:58422
+Dec 29 17:36 : client: [19] closed
+Dec 29 17:36 : client: [20] opened from 127.0.0.1:58426
+Dec 29 17:36 : client: [20] closed
+Dec 29 17:37 : client: [21] opened from 127.0.0.1:58430
+Dec 29 17:37 : client: [21] closed
+Dec 29 17:37 : client: [22] opened from 127.0.0.1:58434
+Dec 29 17:37 : client: [22] closed
+Dec 29 17:52 : client: [23] opened from 127.0.0.1:58566
+Dec 29 17:52 : client: [23] closed
+Dec 29 17:52 : client: [24] opened from 127.0.0.1:58570
+Dec 29 17:52 : client: [24] closed
+Dec 29 18:07 : client: [25] opened from 127.0.0.1:58822
+Dec 29 18:07 : client: [25] closed
+Dec 29 19:23 : client: [26] opened from 127.0.0.1:59532
+Dec 29 19:23 : client: [26] closed
+Dec 29 19:24 : client: [27] opened from 127.0.0.1:59536
+Dec 29 19:24 : client: [27] closed
+Dec 30 16:25 : client: [28] opened from 127.0.0.1:59550
+Dec 30 16:25 : client: [28] closed
+Dec 30 16:48 : client: [29] opened from 127.0.0.1:59660
+Dec 30 16:48 : client: [29] closed
+Dec 30 16:49 : client: [30] opened from 127.0.0.1:59664
+Dec 30 16:49 : client: [30] closed
+Dec 30 16:51 : client: [31] opened from 127.0.0.1:59670
+Dec 30 16:51 : client: [31] closed
+Dec 30 16:51 : client: [32] opened from 127.0.0.1:59674
+Dec 30 16:51 : client: [32] closed
+Dec 30 16:51 : client: [33] opened from 127.0.0.1:59678
+Dec 30 16:51 : client: [33] closed
+Dec 30 16:51 : client: [34] opened from 127.0.0.1:59682
+Dec 30 16:51 : client: [34] closed
+Dec 30 17:06 : client: [35] opened from 127.0.0.1:59792
+Dec 30 17:06 : client: [35] closed
+Dec 30 18:37 : client: [36] opened from 127.0.0.1:42674
+Dec 30 18:37 : client: [36] closed
+Dec 30 19:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 19:31 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 30 19:31 : client: [0] opened from 127.0.0.1:53180
+Dec 30 19:33 : client: [0] closed
+Dec 30 19:33 : client: [1] opened from 127.0.0.1:53184
+Dec 30 20:27 : client: [2] opened from 127.0.0.1:54146
+Dec 30 20:27 : client: [2] closed
+Dec 30 20:27 : client: [3] opened from 127.0.0.1:54150
+Dec 30 20:27 : client: [3] closed
+Dec 30 20:27 : client: [4] opened from 127.0.0.1:54154
+Dec 30 20:27 : client: [4] closed
+Dec 30 20:27 : client: [5] opened from 127.0.0.1:54158
+Dec 30 20:27 : client: [5] closed
+Dec 30 20:27 : client: [6] opened from 127.0.0.1:54162
+Dec 30 20:27 : client: [6] closed
+Dec 30 20:27 : client: [7] opened from 127.0.0.1:54166
+Dec 30 20:27 : client: [7] closed
+Dec 30 20:27 : client: [8] opened from 127.0.0.1:54170
+Dec 30 20:27 : client: [8] closed
+Dec 30 20:27 : client: [9] opened from 127.0.0.1:54174
+Dec 30 20:27 : client: [9] closed
+Dec 30 20:27 : client: [10] opened from 127.0.0.1:54178
+Dec 30 20:27 : client: [10] closed
+Dec 30 20:27 : client: [11] opened from 127.0.0.1:54182
+Dec 30 20:27 : client: [11] closed
+Dec 30 20:27 : client: [12] opened from 127.0.0.1:54186
+Dec 30 20:27 : client: [12] closed
+Dec 30 20:28 : client: [13] opened from 127.0.0.1:54190
+Dec 30 20:28 : client: [13] closed
+Dec 30 20:28 : client: [14] opened from 127.0.0.1:54194
+Dec 30 20:28 : client: [14] closed
+Dec 30 21:36 : client: [15] opened from 127.0.0.1:54736
+Dec 30 21:36 : client: [15] closed
+Dec 30 21:48 : client: [1] closed
+Dec 30 21:48 : client: [16] opened from 127.0.0.1:54852
+Dec 30 21:48 : client: [16] closed
+Dec 30 21:48 : client: [17] opened from 127.0.0.1:54856
+Dec 30 21:51 : client: [17] closed
+Dec 30 21:51 : client: [18] opened from 127.0.0.1:54868
+Dec 30 21:51 : client: [18] closed
+Dec 30 21:51 : client: [19] opened from 127.0.0.1:54872
+Dec 30 21:51 : client: [19] closed
+Dec 30 21:51 : client: [20] opened from 127.0.0.1:54876
+Dec 30 21:52 : client: [20] closed
+Dec 30 21:52 : client: [21] opened from 127.0.0.1:54880
+Dec 30 21:52 : client: [21] closed
+Dec 30 21:52 : client: [22] opened from 127.0.0.1:54886
+Dec 30 21:52 : client: [22] closed
+Dec 30 21:52 : client: [23] opened from 127.0.0.1:54890
+Dec 30 21:55 : client: [23] closed
+Dec 30 21:55 : client: [24] opened from 127.0.0.1:54900
+Dec 30 21:55 : client: [25] opened from 127.0.0.1:54904
+Dec 30 21:55 : client: [25] closed
+Dec 30 21:55 : client: [26] opened from 127.0.0.1:54906
+Dec 30 21:55 : client: [26] closed
+Dec 30 21:55 : client: [27] opened from 127.0.0.1:54910
+Dec 30 21:57 : client: [27] closed
+Dec 30 22:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 22:01 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 30 22:01 : client: [0] opened from 127.0.0.1:33438
+Dec 30 22:01 : client: [1] opened from 127.0.0.1:33436
+Dec 30 22:01 : client: [1] closed
+Dec 30 22:01 : client: [2] opened from 127.0.0.1:33440
+Dec 30 22:02 : client: [2] closed
+Dec 30 22:02 : client: [3] opened from 127.0.0.1:33444
+Dec 30 22:42 : client: [4] opened from 127.0.0.1:33580
+Dec 30 22:42 : client: [4] closed
+Dec 30 22:43 : client: [5] opened from 127.0.0.1:33584
+Dec 30 22:43 : client: [5] closed
+Dec 30 23:08 : client: [3] closed
+Dec 30 23:08 : client: [6] opened from 127.0.0.1:33628
+Dec 30 23:08 : client: [0] closed
+Dec 30 23:08 : client: [6] closed
+Dec 30 23:08 : avahi: Client Disconnected, will reconnect shortly
+Dec 30 23:08 : avahi: Client Disconnected, will reconnect shortly
+Dec 30 23:08 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Dec 31 16:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 16:02 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 31 16:02 : client: [0] opened from 127.0.0.1:48324
+Dec 31 16:05 : client: [0] closed
+Dec 31 16:05 : client: [1] opened from 127.0.0.1:48416
+Dec 31 16:14 : client: [1] closed
+Dec 31 16:14 : client: [2] opened from 127.0.0.1:48550
+Dec 31 16:18 : client: [2] closed
+Dec 31 16:18 : client: [3] opened from 127.0.0.1:48580
+Dec 31 16:18 : client: [3] closed
+Dec 31 16:18 : client: [4] opened from 127.0.0.1:48584
+Dec 31 16:19 : client: [4] closed
+Dec 31 16:19 : client: [5] opened from 127.0.0.1:48588
+Dec 31 16:27 : client: [5] closed
+Dec 31 16:27 : client: [6] opened from 127.0.0.1:48710
+Dec 31 16:29 : client: [6] closed
+Dec 31 16:29 : client: [7] opened from 127.0.0.1:48734
+Jan 02 10:28 : client: [8] opened from 127.0.0.1:48748
+Jan 02 10:28 : client: [8] closed
+Jan 02 10:29 : client: [9] opened from 127.0.0.1:48782
+Jan 02 10:29 : client: [9] closed
+Jan 02 10:29 : client: [10] opened from 127.0.0.1:48812
+Jan 02 10:29 : client: [10] closed
+Jan 02 10:30 : client: [11] opened from 127.0.0.1:48842
+Jan 02 10:30 : client: [11] closed
+Jan 02 10:31 : client: [12] opened from 127.0.0.1:48868
+Jan 02 10:31 : client: [12] closed
+Jan 02 10:31 : client: [13] opened from 127.0.0.1:48900
+Jan 02 10:31 : client: [13] closed
+Jan 02 10:32 : client: [14] opened from 127.0.0.1:48930
+Jan 02 10:32 : client: [14] closed
+Jan 02 10:33 : client: [15] opened from 127.0.0.1:48950
+Jan 02 10:33 : client: [15] closed
+Jan 02 10:33 : client: [16] opened from 127.0.0.1:48968
+Jan 02 10:33 : client: [16] closed
+Jan 02 10:34 : client: [17] opened from 127.0.0.1:48998
+Jan 02 10:34 : client: [17] closed
+Jan 02 10:34 : client: [18] opened from 127.0.0.1:49032
+Jan 02 10:34 : client: [18] closed
+Jan 02 10:35 : client: [19] opened from 127.0.0.1:49056
+Jan 02 10:35 : client: [19] closed
+Jan 02 10:36 : client: [20] opened from 127.0.0.1:49080
+Jan 02 10:36 : client: [20] closed
+Jan 02 10:36 : client: [21] opened from 127.0.0.1:49098
+Jan 02 10:36 : client: [21] closed
+Jan 02 10:37 : client: [22] opened from 127.0.0.1:49126
+Jan 02 10:37 : client: [22] closed
+Jan 02 10:37 : client: [23] opened from 127.0.0.1:49144
+Jan 02 10:37 : client: [23] closed
+Jan 02 10:38 : client: [24] opened from 127.0.0.1:49176
+Jan 02 10:38 : client: [24] closed
+Jan 02 10:39 : client: [25] opened from 127.0.0.1:49198
+Jan 02 10:39 : client: [25] closed
+Jan 02 10:39 : client: [26] opened from 127.0.0.1:49228
+Jan 02 10:39 : client: [26] closed
+Jan 02 10:40 : client: [27] opened from 127.0.0.1:49248
+Jan 02 10:40 : client: [27] closed
+Jan 02 10:41 : client: [28] opened from 127.0.0.1:49274
+Jan 02 10:41 : client: [28] closed
+Jan 02 10:41 : client: [29] opened from 127.0.0.1:49294
+Jan 02 10:41 : client: [29] closed
+Jan 02 10:41 : client: [30] opened from 127.0.0.1:49300
+Jan 02 10:41 : client: [30] closed
+Jan 02 10:42 : client: [31] opened from 127.0.0.1:49322
+Jan 02 10:42 : client: [31] closed
+Jan 02 10:42 : client: [32] opened from 127.0.0.1:49340
+Jan 02 10:42 : client: [32] closed
+Jan 02 10:43 : client: [33] opened from 127.0.0.1:49362
+Jan 02 10:43 : client: [33] closed
+Jan 02 10:44 : client: [34] opened from 127.0.0.1:49388
+Jan 02 10:44 : client: [34] closed
+Jan 02 10:44 : client: [35] opened from 127.0.0.1:49410
+Jan 02 10:44 : client: [35] closed
+Jan 02 10:45 : client: [36] opened from 127.0.0.1:49430
+Jan 02 10:45 : client: [36] closed
+Jan 02 10:46 : client: [37] opened from 127.0.0.1:49452
+Jan 02 10:46 : client: [37] closed
+Jan 02 10:46 : client: [38] opened from 127.0.0.1:49470
+Jan 02 10:46 : client: [38] closed
+Jan 02 10:47 : client: [39] opened from 127.0.0.1:49498
+Jan 02 10:47 : client: [39] closed
+Jan 02 10:47 : client: [40] opened from 127.0.0.1:49524
+Jan 02 10:47 : client: [40] closed
+Jan 02 10:48 : client: [41] opened from 127.0.0.1:49544
+Jan 02 10:48 : client: [41] closed
+Jan 02 10:49 : client: [42] opened from 127.0.0.1:49568
+Jan 02 10:49 : client: [42] closed
+Jan 02 10:49 : client: [43] opened from 127.0.0.1:49598
+Jan 02 10:49 : client: [43] closed
+Jan 02 10:50 : client: [44] opened from 127.0.0.1:49626
+Jan 02 10:50 : client: [44] closed
+Jan 02 10:51 : client: [45] opened from 127.0.0.1:49646
+Jan 02 10:51 : client: [45] closed
+Jan 02 10:51 : client: [46] opened from 127.0.0.1:49672
+Jan 02 10:51 : client: [46] closed
+Jan 02 10:52 : client: [47] opened from 127.0.0.1:49692
+Jan 02 10:52 : client: [47] closed
+Jan 02 10:52 : client: [48] opened from 127.0.0.1:49716
+Jan 02 10:52 : client: [48] closed
+Jan 02 10:53 : client: [49] opened from 127.0.0.1:49744
+Jan 02 10:53 : client: [49] closed
+Jan 02 10:54 : client: [50] opened from 127.0.0.1:49770
+Jan 02 10:54 : client: [50] closed
+Jan 02 10:54 : client: [51] opened from 127.0.0.1:49794
+Jan 02 10:54 : client: [51] closed
+Jan 02 10:55 : client: [52] opened from 127.0.0.1:49818
+Jan 02 10:55 : client: [52] closed
+Jan 02 10:56 : client: [53] opened from 127.0.0.1:49840
+Jan 02 10:56 : client: [53] closed
+Jan 02 10:56 : client: [54] opened from 127.0.0.1:49874
+Jan 02 10:56 : client: [54] closed
+Jan 02 10:57 : client: [55] opened from 127.0.0.1:49902
+Jan 02 10:57 : client: [55] closed
+Jan 02 10:58 : client: [56] opened from 127.0.0.1:49926
+Jan 02 10:58 : client: [56] closed
+Dec 08 04:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 04:00 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 08 04:00 : client: [0] opened from 127.0.0.1:39766
+Dec 08 04:02 : client: [0] closed
+Dec 08 04:02 : client: [1] opened from 127.0.0.1:39890
+Dec 08 04:13 : client: [1] closed
+Dec 08 04:13 : client: [2] opened from 127.0.0.1:40014
+Jan 01 16:47 : client: [3] opened from 127.0.0.1:41836
+Jan 01 16:47 : client: [3] closed
+Jan 01 16:48 : client: [4] opened from 127.0.0.1:41840
+Jan 01 16:48 : client: [4] closed
+Jan 01 20:59 : client: [5] opened from 127.0.0.1:41900
+Jan 01 20:59 : client: [5] closed
+Dec 08 04:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 04:01 : avahi: Service 'Music Player @ gus' successfully established.
+Dec 08 04:03 : client: [0] opened from 127.0.0.1:49366
+Dec 08 04:03 : client: [1] opened from 127.0.0.1:49370
+Dec 08 04:03 : client: [1] closed
+Dec 08 04:03 : client: [2] opened from 127.0.0.1:49372
+Dec 08 04:05 : client: [2] closed
+Dec 08 04:05 : client: [3] opened from 127.0.0.1:49394
+Dec 08 04:08 : client: [0] closed
+Dec 08 04:08 : client: [3] closed
+Dec 08 04:08 : avahi: Client Disconnected, will reconnect shortly
+Dec 08 04:08 : avahi: Client Disconnected, will reconnect shortly
+Dec 08 04:08 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Dec 08 03:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 03:59 : client: [0] opened from 127.0.0.1:53346
+Dec 08 03:59 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 02 21:28 : client: [0] closed
+Jan 02 21:29 : client: [1] opened from 127.0.0.1:53692
+Jan 02 21:29 : client: [1] closed
+Jan 02 21:29 : client: [2] opened from 127.0.0.1:53696
+Jan 02 21:30 : client: [2] closed
+Jan 02 21:30 : client: [3] opened from 127.0.0.1:53700
+Jan 02 21:31 : client: [3] closed
+Jan 02 21:31 : client: [4] opened from 127.0.0.1:53704
+Jan 02 21:31 : client: [4] closed
+Jan 02 21:31 : client: [5] opened from 127.0.0.1:53708
+Jan 02 21:31 : client: [5] closed
+Jan 02 21:31 : client: [6] opened from 127.0.0.1:53714
+Jan 02 21:31 : client: [6] closed
+Jan 02 21:31 : client: [7] opened from 127.0.0.1:53718
+Jan 02 21:31 : client: [7] closed
+Jan 02 21:31 : client: [8] opened from 127.0.0.1:53722
+Jan 02 21:31 : client: [8] closed
+Jan 02 21:31 : client: [9] opened from 127.0.0.1:53726
+Jan 02 21:32 : client: [9] closed
+Jan 02 21:32 : client: [10] opened from 127.0.0.1:53730
+Jan 02 21:32 : client: [10] closed
+Jan 02 22:52 : client: [11] opened from 127.0.0.1:54906
+Jan 02 22:52 : client: [11] closed
+Jan 02 22:52 : client: [12] opened from 127.0.0.1:54910
+Jan 02 22:52 : client: [12] closed
+Jan 02 22:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 22:54 : client: [0] opened from 127.0.0.1:47332
+Jan 02 22:54 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 02 22:57 : client: [0] closed
+Jan 02 23:40 : client: [1] opened from 127.0.0.1:47838
+Jan 02 23:55 : client: [2] opened from 127.0.0.1:48008
+Jan 02 23:55 : client: [2] closed
+Jan 02 23:55 : client: [3] opened from 127.0.0.1:48012
+Jan 02 23:55 : client: [3] closed
+Jan 02 23:55 : client: [4] opened from 127.0.0.1:48016
+Jan 02 23:55 : client: [4] closed
+Jan 02 23:55 : client: [5] opened from 127.0.0.1:48020
+Jan 02 23:55 : client: [5] closed
+Jan 02 23:55 : client: [6] opened from 127.0.0.1:48024
+Jan 02 23:55 : client: [6] closed
+Jan 03 00:12 : client: [7] opened from 127.0.0.1:48162
+Jan 03 00:12 : exception: Not playing
+Jan 03 00:12 : client: [7] closed
+Jan 03 04:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 04:27 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 03 04:27 : client: [0] opened from 127.0.0.1:53350
+Jan 03 04:34 : client: [0] closed
+Jan 03 04:34 : client: [1] opened from 127.0.0.1:53562
+Jan 03 04:36 : client: [1] closed
+Jan 03 04:36 : client: [2] opened from 127.0.0.1:53566
+Jan 03 04:37 : client: [2] closed
+Jan 03 04:37 : client: [3] opened from 127.0.0.1:53568
+Jan 03 04:37 : client: [3] closed
+Jan 03 04:37 : client: [4] opened from 127.0.0.1:53570
+Jan 03 05:18 : client: [5] opened from 127.0.0.1:53870
+Jan 03 05:18 : client: [5] closed
+Jan 03 06:18 : client: [6] opened from 127.0.0.1:53916
+Jan 03 06:18 : client: [6] closed
+Jan 03 08:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 08:36 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 03 08:36 : client: [0] opened from 127.0.0.1:33770
+Jan 03 07:47 : client: [0] closed
+Jan 03 07:47 : client: [1] opened from 127.0.0.1:33772
+Jan 03 07:47 : client: [1] closed
+Jan 03 07:47 : client: [2] opened from 127.0.0.1:33774
+Jan 03 07:48 : client: [2] closed
+Jan 03 07:48 : client: [3] opened from 127.0.0.1:33782
+Jan 03 08:52 : client: [3] closed
+Jan 03 08:52 : client: [4] opened from 127.0.0.1:33984
+Jan 03 08:52 : client: [5] opened from 127.0.0.1:33986
+Jan 03 08:53 : client: [4] closed
+Jan 03 09:18 : client: [6] opened from 127.0.0.1:34098
+Jan 03 09:18 : client: [6] closed
+Jan 08 15:01 : client: [7] opened from 127.0.0.1:37916
+Jan 08 15:01 : client: [7] closed
+Jan 08 15:04 : client: [8] opened from 127.0.0.1:39412
+Jan 08 15:04 : client: [8] closed
+Jan 08 15:04 : client: [9] opened from 127.0.0.1:39420
+Jan 08 15:04 : client: [9] closed
+Jan 08 17:54 : client: [10] opened from 127.0.0.1:39528
+Jan 08 17:54 : client: [10] closed
+Jan 08 17:54 : client: [11] opened from 127.0.0.1:39532
+Jan 08 17:54 : client: [11] closed
+Jan 08 17:55 : client: [12] opened from 127.0.0.1:39536
+Jan 08 17:55 : client: [12] closed
+Jan 08 17:55 : client: [13] opened from 127.0.0.1:39540
+Jan 08 17:55 : client: [13] closed
+Jan 08 17:56 : client: [14] opened from 127.0.0.1:39544
+Jan 08 17:56 : client: [14] closed
+Jan 08 17:56 : client: [15] opened from 127.0.0.1:39548
+Jan 08 17:56 : client: [15] closed
+Jan 08 17:56 : client: [16] opened from 127.0.0.1:39552
+Jan 08 17:56 : client: [16] closed
+Jan 08 17:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 08 17:56 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 08 17:56 : client: [0] opened from 127.0.0.1:59202
+Jan 09 23:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 23:15 : client: [0] opened from 127.0.0.1:45944
+Jan 09 23:15 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 10 02:44 : client: [1] opened from 127.0.0.1:46232
+Jan 10 02:44 : client: [1] closed
+Jan 10 04:19 : client: [2] opened from 127.0.0.1:46964
+Jan 10 04:19 : client: [2] closed
+Jan 10 04:19 : client: [3] opened from 127.0.0.1:46970
+Jan 10 04:19 : client: [4] opened from 127.0.0.1:46972
+Jan 10 04:19 : client: [4] closed
+Jan 10 04:19 : client: [3] closed
+Jan 10 04:19 : client: [5] opened from 127.0.0.1:46976
+Jan 10 04:19 : client: [5] closed
+Jan 10 21:26 : client: [6] opened from 127.0.0.1:47966
+Jan 10 21:26 : client: [6] closed
+Jan 10 21:54 : client: [7] opened from 127.0.0.1:48298
+Jan 10 21:54 : client: [7] closed
+Jan 10 22:12 : client: [0] closed
+Jan 10 22:12 : client: [8] opened from 127.0.0.1:48448
+Jan 11 00:05 : client: [9] opened from 127.0.0.1:49400
+Jan 11 00:05 : client: [9] closed
+Jan 10 23:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 23:56 : client: [0] opened from 127.0.0.1:53936
+Jan 11 00:28 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 12 22:40 : client: [1] opened from 127.0.0.1:54412
+Jan 12 22:40 : client: [1] closed
+Jan 13 00:00 : client: [2] opened from 127.0.0.1:54970
+Jan 13 00:00 : client: [2] closed
+Jan 13 00:02 : client: [3] opened from 127.0.0.1:54986
+Jan 13 00:02 : client: [3] closed
+Jan 13 00:02 : client: [4] opened from 127.0.0.1:54990
+Jan 13 00:02 : client: [4] closed
+Jan 13 00:04 : client: [5] opened from 127.0.0.1:55024
+Jan 13 00:04 : client: [5] closed
+Jan 13 00:04 : client: [6] opened from 127.0.0.1:55034
+Jan 13 00:04 : client: [6] closed
+Jan 13 00:05 : client: [7] opened from 127.0.0.1:55040
+Jan 13 00:05 : client: [7] closed
+Jan 13 00:06 : client: [8] opened from 127.0.0.1:55050
+Jan 13 00:06 : client: [8] closed
+Jan 13 00:54 : client: [9] opened from 127.0.0.1:55232
+Jan 13 00:54 : client: [9] closed
+Jan 13 11:07 : client: [10] opened from 127.0.0.1:55430
+Jan 13 11:07 : client: [10] closed
+Jan 13 11:53 : client: [11] opened from 127.0.0.1:55722
+Jan 13 11:53 : client: [11] closed
+Jan 13 14:31 : client: [12] opened from 127.0.0.1:56044
+Jan 13 14:31 : client: [12] closed
+Jan 13 16:02 : client: [13] opened from 127.0.0.1:56670
+Jan 13 16:02 : client: [13] closed
+Jan 13 16:12 : client: [0] closed
+Jan 13 16:12 : client: [14] opened from 127.0.0.1:56876
+Jan 13 20:34 : client: [15] opened from 127.0.0.1:57134
+Jan 13 20:34 : client: [15] closed
+Jan 13 21:13 : client: [16] opened from 127.0.0.1:57498
+Jan 13 21:13 : client: [16] closed
+Jan 13 21:40 : client: [17] opened from 127.0.0.1:57862
+Jan 13 21:40 : client: [17] closed
+Jan 13 22:35 : client: [18] opened from 127.0.0.1:58100
+Jan 13 22:35 : client: [18] closed
+Jan 13 22:35 : client: [19] opened from 127.0.0.1:58108
+Jan 13 22:35 : client: [20] opened from 127.0.0.1:58110
+Jan 13 22:35 : client: [19] closed
+Jan 13 22:35 : client: [20] closed
+Jan 13 23:19 : client: [21] opened from 127.0.0.1:58268
+Jan 13 23:19 : client: [21] closed
+Jan 14 12:07 : client: [22] opened from 127.0.0.1:58536
+Jan 14 12:07 : client: [22] closed
+Jan 14 12:45 : client: [23] opened from 127.0.0.1:59256
+Jan 14 12:45 : client: [23] closed
+Jan 14 21:37 : client: [24] opened from 127.0.0.1:59386
+Jan 14 21:37 : client: [24] closed
+Jan 14 21:56 : client: [14] closed
+Jan 14 21:56 : client: [25] opened from 127.0.0.1:59810
+Jan 14 21:56 : client: [25] closed
+Jan 14 21:56 : client: [26] opened from 127.0.0.1:59822
+Jan 14 22:02 : client: [26] closed
+Jan 14 22:02 : client: [27] opened from 127.0.0.1:59954
+Jan 14 22:26 : client: [28] opened from 127.0.0.1:60276
+Jan 14 22:26 : client: [28] closed
+Jan 14 23:45 : client: [29] opened from 127.0.0.1:60786
+Jan 14 23:45 : client: [29] closed
+Jan 14 23:45 : client: [30] opened from 127.0.0.1:60790
+Jan 14 23:45 : client: [30] closed
+Jan 15 00:02 : client: [31] opened from 127.0.0.1:60852
+Jan 15 00:02 : client: [31] closed
+Jan 15 00:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 15 00:10 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 15 00:10 : client: [0] opened from 127.0.0.1:43392
+Jan 15 14:05 : client: [1] opened from 127.0.0.1:43814
+Jan 15 14:05 : client: [1] closed
+Jan 15 14:38 : client: [2] opened from 127.0.0.1:44608
+Jan 15 14:38 : client: [2] closed
+Jan 15 14:38 : client: [3] opened from 127.0.0.1:44612
+Jan 15 14:38 : client: [3] closed
+Jan 15 14:39 : client: [4] opened from 127.0.0.1:44622
+Jan 15 14:39 : client: [4] closed
+Jan 15 14:46 : client: [5] opened from 127.0.0.1:44698
+Jan 15 14:46 : client: [5] closed
+Jan 15 14:46 : client: [6] opened from 127.0.0.1:44702
+Jan 15 14:46 : client: [6] closed
+Jan 15 16:46 : client: [7] opened from 127.0.0.1:45994
+Jan 15 16:46 : client: [7] closed
+Jan 15 16:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 15 16:46 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 15 16:46 : client: [0] opened from 127.0.0.1:50776
+Jan 15 20:02 : client: [0] closed
+Jan 15 20:02 : client: [1] opened from 127.0.0.1:50910
+Jan 15 20:11 : client: [1] closed
+Jan 15 20:11 : client: [2] opened from 127.0.0.1:51140
+Jan 15 20:52 : client: [3] opened from 127.0.0.1:51254
+Jan 15 20:52 : client: [3] closed
+Jan 15 21:20 : client: [4] opened from 127.0.0.1:51322
+Jan 15 21:20 : client: [4] closed
+Jan 15 22:21 : client: [5] opened from 127.0.0.1:51788
+Jan 15 22:21 : client: [5] closed
+Jan 15 23:53 : client: [6] opened from 127.0.0.1:52686
+Jan 15 23:53 : client: [6] closed
+Jan 15 23:53 : client: [7] opened from 127.0.0.1:52690
+Jan 15 23:53 : client: [7] closed
+Jan 15 23:53 : client: [8] opened from 127.0.0.1:52694
+Jan 15 23:53 : client: [8] closed
+Jan 16 00:10 : client: [9] opened from 127.0.0.1:52776
+Jan 16 00:10 : client: [9] closed
+Jan 16 08:34 : client: [10] opened from 127.0.0.1:52822
+Jan 16 08:34 : client: [10] closed
+Jan 16 08:52 : client: [11] opened from 127.0.0.1:52896
+Jan 16 08:52 : client: [11] closed
+Jan 16 08:52 : client: [2] closed
+Jan 16 08:52 : client: [12] opened from 127.0.0.1:52916
+Jan 16 10:10 : client: [13] opened from 127.0.0.1:53448
+Jan 16 10:10 : client: [13] closed
+Jan 16 10:11 : client: [14] opened from 127.0.0.1:53452
+Jan 16 10:11 : client: [14] closed
+Jan 16 10:37 : client: [15] opened from 127.0.0.1:53798
+Jan 16 10:37 : client: [15] closed
+Jan 16 11:51 : client: [16] opened from 127.0.0.1:50616
+Jan 16 11:51 : client: [16] closed
+Jan 16 11:51 : client: [17] opened from 127.0.0.1:50620
+Jan 16 11:51 : client: [17] closed
+Jan 16 12:17 : client: [18] opened from 127.0.0.1:34952
+Jan 16 12:17 : client: [18] closed
+Jan 16 12:18 : client: [19] opened from 127.0.0.1:35430
+Jan 16 12:18 : client: [19] closed
+Jan 16 13:18 : client: [20] opened from 127.0.0.1:36092
+Jan 16 14:07 : client: [20] closed
+Jan 16 15:39 : client: [12] closed
+Jan 16 15:39 : client: [21] opened from 127.0.0.1:52964
+Jan 16 15:39 : client: [21] closed
+Jan 16 15:39 : client: [22] opened from 127.0.0.1:53198
+Jan 16 15:39 : client: [23] opened from 127.0.0.1:53200
+Jan 16 15:40 : client: [22] closed
+Jan 16 15:40 : client: [23] closed
+Jan 16 15:40 : client: [24] opened from 127.0.0.1:53370
+Jan 16 15:40 : client: [25] opened from 127.0.0.1:53372
+Jan 16 15:40 : client: [25] closed
+Jan 16 15:40 : client: [24] closed
+Jan 16 15:40 : client: [26] opened from 127.0.0.1:53374
+Jan 16 15:40 : client: [27] opened from 127.0.0.1:53376
+Jan 16 15:40 : client: [26] closed
+Jan 16 15:40 : client: [27] closed
+Jan 16 15:40 : client: [28] opened from 127.0.0.1:53378
+Jan 16 15:40 : client: [29] opened from 127.0.0.1:53380
+Jan 16 15:40 : client: [28] closed
+Jan 16 15:40 : client: [29] closed
+Jan 16 15:40 : client: [30] opened from 127.0.0.1:53382
+Jan 16 15:40 : client: [31] opened from 127.0.0.1:53384
+Jan 16 15:40 : client: [30] closed
+Jan 16 15:40 : client: [31] closed
+Jan 16 15:40 : client: [32] opened from 127.0.0.1:53386
+Jan 16 20:29 : client: [33] opened from 127.0.0.1:53576
+Jan 16 20:29 : client: [33] closed
+Jan 16 21:00 : client: [34] opened from 127.0.0.1:53824
+Jan 16 21:00 : client: [34] closed
+Jan 16 21:00 : client: [35] opened from 127.0.0.1:53828
+Jan 16 21:00 : client: [35] closed
+Jan 16 21:11 : client: [36] opened from 127.0.0.1:53846
+Jan 16 21:11 : client: [36] closed
+Jan 16 22:40 : client: [37] opened from 127.0.0.1:54368
+Jan 16 22:40 : client: [37] closed
+Jan 16 23:04 : client: [38] opened from 127.0.0.1:54560
+Jan 16 23:04 : client: [38] closed
+Jan 17 00:29 : client: [39] opened from 127.0.0.1:55150
+Jan 17 00:29 : exception: Not playing
+Jan 17 00:29 : client: [39] closed
+Jan 17 00:51 : client: [40] opened from 127.0.0.1:55294
+Jan 17 00:51 : client: [40] closed
+Jan 17 15:41 : client: [41] opened from 127.0.0.1:55626
+Jan 17 15:41 : client: [41] closed
+Jan 17 15:42 : client: [32] closed
+Jan 17 15:42 : client: [42] opened from 127.0.0.1:55652
+Jan 17 15:42 : client: [42] closed
+Jan 17 15:42 : client: [43] opened from 127.0.0.1:55654
+Jan 17 15:42 : client: [43] closed
+Jan 17 15:42 : client: [44] opened from 127.0.0.1:55656
+Jan 17 15:54 : client: [45] opened from 127.0.0.1:55666
+Jan 17 15:54 : client: [45] closed
+Jan 17 16:21 : client: [46] opened from 127.0.0.1:55988
+Jan 17 16:21 : client: [46] closed
+Jan 17 16:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 16:33 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 17 16:33 : client: [0] opened from 127.0.0.1:41644
+Jan 17 17:50 : client: [0] closed
+Jan 17 17:50 : client: [1] opened from 127.0.0.1:41652
+Jan 17 17:50 : client: [2] opened from 127.0.0.1:41654
+Jan 17 17:50 : client: [1] closed
+Jan 17 17:50 : client: [2] closed
+Jan 17 17:50 : client: [3] opened from 127.0.0.1:41656
+Jan 17 17:50 : client: [4] opened from 127.0.0.1:41658
+Jan 17 17:50 : client: [4] closed
+Jan 17 17:50 : client: [3] closed
+Jan 17 17:50 : client: [5] opened from 127.0.0.1:41660
+Jan 17 17:50 : client: [6] opened from 127.0.0.1:41662
+Jan 17 17:51 : client: [6] closed
+Jan 17 17:51 : client: [5] closed
+Jan 17 17:51 : client: [7] opened from 127.0.0.1:41664
+Jan 17 17:51 : client: [8] opened from 127.0.0.1:41666
+Jan 17 17:51 : client: [7] closed
+Jan 17 17:51 : client: [8] closed
+Jan 17 17:53 : client: [9] opened from 127.0.0.1:41764
+Jan 17 17:53 : client: [10] opened from 127.0.0.1:41766
+Jan 17 17:54 : client: [9] closed
+Jan 17 17:54 : client: [10] closed
+Jan 17 17:54 : client: [11] opened from 127.0.0.1:41768
+Jan 17 17:54 : client: [12] opened from 127.0.0.1:41770
+Jan 17 17:54 : client: [12] closed
+Jan 17 17:54 : client: [11] closed
+Jan 17 17:54 : client: [13] opened from 127.0.0.1:41772
+Jan 17 17:54 : client: [14] opened from 127.0.0.1:41774
+Jan 17 17:55 : client: [14] closed
+Jan 17 17:55 : client: [13] closed
+Jan 17 17:55 : client: [15] opened from 127.0.0.1:41780
+Jan 17 17:55 : client: [16] opened from 127.0.0.1:41782
+Jan 17 18:08 : client: [17] opened from 127.0.0.1:42058
+Jan 17 18:08 : client: [17] closed
+Jan 17 18:08 : client: [18] opened from 127.0.0.1:42066
+Jan 17 18:08 : client: [18] closed
+Jan 17 18:18 : client: [19] opened from 127.0.0.1:42094
+Jan 17 18:18 : client: [19] closed
+Jan 17 18:19 : client: [20] opened from 127.0.0.1:42098
+Jan 17 18:19 : client: [20] closed
+Jan 17 21:25 : client: [21] opened from 127.0.0.1:42416
+Jan 17 21:25 : client: [21] closed
+Jan 17 21:25 : client: [15] closed
+Jan 17 21:25 : client: [16] closed
+Jan 17 21:25 : client: [22] opened from 127.0.0.1:42418
+Jan 17 21:25 : client: [23] opened from 127.0.0.1:42420
+Jan 17 21:26 : client: [23] closed
+Jan 17 21:26 : client: [22] closed
+Jan 17 21:26 : client: [24] opened from 127.0.0.1:42456
+Jan 17 22:16 : client: [25] opened from 127.0.0.1:38408
+Jan 17 22:16 : client: [25] closed
+Jan 17 22:17 : client: [26] opened from 127.0.0.1:38884
+Jan 17 22:17 : client: [26] closed
+Jan 17 22:50 : client: [27] opened from 127.0.0.1:54576
+Jan 17 22:50 : client: [27] closed
+Jan 17 22:51 : client: [28] opened from 127.0.0.1:55054
+Jan 17 22:51 : client: [28] closed
+Jan 17 23:14 : client: [24] closed
+Jan 17 23:14 : client: [29] opened from 127.0.0.1:37940
+Jan 17 23:14 : client: [29] closed
+Jan 17 23:17 : client: [30] opened from 127.0.0.1:39830
+Jan 17 23:17 : client: [30] closed
+Jan 17 23:17 : client: [31] opened from 127.0.0.1:39922
+Jan 17 23:17 : client: [31] closed
+Jan 17 23:19 : client: [32] opened from 127.0.0.1:40640
+Jan 17 23:23 : client: [32] closed
+Jan 17 23:23 : client: [33] opened from 127.0.0.1:42566
+Jan 17 23:23 : client: [33] closed
+Jan 18 00:28 : client: [34] opened from 127.0.0.1:45802
+Jan 18 00:28 : client: [34] closed
+Jan 18 00:29 : client: [35] opened from 127.0.0.1:46128
+Jan 18 03:26 : client: [36] opened from 127.0.0.1:54254
+Jan 18 03:26 : client: [36] closed
+Jan 18 15:24 : client: [37] opened from 127.0.0.1:54472
+Jan 18 15:24 : client: [37] closed
+Jan 18 18:41 : client: [38] opened from 127.0.0.1:54852
+Jan 18 18:41 : client: [38] closed
+Jan 18 19:20 : client: [39] opened from 127.0.0.1:55596
+Jan 18 19:20 : client: [39] closed
+Jan 18 19:20 : client: [40] opened from 127.0.0.1:55600
+Jan 18 19:20 : client: [40] closed
+Jan 18 19:25 : client: [41] opened from 127.0.0.1:55608
+Jan 18 19:25 : client: [41] closed
+Jan 18 22:27 : client: [42] opened from 127.0.0.1:56198
+Jan 18 22:27 : client: [42] closed
+Jan 18 22:54 : client: [43] opened from 127.0.0.1:56202
+Jan 18 22:54 : client: [43] closed
+Jan 18 23:24 : client: [44] opened from 127.0.0.1:56438
+Jan 18 23:24 : client: [44] closed
+Jan 18 23:36 : client: [45] opened from 127.0.0.1:56824
+Jan 18 23:36 : client: [45] closed
+Jan 18 23:36 : client: [35] closed
+Jan 18 23:37 : client: [46] opened from 127.0.0.1:56870
+Jan 19 00:46 : client: [47] opened from 127.0.0.1:57400
+Jan 19 00:46 : client: [47] closed
+Jan 19 00:46 : client: [48] opened from 127.0.0.1:57406
+Jan 19 00:46 : client: [48] closed
+Jan 19 01:04 : client: [49] opened from 127.0.0.1:57458
+Jan 19 01:04 : exception: Not playing
+Jan 19 01:04 : client: [49] closed
+Jan 19 01:40 : client: [50] opened from 127.0.0.1:57656
+Jan 19 01:40 : client: [50] closed
+Jan 19 01:41 : client: [51] opened from 127.0.0.1:57660
+Jan 19 01:41 : client: [51] closed
+Jan 19 01:41 : client: [52] opened from 127.0.0.1:57686
+Jan 19 01:41 : client: [52] closed
+Jan 19 01:42 : client: [53] opened from 127.0.0.1:57710
+Jan 19 01:42 : client: [53] closed
+Jan 19 01:42 : client: [54] opened from 127.0.0.1:57730
+Jan 19 01:42 : client: [54] closed
+Jan 19 01:43 : client: [55] opened from 127.0.0.1:57746
+Jan 19 01:43 : client: [55] closed
+Jan 19 01:44 : client: [56] opened from 127.0.0.1:57764
+Jan 19 01:44 : client: [56] closed
+Jan 19 01:44 : client: [57] opened from 127.0.0.1:57794
+Jan 19 01:44 : client: [57] closed
+Jan 19 01:45 : client: [58] opened from 127.0.0.1:57812
+Jan 19 01:45 : client: [58] closed
+Jan 19 01:46 : client: [59] opened from 127.0.0.1:57830
+Jan 19 01:46 : client: [59] closed
+Jan 19 01:46 : client: [60] opened from 127.0.0.1:57852
+Jan 19 01:46 : client: [60] closed
+Jan 19 01:47 : client: [61] opened from 127.0.0.1:57868
+Jan 19 01:47 : client: [61] closed
+Jan 19 01:47 : client: [62] opened from 127.0.0.1:57892
+Jan 19 01:47 : client: [62] closed
+Jan 19 01:48 : client: [63] opened from 127.0.0.1:57916
+Jan 19 01:48 : client: [63] closed
+Jan 19 01:49 : client: [64] opened from 127.0.0.1:57942
+Jan 19 01:49 : client: [64] closed
+Jan 19 01:49 : client: [65] opened from 127.0.0.1:57960
+Jan 19 01:49 : client: [65] closed
+Jan 19 01:50 : client: [66] opened from 127.0.0.1:57980
+Jan 19 01:50 : client: [66] closed
+Jan 19 01:51 : client: [67] opened from 127.0.0.1:58004
+Jan 19 01:51 : client: [67] closed
+Jan 19 01:51 : client: [68] opened from 127.0.0.1:58018
+Jan 19 01:51 : client: [68] closed
+Jan 19 01:52 : client: [69] opened from 127.0.0.1:58036
+Jan 19 01:52 : client: [69] closed
+Jan 19 01:52 : client: [70] opened from 127.0.0.1:58050
+Jan 19 01:52 : client: [70] closed
+Jan 19 01:53 : client: [71] opened from 127.0.0.1:58062
+Jan 19 01:53 : client: [71] closed
+Jan 19 01:54 : client: [72] opened from 127.0.0.1:58076
+Jan 19 01:54 : client: [72] closed
+Jan 19 01:54 : client: [73] opened from 127.0.0.1:58094
+Jan 19 01:54 : client: [73] closed
+Jan 19 01:55 : client: [74] opened from 127.0.0.1:58116
+Jan 19 01:55 : client: [74] closed
+Jan 19 01:56 : client: [75] opened from 127.0.0.1:58132
+Jan 19 01:56 : client: [75] closed
+Jan 19 01:56 : client: [76] opened from 127.0.0.1:58152
+Jan 19 01:56 : client: [76] closed
+Jan 19 01:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 01:07 : client: [0] opened from 127.0.0.1:50210
+Jan 19 01:07 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 19 18:17 : client: [1] opened from 127.0.0.1:50534
+Jan 19 18:17 : client: [1] closed
+Jan 19 18:59 : client: [2] opened from 127.0.0.1:50842
+Jan 19 18:59 : client: [2] closed
+Jan 19 19:06 : client: [0] closed
+Jan 19 19:06 : client: [3] opened from 127.0.0.1:51010
+Jan 19 19:06 : client: [3] closed
+Jan 19 19:28 : client: [4] opened from 127.0.0.1:51216
+Jan 19 19:28 : client: [4] closed
+Jan 19 19:44 : client: [5] opened from 127.0.0.1:51322
+Jan 19 19:44 : client: [6] opened from 127.0.0.1:51324
+Jan 19 19:45 : client: [6] closed
+Jan 19 19:45 : client: [5] closed
+Jan 19 19:45 : client: [7] opened from 127.0.0.1:51326
+Jan 19 19:45 : client: [8] opened from 127.0.0.1:51328
+Jan 19 21:06 : client: [9] opened from 127.0.0.1:51816
+Jan 19 21:06 : client: [9] closed
+Jan 19 21:51 : client: [10] opened from 127.0.0.1:52174
+Jan 19 21:51 : client: [10] closed
+Jan 19 23:17 : client: [11] opened from 127.0.0.1:53722
+Jan 19 23:17 : client: [11] closed
+Jan 20 00:21 : client: [8] closed
+Jan 20 00:21 : client: [7] closed
+Jan 20 00:21 : client: [12] opened from 127.0.0.1:54124
+Jan 20 00:31 : client: [12] closed
+Jan 20 00:31 : client: [13] opened from 127.0.0.1:54188
+Jan 20 00:32 : client: [13] closed
+Jan 20 00:32 : client: [14] opened from 127.0.0.1:54302
+Jan 20 00:32 : client: [14] closed
+Jan 20 00:32 : client: [15] opened from 127.0.0.1:54304
+Jan 20 00:33 : client: [16] opened from 127.0.0.1:54308
+Jan 20 00:33 : client: [16] closed
+Jan 20 00:33 : client: [17] opened from 127.0.0.1:54312
+Jan 20 00:33 : client: [17] closed
+Jan 20 00:33 : client: [15] closed
+Jan 20 00:33 : client: [18] opened from 127.0.0.1:54314
+Jan 20 00:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 00:36 : client: [0] opened from 127.0.0.1:46090
+Jan 20 00:36 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 20 02:35 : client: [1] opened from 127.0.0.1:46702
+Jan 20 02:35 : client: [1] closed
+Jan 20 11:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 11:40 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 20 11:40 : client: [0] opened from 127.0.0.1:48414
+Jan 20 12:46 : client: [1] opened from 127.0.0.1:49184
+Jan 20 12:46 : client: [1] closed
+Jan 20 13:07 : client: [2] opened from 127.0.0.1:49388
+Jan 20 13:07 : client: [2] closed
+Jan 20 13:08 : client: [3] opened from 127.0.0.1:49392
+Jan 20 13:08 : client: [3] closed
+Jan 20 16:01 : client: [4] opened from 127.0.0.1:50268
+Jan 20 16:01 : client: [4] closed
+Jan 20 17:23 : client: [5] opened from 127.0.0.1:51406
+Jan 20 17:23 : client: [5] closed
+Jan 20 18:06 : client: [0] closed
+Jan 20 18:06 : client: [6] opened from 127.0.0.1:51486
+Jan 20 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 18:18 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 20 18:18 : client: [0] opened from 127.0.0.1:43390
+Jan 20 18:47 : client: [1] opened from 127.0.0.1:43800
+Jan 20 18:47 : client: [1] closed
+Jan 20 20:00 : client: [2] opened from 127.0.0.1:44182
+Jan 20 20:00 : client: [2] closed
+Jan 20 21:05 : client: [3] opened from 127.0.0.1:44838
+Jan 20 21:05 : client: [3] closed
+Jan 21 12:42 : client: [4] opened from 127.0.0.1:46676
+Jan 21 12:42 : client: [4] closed
+Jan 21 12:42 : client: [0] closed
+Jan 21 12:42 : client: [5] opened from 127.0.0.1:46680
+Jan 21 12:42 : client: [5] closed
+Jan 21 12:42 : client: [6] opened from 127.0.0.1:46682
+Jan 21 12:42 : client: [7] opened from 127.0.0.1:46684
+Jan 21 14:03 : client: [8] opened from 127.0.0.1:47928
+Jan 21 14:03 : client: [8] closed
+Jan 21 14:13 : client: [9] opened from 127.0.0.1:48164
+Jan 21 14:13 : client: [9] closed
+Jan 21 14:39 : client: [10] opened from 127.0.0.1:49992
+Jan 21 14:39 : client: [10] closed
+Jan 21 15:31 : client: [6] closed
+Jan 21 15:31 : client: [7] closed
+Jan 21 15:32 : client: [11] opened from 127.0.0.1:47010
+Jan 21 15:32 : client: [12] opened from 127.0.0.1:47014
+Jan 21 15:32 : client: [12] closed
+Jan 21 15:32 : client: [13] opened from 127.0.0.1:47016
+Jan 21 15:32 : client: [13] closed
+Jan 21 15:32 : client: [14] opened from 127.0.0.1:47020
+Jan 21 15:32 : client: [15] opened from 127.0.0.1:47022
+Jan 21 16:03 : client: [16] opened from 127.0.0.1:47430
+Jan 21 16:03 : client: [16] closed
+Jan 21 17:15 : client: [17] opened from 127.0.0.1:48118
+Jan 21 17:15 : client: [17] closed
+Jan 21 17:15 : client: [18] opened from 127.0.0.1:48122
+Jan 21 17:15 : client: [18] closed
+Jan 21 17:17 : client: [19] opened from 127.0.0.1:48146
+Jan 21 17:17 : client: [20] opened from 127.0.0.1:48150
+Jan 21 17:17 : client: [20] closed
+Jan 21 17:17 : client: [19] closed
+Jan 21 17:18 : client: [21] opened from 127.0.0.1:48170
+Jan 21 17:18 : client: [21] closed
+Jan 21 17:18 : client: [22] opened from 127.0.0.1:48174
+Jan 21 17:18 : client: [22] closed
+Jan 21 17:18 : client: [23] opened from 127.0.0.1:48188
+Jan 21 17:18 : client: [23] closed
+Jan 21 17:18 : client: [24] opened from 127.0.0.1:48192
+Jan 21 17:23 : client: [25] opened from 127.0.0.1:48312
+Jan 21 17:23 : client: [25] closed
+Jan 21 17:23 : client: [26] opened from 127.0.0.1:48320
+Jan 21 17:23 : client: [26] closed
+Jan 21 17:23 : client: [27] opened from 127.0.0.1:48324
+Jan 21 17:23 : client: [27] closed
+Jan 21 17:23 : client: [28] opened from 127.0.0.1:48328
+Jan 21 17:23 : client: [28] closed
+Jan 21 17:23 : client: [29] opened from 127.0.0.1:48332
+Jan 21 17:23 : client: [29] closed
+Jan 21 17:23 : client: [30] opened from 127.0.0.1:48336
+Jan 21 17:23 : client: [30] closed
+Jan 21 17:23 : client: [31] opened from 127.0.0.1:48344
+Jan 21 17:23 : client: [31] closed
+Jan 21 17:23 : client: [32] opened from 127.0.0.1:48348
+Jan 21 17:23 : client: [32] closed
+Jan 21 17:23 : client: [33] opened from 127.0.0.1:48352
+Jan 21 17:23 : client: [33] closed
+Jan 21 18:05 : client: [34] opened from 127.0.0.1:56978
+Jan 21 18:05 : client: [34] closed
+Jan 21 18:06 : client: [35] opened from 127.0.0.1:57458
+Jan 21 18:06 : client: [35] closed
+Jan 21 18:30 : client: [36] opened from 127.0.0.1:40962
+Jan 21 18:30 : client: [36] closed
+Jan 21 19:19 : client: [37] opened from 127.0.0.1:36788
+Jan 21 19:19 : client: [37] closed
+Jan 21 19:20 : client: [38] opened from 127.0.0.1:37198
+Jan 21 19:20 : client: [38] closed
+                                                                                                                                            Jan 21 19:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 19:45 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 21 20:19 : client: [0] opened from 127.0.0.1:48756
+Jan 21 20:19 : client: [1] opened from 127.0.0.1:48760
+Jan 21 20:19 : client: [1] closed
+Jan 21 20:19 : client: [2] opened from 127.0.0.1:48762
+Jan 21 20:22 : client: [3] opened from 127.0.0.1:48976
+Jan 21 20:22 : client: [3] closed
+Jan 21 20:23 : client: [2] closed
+Jan 21 20:23 : client: [4] opened from 127.0.0.1:48982
+Jan 21 20:23 : client: [4] closed
+Jan 21 20:23 : client: [5] opened from 127.0.0.1:48984
+Jan 21 20:24 : client: [5] closed
+Jan 21 20:24 : client: [6] opened from 127.0.0.1:48988
+Jan 21 20:24 : client: [6] closed
+Jan 21 20:24 : client: [7] opened from 127.0.0.1:48992
+Jan 21 20:24 : client: [8] opened from 127.0.0.1:48994
+Jan 21 21:18 : client: [8] closed
+Jan 21 21:18 : client: [7] closed
+Jan 21 21:18 : client: [9] opened from 127.0.0.1:49780
+Jan 21 21:18 : client: [10] opened from 127.0.0.1:49782
+Jan 21 21:18 : client: [10] closed
+Jan 21 21:18 : client: [9] closed
+Jan 21 21:18 : client: [11] opened from 127.0.0.1:49784
+Jan 21 22:11 : client: [0] closed
+Jan 21 22:11 : client: [11] closed
+Jan 21 22:11 : avahi: Client Disconnected, will reconnect shortly
+Jan 21 22:11 : avahi: Client Disconnected, will reconnect shortly
+Jan 21 22:11 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jan 21 22:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 22:13 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 21 22:13 : client: [0] opened from 127.0.0.1:34466
+Jan 21 23:07 : client: [1] opened from 127.0.0.1:35120
+Jan 21 23:07 : client: [1] closed
+Jan 21 23:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:11 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 21 23:11 : client: [0] opened from 127.0.0.1:42052
+Jan 21 23:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:15 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 21 23:15 : client: [0] opened from 127.0.0.1:52866
+Jan 22 12:02 : client: [1] opened from 127.0.0.1:54190
+Jan 22 12:02 : client: [1] closed
+Jan 22 12:02 : client: [0] closed
+Jan 22 12:02 : client: [2] opened from 127.0.0.1:54192
+Jan 22 12:04 : client: [2] closed
+Jan 22 12:04 : client: [3] opened from 127.0.0.1:54222
+Jan 22 12:04 : client: [4] opened from 127.0.0.1:54224
+Jan 22 13:17 : client: [5] opened from 127.0.0.1:55516
+Jan 22 13:17 : client: [5] closed
+Jan 22 13:18 : client: [6] opened from 127.0.0.1:55522
+Jan 22 13:18 : client: [6] closed
+Jan 22 13:27 : client: [7] opened from 127.0.0.1:55568
+Jan 22 13:27 : client: [7] closed
+Jan 22 13:27 : client: [8] opened from 127.0.0.1:55572
+Jan 22 13:27 : client: [8] closed
+Jan 22 15:22 : client: [9] opened from 127.0.0.1:56256
+Jan 22 15:22 : client: [9] closed
+Jan 22 15:23 : client: [10] opened from 127.0.0.1:56262
+Jan 22 15:23 : client: [10] closed
+Jan 22 17:48 : client: [11] opened from 127.0.0.1:40858
+Jan 22 17:48 : client: [11] closed
+Jan 22 18:45 : client: [12] opened from 127.0.0.1:40386
+Jan 22 18:45 : client: [12] closed
+Jan 22 20:05 : client: [13] opened from 127.0.0.1:50590
+Jan 22 20:05 : client: [13] closed
+Jan 22 23:08 : client: [14] opened from 127.0.0.1:56306
+Jan 22 23:08 : client: [14] closed
+Jan 22 23:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 23:28 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 22 23:28 : client: [0] opened from 127.0.0.1:37294
+Jan 23 12:46 : client: [1] opened from 127.0.0.1:38316
+Jan 23 12:46 : client: [1] closed
+Jan 23 15:56 : client: [2] opened from 127.0.0.1:39856
+Jan 23 15:56 : client: [2] closed
+Jan 23 16:03 : client: [3] opened from 127.0.0.1:39926
+Jan 23 16:03 : client: [3] closed
+Jan 23 16:04 : client: [4] opened from 127.0.0.1:39958
+Jan 23 16:04 : client: [4] closed
+Jan 23 18:03 : client: [5] opened from 127.0.0.1:40550
+Jan 23 18:03 : client: [5] closed
+Jan 23 20:23 : client: [6] opened from 127.0.0.1:40730
+Jan 23 20:23 : client: [6] closed
+Jan 23 21:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 21:06 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 23 21:06 : client: [0] opened from 127.0.0.1:37548
+Jan 23 21:11 : client: [1] opened from 127.0.0.1:37774
+Jan 23 21:11 : client: [1] closed
+Jan 23 21:25 : client: [0] closed
+Jan 23 21:25 : client: [2] opened from 127.0.0.1:37932
+Jan 23 21:25 : client: [2] closed
+Jan 23 21:25 : client: [3] opened from 127.0.0.1:37934
+Jan 23 21:25 : client: [3] closed
+Jan 23 21:25 : client: [4] opened from 127.0.0.1:37936
+Jan 23 21:25 : client: [4] closed
+Jan 23 21:25 : client: [5] opened from 127.0.0.1:37938
+Jan 23 22:11 : client: [6] opened from 127.0.0.1:38474
+Jan 23 22:11 : client: [6] closed
+Jan 23 23:00 : client: [7] opened from 127.0.0.1:39204
+Jan 23 23:00 : client: [7] closed
+Jan 24 00:56 : client: [8] opened from 127.0.0.1:40028
+Jan 24 00:56 : client: [8] closed
+Jan 24 12:54 : client: [9] opened from 127.0.0.1:40618
+Jan 24 12:54 : client: [9] closed
+Jan 24 13:34 : client: [10] opened from 127.0.0.1:42628
+Jan 24 13:34 : client: [10] closed
+Jan 24 13:36 : client: [11] opened from 127.0.0.1:42662
+Jan 24 13:36 : client: [11] closed
+Jan 24 13:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 24 13:55 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 24 13:57 : client: [0] opened from 127.0.0.1:55804
+Jan 24 13:57 : client: [1] opened from 127.0.0.1:55808
+Jan 24 13:57 : client: [1] closed
+Jan 24 13:57 : client: [2] opened from 127.0.0.1:55810
+Jan 24 16:08 : client: [2] closed
+Jan 24 16:08 : client: [3] opened from 127.0.0.1:56034
+Jan 24 16:08 : client: [4] opened from 127.0.0.1:56036
+Jan 24 17:52 : client: [5] opened from 127.0.0.1:56790
+Jan 24 17:52 : client: [5] closed
+Jan 24 17:53 : client: [6] opened from 127.0.0.1:56794
+Jan 24 17:53 : client: [6] closed
+Jan 24 20:11 : client: [7] opened from 127.0.0.1:56990
+Jan 24 20:11 : client: [7] closed
+Jan 24 20:34 : client: [8] opened from 127.0.0.1:57212
+Jan 24 20:34 : client: [8] closed
+Jan 24 20:35 : client: [9] opened from 127.0.0.1:57216
+Jan 24 20:35 : client: [9] closed
+Jan 24 21:37 : client: [3] closed
+Jan 24 21:37 : client: [4] closed
+Jan 24 21:37 : client: [10] opened from 127.0.0.1:57644
+Jan 24 22:53 : client: [11] opened from 127.0.0.1:58284
+Jan 24 22:53 : client: [11] closed
+Jan 24 22:53 : client: [10] closed
+Jan 24 22:53 : client: [12] opened from 127.0.0.1:58286
+Jan 24 22:53 : client: [12] closed
+Jan 24 22:53 : client: [13] opened from 127.0.0.1:58314
+Jan 24 22:53 : client: [14] opened from 127.0.0.1:58316
+Jan 24 23:19 : client: [13] closed
+Jan 24 23:19 : client: [14] closed
+Jan 24 23:19 : client: [15] opened from 127.0.0.1:58830
+Jan 24 23:19 : client: [16] opened from 127.0.0.1:58832
+Jan 24 23:19 : client: [16] closed
+Jan 24 23:19 : client: [15] closed
+Jan 24 23:19 : client: [17] opened from 127.0.0.1:58836
+Jan 24 23:19 : client: [18] opened from 127.0.0.1:58838
+Jan 24 23:32 : client: [19] opened from 127.0.0.1:58942
+Jan 24 23:32 : client: [19] closed
+Jan 25 00:00 : client: [20] opened from 127.0.0.1:59124
+Jan 25 00:00 : client: [20] closed
+Jan 25 00:26 : client: [18] closed
+Jan 25 00:26 : client: [17] closed
+Jan 25 00:26 : client: [21] opened from 127.0.0.1:59316
+Jan 25 00:26 : client: [22] opened from 127.0.0.1:59318
+Jan 25 01:12 : client: [23] opened from 127.0.0.1:59668
+Jan 25 01:12 : client: [23] closed
+Jan 25 01:12 : client: [24] opened from 127.0.0.1:59672
+Jan 25 01:12 : client: [24] closed
+Jan 25 01:19 : client: [21] closed
+Jan 25 01:19 : client: [22] closed
+Jan 25 01:19 : client: [25] opened from 127.0.0.1:59704
+Jan 25 13:11 : client: [26] opened from 127.0.0.1:59900
+Jan 25 13:11 : client: [26] closed
+Jan 25 13:11 : client: [25] closed
+Jan 25 13:11 : client: [27] opened from 127.0.0.1:59902
+Jan 25 13:15 : client: [27] closed
+Jan 25 13:15 : client: [28] opened from 127.0.0.1:59906
+Jan 25 13:15 : client: [29] opened from 127.0.0.1:59908
+Jan 25 13:59 : client: [30] opened from 127.0.0.1:60372
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [30] closed
+Jan 25 13:59 : client: [31] opened from 127.0.0.1:60376
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [31] closed
+Jan 25 13:59 : client: [32] opened from 127.0.0.1:60380
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [32] closed
+Jan 25 13:59 : client: [33] opened from 127.0.0.1:60384
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [33] closed
+Jan 25 13:59 : client: [34] opened from 127.0.0.1:60388
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [34] closed
+Jan 25 13:59 : client: [35] opened from 127.0.0.1:60392
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [35] closed
+Jan 25 13:59 : client: [36] opened from 127.0.0.1:60396
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [36] closed
+Jan 25 13:59 : client: [37] opened from 127.0.0.1:60400
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [37] closed
+Jan 25 13:59 : client: [38] opened from 127.0.0.1:60404
+Jan 25 13:59 : exception: Not playing
+Jan 25 13:59 : client: [38] closed
+Jan 25 14:52 : client: [39] opened from 127.0.0.1:60678
+Jan 25 14:52 : client: [39] closed
+Jan 25 14:57 : client: [28] closed
+Jan 25 14:57 : client: [29] closed
+Jan 25 15:35 : client: [40] opened from 127.0.0.1:60696
+Jan 25 15:35 : client: [40] closed
+Jan 25 15:35 : client: [41] opened from 127.0.0.1:60698
+Jan 25 15:35 : client: [42] opened from 127.0.0.1:60700
+Jan 25 15:35 : client: [41] closed
+Jan 25 15:35 : client: [42] closed
+Jan 25 15:35 : client: [43] opened from 127.0.0.1:60702
+Jan 25 16:29 : client: [44] opened from 127.0.0.1:60850
+Jan 25 16:29 : client: [44] closed
+Jan 25 16:29 : client: [43] closed
+Jan 25 16:29 : client: [45] opened from 127.0.0.1:60852
+Jan 25 16:30 : client: [45] closed
+Jan 25 16:30 : client: [46] opened from 127.0.0.1:60894
+Jan 25 16:30 : client: [47] opened from 127.0.0.1:60896
+Jan 25 17:35 : client: [48] opened from 127.0.0.1:33138
+Jan 25 17:35 : client: [48] closed
+Jan 25 18:49 : client: [49] opened from 127.0.0.1:33372
+Jan 25 18:49 : client: [49] closed
+Jan 25 19:39 : client: [46] closed
+Jan 25 19:39 : client: [47] closed
+Jan 25 19:39 : client: [50] opened from 127.0.0.1:33824
+Jan 25 19:51 : client: [51] opened from 127.0.0.1:33854
+Jan 25 19:51 : client: [51] closed
+Jan 25 19:51 : client: [50] closed
+Jan 25 19:51 : client: [52] opened from 127.0.0.1:33870
+Jan 25 19:51 : client: [52] closed
+Jan 25 19:51 : client: [53] opened from 127.0.0.1:33878
+Jan 25 19:51 : client: [54] opened from 127.0.0.1:33880
+Jan 25 21:40 : client: [55] opened from 127.0.0.1:34836
+Jan 25 21:40 : client: [55] closed
+Jan 25 21:41 : client: [56] opened from 127.0.0.1:34844
+Jan 25 21:41 : exception: Not playing
+Jan 25 21:41 : client: [56] closed
+Jan 25 21:59 : client: [54] closed
+Jan 25 21:59 : client: [53] closed
+Jan 25 21:59 : client: [57] opened from 127.0.0.1:34912
+Jan 25 22:11 : client: [58] opened from 127.0.0.1:34940
+Jan 25 22:11 : client: [58] closed
+Jan 25 22:12 : client: [57] closed
+Jan 25 22:12 : client: [59] opened from 127.0.0.1:34942
+Jan 25 23:57 : client: [59] closed
+Jan 25 23:57 : client: [60] opened from 127.0.0.1:35468
+Jan 26 01:28 : client: [61] opened from 127.0.0.1:36442
+Jan 26 01:28 : client: [61] closed
+Jan 26 12:57 : client: [62] opened from 127.0.0.1:36478
+Jan 26 12:57 : client: [62] closed
+Jan 26 13:29 : client: [60] closed
+Jan 26 13:29 : client: [63] opened from 127.0.0.1:37052
+Jan 26 14:18 : client: [64] opened from 127.0.0.1:37652
+Jan 26 14:18 : client: [64] closed
+Jan 26 16:21 : client: [65] opened from 127.0.0.1:37778
+Jan 26 16:21 : client: [65] closed
+Jan 26 16:22 : client: [63] closed
+Jan 26 16:22 : client: [66] opened from 127.0.0.1:37830
+Jan 26 16:22 : client: [66] closed
+Jan 26 16:22 : client: [67] opened from 127.0.0.1:37832
+Jan 26 16:22 : client: [68] opened from 127.0.0.1:37834
+Jan 26 16:38 : client: [69] opened from 127.0.0.1:37922
+Jan 26 16:38 : client: [69] closed
+Jan 26 16:39 : client: [70] opened from 127.0.0.1:37928
+Jan 26 16:39 : client: [70] closed
+Jan 26 17:36 : client: [67] closed
+Jan 26 17:36 : client: [68] closed
+Jan 26 17:36 : client: [71] opened from 127.0.0.1:38994
+Jan 26 17:36 : client: [72] opened from 127.0.0.1:38996
+Jan 26 18:03 : client: [73] opened from 127.0.0.1:39186
+Jan 26 18:03 : client: [73] closed
+Jan 26 18:04 : client: [74] opened from 127.0.0.1:39190
+Jan 26 18:04 : client: [74] closed
+Jan 26 20:04 : client: [75] opened from 127.0.0.1:40000
+Jan 26 20:04 : client: [75] closed
+Jan 26 20:04 : client: [76] opened from 127.0.0.1:40004
+Jan 26 20:04 : client: [76] closed
+Jan 26 20:15 : client: [77] opened from 127.0.0.1:40058
+Jan 26 20:15 : client: [77] closed
+Jan 26 21:05 : client: [78] opened from 127.0.0.1:40366
+Jan 26 21:05 : client: [78] closed
+Jan 26 21:15 : client: [79] opened from 127.0.0.1:40422
+Jan 26 21:15 : client: [79] closed
+Jan 26 21:31 : client: [80] opened from 127.0.0.1:40556
+Jan 26 21:31 : client: [80] closed
+Jan 26 21:50 : client: [81] opened from 127.0.0.1:40644
+Jan 26 21:50 : client: [81] closed
+Jan 26 21:51 : client: [82] opened from 127.0.0.1:40652
+Jan 26 21:51 : client: [82] closed
+Jan 26 23:28 : client: [71] closed
+Jan 26 23:28 : client: [72] closed
+Jan 26 23:28 : client: [83] opened from 127.0.0.1:48034
+Jan 26 23:28 : client: [84] opened from 127.0.0.1:48044
+Jan 26 23:28 : client: [83] closed
+Jan 26 23:28 : client: [84] closed
+Jan 26 23:28 : client: [85] opened from 127.0.0.1:48174
+Jan 26 23:28 : client: [85] closed
+Jan 26 23:28 : client: [86] opened from 127.0.0.1:48216
+Jan 26 23:28 : client: [86] closed
+Jan 26 23:28 : client: [87] opened from 127.0.0.1:48370
+Jan 26 23:28 : client: [88] opened from 127.0.0.1:48380
+Jan 26 23:29 : client: [87] closed
+Jan 26 23:29 : client: [88] closed
+Jan 26 23:29 : client: [89] opened from 127.0.0.1:48624
+Jan 26 23:29 : client: [90] opened from 127.0.0.1:48634
+Jan 26 23:29 : client: [90] closed
+Jan 26 23:29 : client: [89] closed
+Jan 26 23:29 : client: [91] opened from 127.0.0.1:48660
+Jan 26 23:29 : client: [91] closed
+Jan 26 23:29 : client: [92] opened from 127.0.0.1:48686
+Jan 26 23:29 : client: [93] opened from 127.0.0.1:48696
+Jan 26 23:29 : client: [92] closed
+Jan 26 23:29 : client: [93] closed
+Jan 26 23:29 : client: [94] opened from 127.0.0.1:48872
+Jan 26 23:29 : client: [94] closed
+Jan 26 23:29 : client: [95] opened from 127.0.0.1:48882
+Jan 27 00:26 : client: [96] opened from 127.0.0.1:48170
+Jan 27 00:26 : client: [96] closed
+Jan 27 12:38 : client: [97] opened from 127.0.0.1:43044
+Jan 27 12:38 : client: [97] closed
+Jan 27 15:34 : client: [98] opened from 127.0.0.1:43478
+Jan 27 15:34 : client: [98] closed
+Jan 27 15:35 : client: [99] opened from 127.0.0.1:43964
+Jan 27 15:35 : client: [99] closed
+Jan 27 15:43 : client: [95] closed
+Jan 27 15:43 : client: [100] opened from 127.0.0.1:47768
+Jan 27 15:43 : client: [101] opened from 127.0.0.1:47780
+Jan 27 16:17 : client: [102] opened from 127.0.0.1:36194
+Jan 27 16:17 : client: [102] closed
+Jan 27 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 16:25 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 27 16:25 : client: [0] opened from 127.0.0.1:47502
+Jan 27 16:25 : client: [1] opened from 127.0.0.1:47506
+Jan 27 16:25 : client: [1] closed
+Jan 27 16:25 : client: [2] opened from 127.0.0.1:47508
+Jan 27 16:25 : client: [2] closed
+Jan 27 16:25 : client: [3] opened from 127.0.0.1:47512
+Jan 27 16:26 : client: [3] closed
+Jan 27 16:26 : client: [4] opened from 127.0.0.1:47514
+Jan 27 16:26 : client: [5] opened from 127.0.0.1:47516
+Jan 27 16:37 : client: [6] opened from 127.0.0.1:47768
+Jan 27 16:37 : client: [6] closed
+Jan 27 16:38 : client: [7] opened from 127.0.0.1:47774
+Jan 27 16:38 : client: [7] closed
+Jan 27 17:32 : client: [5] closed
+Jan 27 17:32 : client: [4] closed
+Jan 27 17:32 : client: [8] opened from 127.0.0.1:48642
+Jan 27 17:33 : client: [9] opened from 127.0.0.1:48644
+Jan 27 17:52 : client: [10] opened from 127.0.0.1:49198
+Jan 27 17:52 : client: [10] closed
+Jan 27 19:26 : client: [11] opened from 127.0.0.1:50088
+Jan 27 19:26 : client: [11] closed
+Jan 27 20:05 : client: [8] closed
+Jan 27 20:05 : client: [9] closed
+Jan 27 20:05 : client: [12] opened from 127.0.0.1:50566
+Jan 27 21:20 : client: [13] opened from 127.0.0.1:53012
+Jan 27 21:20 : exception: Not playing
+Jan 27 21:20 : client: [13] closed
+Jan 27 22:16 : client: [14] opened from 127.0.0.1:59440
+Jan 27 22:16 : client: [14] closed
+Jan 27 22:16 : client: [15] opened from 127.0.0.1:59446
+Jan 27 22:16 : client: [15] closed
+Jan 27 22:16 : client: [16] opened from 127.0.0.1:59452
+Jan 27 22:16 : client: [16] closed
+Jan 27 22:16 : client: [17] opened from 127.0.0.1:59458
+Jan 27 22:16 : client: [17] closed
+Jan 27 23:00 : client: [18] opened from 127.0.0.1:60000
+Jan 27 23:00 : client: [18] closed
+Jan 27 23:01 : client: [19] opened from 127.0.0.1:60008
+Jan 27 23:01 : client: [19] closed
+Jan 27 23:05 : client: [20] opened from 127.0.0.1:60088
+Jan 27 23:05 : client: [20] closed
+Jan 27 23:05 : client: [21] opened from 127.0.0.1:60094
+Jan 27 23:05 : client: [21] closed
+Jan 27 23:34 : client: [22] opened from 127.0.0.1:60366
+Jan 27 23:34 : client: [22] closed
+Jan 27 23:57 : client: [23] opened from 127.0.0.1:60772
+Jan 27 23:57 : client: [23] closed
+Jan 28 14:11 : client: [24] opened from 127.0.0.1:38900
+Jan 28 14:11 : client: [24] closed
+Jan 28 14:11 : client: [12] closed
+Jan 28 14:11 : client: [25] opened from 127.0.0.1:38966
+Jan 28 14:11 : client: [25] closed
+Jan 28 14:11 : client: [26] opened from 127.0.0.1:38974
+Jan 28 14:11 : client: [27] opened from 127.0.0.1:38978
+Jan 28 18:36 : client: [28] opened from 127.0.0.1:55802
+Jan 28 18:36 : client: [28] closed
+Jan 28 18:36 : client: [29] opened from 127.0.0.1:55822
+Jan 28 18:36 : client: [29] closed
+Jan 28 18:47 : client: [30] opened from 127.0.0.1:38180
+Jan 28 18:47 : client: [30] closed
+Jan 28 19:47 : client: [31] opened from 127.0.0.1:39660
+Jan 28 19:47 : client: [31] closed
+Jan 28 21:21 : client: [27] closed
+Jan 28 21:21 : client: [26] closed
+Jan 28 21:21 : client: [32] opened from 127.0.0.1:39686
+Jan 28 21:21 : client: [32] closed
+Jan 28 21:21 : client: [33] opened from 127.0.0.1:39712
+Jan 28 21:48 : client: [33] closed
+Jan 28 21:48 : client: [34] opened from 127.0.0.1:40400
+Jan 28 21:48 : client: [35] opened from 127.0.0.1:40402
+Jan 28 22:57 : client: [34] closed
+Jan 28 22:57 : client: [35] closed
+Jan 28 22:57 : client: [36] opened from 127.0.0.1:49396
+Jan 29 14:26 : client: [37] opened from 127.0.0.1:47346
+Jan 29 14:26 : client: [37] closed
+Jan 29 14:27 : client: [36] closed
+Jan 29 14:27 : client: [38] opened from 127.0.0.1:47764
+Jan 29 14:27 : client: [38] closed
+Jan 29 14:27 : client: [39] opened from 127.0.0.1:47782
+Jan 29 14:27 : client: [40] opened from 127.0.0.1:47792
+Jan 29 15:33 : client: [41] opened from 127.0.0.1:51544
+Jan 29 15:33 : client: [41] closed
+Jan 29 15:34 : client: [42] opened from 127.0.0.1:52040
+Jan 29 15:34 : client: [42] closed
+Jan 29 18:01 : client: [43] opened from 127.0.0.1:34242
+Jan 29 18:01 : client: [43] closed
+Jan 29 18:02 : client: [44] opened from 127.0.0.1:34254
+Jan 29 18:02 : client: [44] closed
+Jan 29 19:15 : client: [45] opened from 127.0.0.1:41518
+Jan 29 19:15 : client: [45] closed
+Jan 29 19:16 : client: [46] opened from 127.0.0.1:41998
+Jan 29 19:16 : client: [46] closed
+Jan 29 19:49 : client: [47] opened from 127.0.0.1:58302
+Jan 29 19:49 : client: [47] closed
+Jan 29 19:50 : client: [48] opened from 127.0.0.1:58790
+Jan 29 19:50 : client: [48] closed
+Jan 29 21:26 : client: [49] opened from 127.0.0.1:59302
+Jan 29 21:26 : client: [49] closed
+Jan 29 21:48 : client: [39] closed
+Jan 29 21:48 : client: [40] closed
+Jan 29 21:48 : client: [50] opened from 127.0.0.1:59424
+Jan 29 21:48 : client: [50] closed
+Jan 29 21:48 : client: [51] opened from 127.0.0.1:59434
+Jan 30 00:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 00:35 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 30 00:36 : client: [0] opened from 127.0.0.1:60156
+Jan 30 00:36 : client: [1] opened from 127.0.0.1:60160
+Jan 30 00:36 : client: [1] closed
+Jan 30 00:36 : client: [2] opened from 127.0.0.1:60162
+Jan 30 16:17 : client: [3] opened from 127.0.0.1:45930
+Jan 30 16:17 : client: [3] closed
+Jan 30 16:18 : client: [2] closed
+Jan 30 16:18 : client: [4] opened from 127.0.0.1:46194
+Jan 30 16:18 : client: [5] opened from 127.0.0.1:46204
+Jan 30 17:59 : client: [6] opened from 127.0.0.1:39078
+Jan 30 17:59 : client: [6] closed
+Jan 30 18:00 : client: [7] opened from 127.0.0.1:39566
+Jan 30 18:00 : client: [7] closed
+Jan 30 19:00 : client: [8] opened from 127.0.0.1:40432
+Jan 30 19:00 : client: [8] closed
+Jan 30 21:07 : client: [9] opened from 127.0.0.1:33716
+Jan 30 21:07 : client: [9] closed
+Jan 30 21:08 : client: [10] opened from 127.0.0.1:34198
+Jan 30 21:08 : client: [10] closed
+Jan 30 21:44 : client: [4] closed
+Jan 30 21:44 : client: [5] closed
+Jan 30 21:44 : client: [11] opened from 127.0.0.1:51594
+Jan 31 03:37 : client: [12] opened from 127.0.0.1:50778
+Jan 31 03:37 : client: [12] closed
+Jan 31 14:22 : client: [13] opened from 127.0.0.1:34568
+Jan 31 14:22 : client: [13] closed
+Jan 31 14:23 : client: [14] opened from 127.0.0.1:35104
+Jan 31 14:23 : client: [14] closed
+Jan 31 14:37 : client: [11] closed
+Jan 31 14:37 : client: [15] opened from 127.0.0.1:42806
+Jan 31 14:37 : client: [16] opened from 127.0.0.1:42816
+Jan 31 17:13 : client: [17] opened from 127.0.0.1:34196
+Jan 31 17:13 : client: [17] closed
+Jan 31 17:14 : client: [18] opened from 127.0.0.1:34206
+Jan 31 17:14 : client: [18] closed
+Jan 31 18:19 : client: [15] closed
+Jan 31 18:19 : client: [16] closed
+Jan 31 18:19 : client: [19] opened from 127.0.0.1:35628
+Jan 31 18:19 : client: [19] closed
+Jan 31 18:19 : client: [20] opened from 127.0.0.1:35630
+Jan 31 19:10 : client: [0] closed
+Jan 31 19:10 : client: [20] closed
+Jan 31 19:10 : avahi: Client Disconnected, will reconnect shortly
+Jan 31 19:11 : avahi: Client Disconnected, will reconnect shortly
+Jan 31 19:11 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jan 31 20:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 20:31 : avahi: Service 'Music Player @ gus' successfully established.
+Jan 31 20:31 : client: [0] opened from 127.0.0.1:57894
+Jan 31 22:21 : client: [1] opened from 127.0.0.1:33676
+Jan 31 22:21 : client: [1] closed
+Jan 31 22:22 : client: [2] opened from 127.0.0.1:33680
+Jan 31 22:22 : client: [2] closed
+Jan 31 22:23 : client: [3] opened from 127.0.0.1:33712
+Jan 31 22:23 : client: [3] closed
+Jan 31 22:24 : client: [4] opened from 127.0.0.1:33730
+Jan 31 22:24 : client: [4] closed
+Feb 01 00:48 : client: [5] opened from 127.0.0.1:36082
+Feb 01 00:48 : client: [5] closed
+Feb 01 00:48 : client: [6] opened from 127.0.0.1:36090
+Feb 01 00:48 : client: [6] closed
+Feb 01 00:48 : client: [7] opened from 127.0.0.1:36094
+Feb 01 00:48 : client: [7] closed
+Feb 01 00:48 : client: [8] opened from 127.0.0.1:36098
+Feb 01 00:48 : client: [8] closed
+Feb 01 00:48 : client: [9] opened from 127.0.0.1:36102
+Feb 01 00:48 : client: [9] closed
+Feb 01 00:48 : client: [10] opened from 127.0.0.1:36106
+Feb 01 00:48 : client: [10] closed
+Feb 01 00:48 : client: [11] opened from 127.0.0.1:36110
+Feb 01 00:48 : client: [11] closed
+Feb 01 00:48 : client: [12] opened from 127.0.0.1:36114
+Feb 01 00:48 : client: [12] closed
+Feb 01 00:48 : client: [13] opened from 127.0.0.1:36122
+Feb 01 00:48 : client: [14] opened from 127.0.0.1:36124
+Feb 01 00:48 : client: [13] closed
+Feb 01 00:48 : client: [14] closed
+Feb 01 00:48 : client: [15] opened from 127.0.0.1:36130
+Feb 01 00:48 : client: [15] closed
+Feb 01 02:01 : client: [16] opened from 127.0.0.1:56506
+Feb 01 02:01 : client: [16] closed
+Feb 01 03:39 : client: [17] opened from 127.0.0.1:50968
+Feb 01 03:39 : client: [17] closed
+Feb 01 13:16 : client: [18] opened from 127.0.0.1:55732
+Feb 01 13:16 : client: [18] closed
+Feb 01 17:38 : client: [19] opened from 127.0.0.1:51556
+Feb 01 17:38 : client: [19] closed
+Feb 01 17:50 : client: [20] opened from 127.0.0.1:53548
+Feb 01 17:50 : client: [20] closed
+Feb 01 20:13 : client: [21] opened from 127.0.0.1:36360
+Feb 01 20:13 : client: [21] closed
+Feb 01 21:04 : client: [22] opened from 127.0.0.1:36944
+Feb 01 21:04 : client: [22] closed
+Feb 02 23:48 : client: [23] opened from 127.0.0.1:52918
+Feb 02 23:48 : client: [23] closed
+Feb 03 00:29 : client: [24] opened from 127.0.0.1:53542
+Feb 03 00:29 : client: [24] closed
+Feb 03 00:30 : client: [25] opened from 127.0.0.1:53550
+Feb 03 00:30 : client: [25] closed
+Feb 03 02:03 : client: [26] opened from 127.0.0.1:54310
+Feb 03 02:03 : client: [26] closed
+Feb 03 02:04 : client: [27] opened from 127.0.0.1:54320
+Feb 03 02:04 : client: [27] closed
+Feb 03 15:32 : client: [0] closed
+Feb 03 15:32 : client: [28] opened from 127.0.0.1:54322
+Feb 03 15:32 : client: [29] opened from 127.0.0.1:54324
+Feb 03 15:51 : client: [29] closed
+Feb 03 15:51 : client: [28] closed
+Feb 03 15:51 : client: [30] opened from 127.0.0.1:54516
+Feb 03 15:51 : client: [31] opened from 127.0.0.1:54518
+Feb 03 16:12 : inotify: music directory was removed - cannot continue to watch it
+Feb 03 17:31 : client: [32] opened from 127.0.0.1:55810
+Feb 03 17:31 : client: [32] closed
+Feb 03 17:40 : client: [31] closed
+Feb 03 17:40 : client: [30] closed
+Feb 03 17:40 : client: [33] opened from 127.0.0.1:55868
+Feb 03 17:40 : client: [33] closed
+Feb 03 17:40 : client: [34] opened from 127.0.0.1:55872
+Feb 03 17:50 : client: [35] opened from 127.0.0.1:55932
+Feb 03 17:50 : client: [35] closed
+Feb 03 17:51 : client: [36] opened from 127.0.0.1:55940
+Feb 03 17:51 : client: [36] closed
+Feb 03 18:51 : client: [37] opened from 127.0.0.1:56280
+Feb 03 18:51 : client: [37] closed
+Feb 03 22:14 : client: [38] opened from 127.0.0.1:57234
+Feb 03 22:14 : client: [38] closed
+Feb 03 23:07 : client: [34] closed
+Feb 03 23:07 : client: [39] opened from 127.0.0.1:57768
+Feb 04 02:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 02:30 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 04 02:30 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 04 02:34 : client: [0] opened from 127.0.0.1:39646
+Feb 04 02:34 : client: [1] opened from 127.0.0.1:39650
+Feb 04 02:34 : client: [1] closed
+Feb 04 02:34 : client: [2] opened from 127.0.0.1:39654
+Feb 04 02:35 : client: [2] closed
+Feb 04 02:35 : client: [3] opened from 127.0.0.1:39724
+Feb 04 02:50 : client: [4] opened from 127.0.0.1:40004
+Feb 04 02:50 : client: [4] closed
+Feb 04 02:50 : client: [3] closed
+Feb 04 02:50 : client: [0] closed
+Feb 04 02:50 : avahi: Client Disconnected, will reconnect shortly
+Feb 04 02:50 : avahi: Client Disconnected, will reconnect shortly
+Feb 04 02:50 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 04 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 15:58 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 04 15:58 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 04 15:59 : client: [0] opened from 127.0.0.1:32888
+Feb 04 16:25 : client: [1] opened from 127.0.0.1:33134
+Feb 04 16:25 : client: [1] closed
+Feb 04 18:59 : client: [0] closed
+Feb 04 18:59 : client: [2] opened from 127.0.0.1:33936
+Feb 04 19:57 : client: [3] opened from 127.0.0.1:34276
+Feb 04 19:57 : client: [3] closed
+Feb 04 20:08 : client: [4] opened from 127.0.0.1:34414
+Feb 04 20:08 : client: [4] closed
+Feb 04 21:14 : client: [5] opened from 127.0.0.1:60970
+Feb 04 21:14 : client: [5] closed
+Feb 04 21:18 : client: [6] opened from 127.0.0.1:34244
+Feb 04 21:18 : client: [6] closed
+Feb 04 22:08 : client: [7] opened from 127.0.0.1:58664
+Feb 04 22:08 : client: [7] closed
+Feb 04 23:48 : client: [8] opened from 127.0.0.1:50278
+Feb 04 23:48 : client: [8] closed
+Feb 04 23:48 : client: [9] opened from 127.0.0.1:50368
+Feb 04 23:48 : client: [9] closed
+Feb 05 16:26 : client: [10] opened from 127.0.0.1:35054
+Feb 05 16:26 : client: [10] closed
+Feb 05 16:27 : client: [2] closed
+Feb 05 16:27 : client: [11] opened from 127.0.0.1:35086
+Feb 05 16:27 : client: [12] opened from 127.0.0.1:35088
+Feb 05 17:34 : client: [11] closed
+Feb 05 17:34 : client: [12] closed
+Feb 05 17:34 : client: [13] opened from 127.0.0.1:36250
+Feb 05 17:34 : client: [14] opened from 127.0.0.1:36252
+Feb 05 17:34 : client: [13] closed
+Feb 05 17:34 : client: [14] closed
+Feb 05 17:34 : client: [15] opened from 127.0.0.1:36254
+Feb 05 17:45 : client: [16] opened from 127.0.0.1:36262
+Feb 05 17:45 : client: [16] closed
+Feb 05 17:56 : client: [17] opened from 127.0.0.1:36270
+Feb 05 17:56 : client: [17] closed
+Feb 05 17:57 : client: [18] opened from 127.0.0.1:36276
+Feb 05 17:57 : client: [18] closed
+Feb 05 18:38 : client: [19] opened from 127.0.0.1:42820
+Feb 05 18:38 : client: [19] closed
+Feb 05 18:39 : client: [20] opened from 127.0.0.1:43308
+Feb 05 18:39 : client: [20] closed
+Feb 05 19:39 : client: [21] opened from 127.0.0.1:44044
+Feb 05 19:39 : client: [21] closed
+Feb 05 21:24 : client: [22] opened from 127.0.0.1:45354
+Feb 05 21:24 : client: [22] closed
+Feb 05 21:25 : client: [23] opened from 127.0.0.1:45362
+Feb 05 21:25 : client: [23] closed
+Feb 05 21:56 : client: [24] opened from 127.0.0.1:45652
+Feb 05 21:56 : client: [24] closed
+Feb 05 22:15 : client: [15] closed
+Feb 05 22:15 : client: [25] opened from 127.0.0.1:46052
+Feb 05 22:15 : client: [25] closed
+Feb 05 22:16 : client: [26] opened from 127.0.0.1:46068
+Feb 05 22:16 : client: [27] opened from 127.0.0.1:46072
+Feb 05 22:16 : client: [27] closed
+Feb 05 22:16 : client: [28] opened from 127.0.0.1:46074
+                                   Feb 05 22:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 05 22:24 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 05 22:24 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 05 22:24 : client: [0] opened from 127.0.0.1:39740
+Feb 05 23:52 : client: [1] opened from 127.0.0.1:41054
+Feb 05 23:52 : client: [1] closed
+Feb 06 00:04 : client: [2] opened from 127.0.0.1:41160
+Feb 06 00:04 : client: [2] closed
+Feb 06 01:23 : client: [3] opened from 127.0.0.1:41780
+Feb 06 01:23 : client: [3] closed
+Feb 06 01:23 : client: [4] opened from 127.0.0.1:41802
+Feb 06 01:23 : client: [4] closed
+Feb 06 01:24 : client: [5] opened from 127.0.0.1:41814
+Feb 06 01:24 : client: [5] closed
+Feb 06 01:24 : client: [6] opened from 127.0.0.1:41832
+Feb 06 01:24 : client: [6] closed
+Feb 06 01:25 : client: [7] opened from 127.0.0.1:41848
+Feb 06 01:25 : client: [7] closed
+Feb 06 01:26 : client: [8] opened from 127.0.0.1:41852
+Feb 06 01:26 : client: [8] closed
+Feb 06 01:26 : client: [9] opened from 127.0.0.1:41882
+Feb 06 01:26 : client: [9] closed
+Feb 06 01:27 : client: [10] opened from 127.0.0.1:41896
+Feb 06 01:27 : client: [10] closed
+Feb 06 01:27 : client: [11] opened from 127.0.0.1:41920
+Feb 06 01:27 : client: [11] closed
+Feb 06 01:28 : client: [12] opened from 127.0.0.1:41934
+Feb 06 01:28 : client: [12] closed
+Feb 06 01:29 : client: [13] opened from 127.0.0.1:41952
+Feb 06 01:29 : client: [13] closed
+Feb 06 01:29 : client: [14] opened from 127.0.0.1:41972
+Feb 06 01:29 : client: [14] closed
+Feb 06 01:30 : client: [15] opened from 127.0.0.1:41992
+Feb 06 01:30 : client: [15] closed
+Feb 06 01:31 : client: [16] opened from 127.0.0.1:42014
+Feb 06 01:31 : client: [16] closed
+Feb 06 01:31 : client: [17] opened from 127.0.0.1:42036
+Feb 06 01:31 : client: [17] closed
+Feb 06 01:32 : client: [18] opened from 127.0.0.1:42052
+Feb 06 01:32 : client: [18] closed
+Feb 06 01:32 : client: [19] opened from 127.0.0.1:42074
+Feb 06 01:32 : client: [19] closed
+Feb 06 01:33 : client: [20] opened from 127.0.0.1:42090
+Feb 06 01:33 : client: [20] closed
+Feb 06 01:34 : client: [21] opened from 127.0.0.1:42114
+Feb 06 01:34 : client: [21] closed
+Feb 06 01:34 : client: [22] opened from 127.0.0.1:42134
+Feb 06 01:34 : client: [22] closed
+Feb 06 01:35 : client: [23] opened from 127.0.0.1:42160
+Feb 06 01:35 : client: [23] closed
+Feb 06 01:36 : client: [24] opened from 127.0.0.1:42176
+Feb 06 01:36 : client: [24] closed
+Feb 06 01:36 : client: [25] opened from 127.0.0.1:42198
+Feb 06 01:36 : client: [25] closed
+Feb 06 01:36 : client: [26] opened from 127.0.0.1:42202
+Feb 06 01:36 : client: [26] closed
+Feb 06 01:37 : client: [27] opened from 127.0.0.1:42218
+Feb 06 01:37 : client: [27] closed
+Feb 06 01:37 : client: [28] opened from 127.0.0.1:42236
+Feb 06 01:37 : client: [28] closed
+Feb 06 01:38 : client: [29] opened from 127.0.0.1:42246
+Feb 06 01:38 : client: [29] closed
+Feb 06 01:39 : client: [30] opened from 127.0.0.1:42260
+Feb 06 01:39 : client: [30] closed
+Feb 06 01:39 : client: [31] opened from 127.0.0.1:42272
+Feb 06 01:39 : client: [31] closed
+Feb 06 01:40 : client: [32] opened from 127.0.0.1:42292
+Feb 06 01:40 : client: [32] closed
+Feb 06 01:41 : client: [33] opened from 127.0.0.1:42308
+Feb 06 01:41 : client: [33] closed
+Feb 06 01:41 : client: [34] opened from 127.0.0.1:42318
+Feb 06 01:41 : client: [34] closed
+Feb 06 01:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 01:41 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 06 01:41 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 06 01:41 : client: [0] opened from 127.0.0.1:56268
+Feb 06 15:45 : client: [0] closed
+Feb 06 15:45 : client: [1] opened from 127.0.0.1:33690
+Feb 06 15:45 : client: [1] closed
+Feb 06 15:45 : client: [2] opened from 127.0.0.1:33692
+Feb 06 15:46 : client: [2] closed
+Feb 06 15:46 : client: [3] opened from 127.0.0.1:33700
+Feb 06 15:48 : client: [3] closed
+Feb 06 15:48 : client: [4] opened from 127.0.0.1:33710
+Feb 06 15:48 : client: [4] closed
+Feb 06 15:48 : client: [5] opened from 127.0.0.1:33754
+Feb 06 16:39 : client: [6] opened from 127.0.0.1:34008
+Feb 06 16:39 : client: [6] closed
+Feb 06 16:57 : client: [7] opened from 127.0.0.1:34048
+Feb 06 16:57 : client: [7] closed
+Feb 06 17:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 17:15 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 06 17:15 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 06 17:42 : avahi: Client Disconnected, will reconnect shortly
+Feb 06 17:42 : avahi: Client Disconnected, will reconnect shortly
+Feb 06 17:42 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 06 17:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 17:14 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 06 17:14 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 06 17:14 : client: [0] opened from 127.0.0.1:35206
+Feb 06 20:23 : client: [0] closed
+Feb 06 20:24 : client: [1] opened from 127.0.0.1:35334
+Feb 06 20:24 : client: [2] opened from 127.0.0.1:35338
+Feb 06 20:24 : client: [2] closed
+Feb 06 20:24 : client: [3] opened from 127.0.0.1:35340
+Feb 06 21:26 : client: [4] opened from 127.0.0.1:35934
+Feb 06 21:26 : client: [4] closed
+Feb 07 00:00 : client: [5] opened from 127.0.0.1:37540
+Feb 07 00:00 : exception: Not playing
+Feb 07 00:00 : client: [5] closed
+Feb 07 15:36 : client: [6] opened from 127.0.0.1:39528
+Feb 07 15:36 : client: [6] closed
+Feb 07 15:37 : client: [3] closed
+Feb 07 15:37 : client: [7] opened from 127.0.0.1:39628
+Feb 07 15:37 : client: [8] opened from 127.0.0.1:39630
+Feb 07 17:06 : client: [9] opened from 127.0.0.1:40328
+Feb 07 17:06 : client: [9] closed
+Feb 07 17:10 : client: [7] closed
+Feb 07 17:10 : client: [8] closed
+Feb 07 17:10 : client: [10] opened from 127.0.0.1:40354
+Feb 07 20:21 : client: [11] opened from 127.0.0.1:48216
+Feb 07 20:21 : client: [11] closed
+Feb 07 21:41 : client: [12] opened from 127.0.0.1:49436
+Feb 07 21:41 : client: [12] closed
+Feb 07 21:42 : client: [13] opened from 127.0.0.1:49446
+Feb 07 21:42 : client: [13] closed
+Feb 08 02:34 : client: [14] opened from 127.0.0.1:53236
+Feb 08 02:34 : client: [14] closed
+Feb 08 02:35 : client: [15] opened from 127.0.0.1:53246
+Feb 08 02:35 : client: [15] closed
+Feb 08 15:09 : client: [16] opened from 127.0.0.1:53402
+Feb 08 15:09 : client: [16] closed
+Feb 08 15:13 : client: [10] closed
+Feb 08 15:13 : client: [17] opened from 127.0.0.1:53554
+Feb 08 15:13 : client: [18] opened from 127.0.0.1:53556
+Feb 08 15:54 : client: [17] closed
+Feb 08 15:54 : client: [18] closed
+Feb 08 15:54 : client: [19] opened from 127.0.0.1:53856
+Feb 08 15:55 : client: [20] opened from 127.0.0.1:53858
+Feb 08 16:18 : client: [19] closed
+Feb 08 16:18 : client: [20] closed
+Feb 08 16:18 : client: [21] opened from 127.0.0.1:54436
+Feb 08 16:18 : client: [22] opened from 127.0.0.1:54438
+Feb 08 16:18 : client: [21] closed
+Feb 08 16:18 : client: [22] closed
+Feb 08 16:18 : client: [23] opened from 127.0.0.1:54440
+Feb 08 17:28 : client: [24] opened from 127.0.0.1:55556
+Feb 08 17:28 : client: [24] closed
+Feb 08 17:29 : client: [25] opened from 127.0.0.1:55564
+Feb 08 17:29 : client: [25] closed
+Feb 08 18:23 : client: [26] opened from 127.0.0.1:55854
+Feb 08 18:23 : client: [26] closed
+Feb 08 19:31 : client: [23] closed
+Feb 08 19:31 : client: [27] opened from 127.0.0.1:55856
+Feb 08 19:31 : client: [27] closed
+Feb 08 19:31 : client: [28] opened from 127.0.0.1:55858
+Feb 08 19:31 : client: [29] opened from 127.0.0.1:55860
+Feb 08 20:19 : client: [30] opened from 127.0.0.1:56516
+Feb 08 20:19 : client: [30] closed
+Feb 08 20:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 20:23 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 08 20:23 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 08 20:23 : client: [0] opened from 127.0.0.1:49094
+Feb 08 20:33 : client: [1] opened from 127.0.0.1:49194
+Feb 08 20:33 : client: [1] closed
+Feb 08 20:34 : client: [2] opened from 127.0.0.1:49198
+Feb 08 20:34 : client: [2] closed
+Feb 08 20:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 20:41 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 08 20:41 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 08 20:41 : client: [0] opened from 127.0.0.1:44676
+Feb 09 19:08 : client: [1] opened from 127.0.0.1:49046
+Feb 09 19:08 : client: [1] closed
+Feb 09 20:10 : client: [2] opened from 127.0.0.1:49656
+Feb 09 20:10 : client: [2] closed
+Feb 09 20:35 : client: [3] opened from 127.0.0.1:50316
+Feb 09 20:35 : client: [3] closed
+Feb 09 21:48 : client: [4] opened from 127.0.0.1:51412
+Feb 09 21:48 : client: [4] closed
+Feb 09 21:55 : client: [5] opened from 127.0.0.1:51426
+Feb 09 21:55 : client: [5] closed
+Feb 09 21:57 : client: [0] closed
+Feb 09 21:57 : client: [6] opened from 127.0.0.1:51440
+Feb 09 21:57 : client: [7] opened from 127.0.0.1:51448
+Feb 10 02:24 : client: [6] closed
+Feb 10 02:24 : client: [7] closed
+Feb 10 02:24 : client: [8] opened from 127.0.0.1:54342
+Feb 10 02:24 : client: [8] closed
+Feb 10 02:24 : client: [9] opened from 127.0.0.1:54346
+Feb 10 11:26 : client: [10] opened from 127.0.0.1:54712
+Feb 10 11:26 : client: [10] closed
+Feb 10 11:37 : client: [11] opened from 127.0.0.1:54862
+Feb 10 11:37 : client: [11] closed
+Feb 10 11:38 : client: [12] opened from 127.0.0.1:54880
+Feb 10 11:38 : client: [12] closed
+Feb 10 11:40 : client: [9] closed
+Feb 10 11:40 : client: [13] opened from 127.0.0.1:54898
+Feb 10 11:40 : client: [14] opened from 127.0.0.1:54900
+Feb 10 14:00 : client: [15] opened from 127.0.0.1:39776
+Feb 10 14:00 : client: [15] closed
+Feb 10 14:01 : client: [16] opened from 127.0.0.1:39786
+Feb 10 14:01 : client: [16] closed
+Feb 10 14:49 : client: [17] opened from 127.0.0.1:40188
+Feb 10 14:49 : client: [17] closed
+Feb 10 14:50 : client: [18] opened from 127.0.0.1:40196
+Feb 10 14:50 : client: [18] closed
+Feb 10 18:00 : client: [19] opened from 127.0.0.1:42720
+Feb 10 18:00 : client: [19] closed
+Feb 10 18:01 : client: [20] opened from 127.0.0.1:42734
+Feb 10 18:01 : client: [20] closed
+Feb 10 18:37 : client: [21] opened from 127.0.0.1:43148
+Feb 10 18:37 : client: [21] closed
+Feb 10 18:38 : client: [22] opened from 127.0.0.1:43168
+Feb 10 18:38 : client: [22] closed
+Feb 10 19:32 : client: [23] opened from 127.0.0.1:43638
+Feb 10 19:32 : client: [23] closed
+Feb 10 21:06 : client: [13] closed
+Feb 10 21:06 : client: [14] closed
+Feb 10 21:06 : client: [24] opened from 127.0.0.1:44714
+Feb 10 21:06 : client: [24] closed
+Feb 10 21:06 : client: [25] opened from 127.0.0.1:44716
+Feb 10 21:36 : client: [26] opened from 127.0.0.1:45170
+Feb 10 21:36 : client: [26] closed
+Feb 10 22:00 : client: [25] closed
+Feb 10 22:00 : client: [27] opened from 127.0.0.1:45602
+Feb 11 17:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 17:13 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 11 17:13 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 11 17:13 : client: [0] opened from 127.0.0.1:48302
+Feb 11 17:52 : client: [1] opened from 127.0.0.1:48760
+Feb 11 17:52 : client: [1] closed
+Feb 11 18:48 : client: [2] opened from 127.0.0.1:49462
+Feb 11 18:48 : client: [2] closed
+Feb 11 20:39 : client: [0] closed
+Feb 11 20:39 : client: [3] opened from 127.0.0.1:50100
+Feb 11 20:39 : client: [4] opened from 127.0.0.1:50102
+Feb 11 21:11 : client: [5] opened from 127.0.0.1:50816
+Feb 11 21:11 : client: [5] closed
+Feb 11 21:12 : client: [6] opened from 127.0.0.1:50824
+Feb 11 21:12 : client: [6] closed
+Feb 12 00:04 : client: [7] opened from 127.0.0.1:53152
+Feb 12 00:04 : client: [7] closed
+Feb 12 00:14 : client: [8] opened from 127.0.0.1:53236
+Feb 12 00:14 : client: [8] closed
+Feb 12 01:36 : client: [3] closed
+Feb 12 01:36 : client: [4] closed
+Feb 12 01:36 : client: [9] opened from 127.0.0.1:53988
+Feb 12 01:36 : client: [10] opened from 127.0.0.1:53990
+Feb 12 01:36 : client: [9] closed
+Feb 12 01:36 : client: [10] closed
+Feb 12 01:36 : client: [11] opened from 127.0.0.1:53994
+Feb 12 16:32 : client: [12] opened from 127.0.0.1:55112
+Feb 12 16:32 : client: [12] closed
+Feb 12 16:33 : client: [11] closed
+Feb 12 16:33 : client: [13] opened from 127.0.0.1:55188
+Feb 12 16:33 : client: [14] opened from 127.0.0.1:55190
+Feb 12 16:43 : client: [15] opened from 127.0.0.1:55244
+Feb 12 16:43 : client: [15] closed
+Feb 12 16:44 : client: [16] opened from 127.0.0.1:55252
+Feb 12 16:44 : client: [16] closed
+Feb 12 18:06 : client: [17] opened from 127.0.0.1:56188
+Feb 12 18:06 : client: [17] closed
+Feb 12 18:07 : client: [18] opened from 127.0.0.1:56196
+Feb 12 18:07 : client: [18] closed
+Feb 12 18:15 : client: [13] closed
+Feb 12 18:15 : client: [14] closed
+Feb 12 18:15 : client: [19] opened from 127.0.0.1:56240
+Feb 12 18:15 : client: [19] closed
+Feb 12 18:15 : client: [20] opened from 127.0.0.1:56242
+Feb 12 20:22 : client: [21] opened from 127.0.0.1:57438
+Feb 12 20:22 : client: [21] closed
+Feb 12 20:55 : client: [22] opened from 127.0.0.1:57528
+Feb 12 20:55 : client: [22] closed
+Feb 12 21:51 : client: [23] opened from 127.0.0.1:58140
+Feb 12 21:51 : client: [23] closed
+Feb 12 21:52 : client: [24] opened from 127.0.0.1:58148
+Feb 12 21:52 : client: [24] closed
+Feb 12 21:53 : client: [25] opened from 127.0.0.1:58156
+Feb 12 21:53 : client: [25] closed
+Feb 12 21:59 : client: [20] closed
+Feb 12 21:59 : client: [26] opened from 127.0.0.1:58158
+Feb 12 21:59 : client: [27] opened from 127.0.0.1:58160
+Feb 12 23:22 : client: [26] closed
+Feb 12 23:22 : client: [27] closed
+Feb 12 23:22 : client: [28] opened from 127.0.0.1:59404
+Feb 12 23:22 : client: [28] closed
+Feb 12 23:22 : client: [29] opened from 127.0.0.1:59406
+Feb 12 23:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 23:45 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 12 23:45 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 12 23:45 : client: [0] opened from 127.0.0.1:35724
+Feb 13 00:01 : client: [0] closed
+Feb 13 00:33 : client: [1] opened from 127.0.0.1:36418
+Feb 13 00:44 : client: [1] closed
+Feb 13 00:44 : client: [2] opened from 127.0.0.1:36488
+Feb 13 01:01 : client: [2] closed
+Feb 13 01:14 : client: [3] opened from 127.0.0.1:36824
+Feb 13 01:14 : client: [3] closed
+Feb 13 01:14 : client: [4] opened from 127.0.0.1:36826
+Feb 13 17:09 : client: [5] opened from 127.0.0.1:37212
+Feb 13 17:09 : client: [5] closed
+Feb 13 17:39 : client: [6] opened from 127.0.0.1:37930
+Feb 13 17:39 : client: [6] closed
+Feb 13 17:40 : client: [7] opened from 127.0.0.1:37942
+Feb 13 17:40 : client: [7] closed
+Feb 13 17:50 : client: [4] closed
+Feb 13 17:50 : client: [8] opened from 127.0.0.1:38176
+Feb 13 18:01 : client: [8] closed
+Feb 13 18:11 : client: [9] opened from 127.0.0.1:38514
+Feb 13 18:26 : client: [10] opened from 127.0.0.1:38646
+Feb 13 18:26 : client: [10] closed
+Feb 13 19:03 : client: [11] opened from 127.0.0.1:38650
+Feb 13 19:03 : client: [11] closed
+Feb 13 19:20 : client: [12] opened from 127.0.0.1:39132
+Feb 13 19:20 : client: [12] closed
+Feb 13 20:00 : client: [13] opened from 127.0.0.1:39770
+Feb 13 20:00 : client: [13] closed
+Feb 13 20:09 : client: [14] opened from 127.0.0.1:39784
+Feb 13 20:09 : client: [14] closed
+Feb 13 20:09 : client: [9] closed
+Feb 13 20:09 : client: [15] opened from 127.0.0.1:39786
+Feb 13 20:09 : client: [16] opened from 127.0.0.1:39788
+Feb 13 21:01 : client: [16] closed
+Feb 13 21:01 : client: [15] closed
+Feb 13 21:49 : client: [17] opened from 127.0.0.1:40764
+Feb 13 21:49 : client: [18] opened from 127.0.0.1:40766
+Feb 13 21:49 : client: [18] closed
+Feb 13 21:49 : client: [17] closed
+Feb 13 23:33 : client: [19] opened from 127.0.0.1:41694
+Feb 14 00:01 : client: [19] closed
+Feb 14 00:03 : client: [20] opened from 127.0.0.1:42074
+Feb 14 00:03 : client: [20] closed
+Feb 14 00:15 : client: [21] opened from 127.0.0.1:42230
+Feb 14 01:01 : client: [21] closed
+Feb 14 01:02 : client: [22] opened from 127.0.0.1:42740
+Feb 14 01:02 : client: [22] closed
+Feb 14 01:03 : client: [23] opened from 127.0.0.1:42750
+Feb 14 01:03 : client: [23] closed
+Feb 14 01:13 : client: [24] opened from 127.0.0.1:42868
+Feb 14 02:01 : client: [24] closed
+Feb 14 02:47 : client: [25] opened from 127.0.0.1:43730
+Feb 14 03:01 : client: [25] closed
+Feb 14 11:17 : client: [26] opened from 127.0.0.1:44016
+Feb 14 11:17 : client: [26] closed
+Feb 14 11:19 : client: [27] opened from 127.0.0.1:44134
+Feb 14 11:20 : client: [27] closed
+Feb 14 11:28 : client: [28] opened from 127.0.0.1:44424
+Feb 14 12:01 : client: [28] closed
+Feb 14 12:10 : client: [29] opened from 127.0.0.1:44934
+Feb 14 12:10 : client: [29] closed
+Feb 14 12:11 : client: [30] opened from 127.0.0.1:44942
+Feb 14 12:11 : client: [30] closed
+Feb 14 12:33 : client: [31] opened from 127.0.0.1:45296
+Feb 14 12:33 : client: [31] closed
+Feb 14 12:34 : client: [32] opened from 127.0.0.1:45304
+Feb 14 12:34 : client: [32] closed
+Feb 14 12:54 : client: [33] opened from 127.0.0.1:45466
+Feb 14 13:01 : client: [33] closed
+Feb 14 13:39 : client: [34] opened from 127.0.0.1:46856
+Feb 14 13:39 : client: [34] closed
+Feb 14 13:53 : client: [35] opened from 127.0.0.1:47192
+Feb 14 13:53 : client: [35] closed
+Feb 14 13:53 : client: [36] opened from 127.0.0.1:47194
+Feb 14 14:01 : client: [36] closed
+Feb 14 16:32 : client: [37] opened from 127.0.0.1:49616
+Feb 14 16:32 : client: [37] closed
+Feb 14 16:33 : client: [38] opened from 127.0.0.1:49628
+Feb 14 16:33 : client: [38] closed
+Feb 14 17:20 : client: [39] opened from 127.0.0.1:50184
+Feb 14 17:20 : client: [39] closed
+Feb 14 17:58 : client: [40] opened from 127.0.0.1:50514
+Feb 14 17:58 : client: [40] closed
+Feb 14 18:01 : client: [41] opened from 127.0.0.1:50558
+Feb 14 18:01 : client: [41] closed
+Feb 14 18:01 : client: [42] opened from 127.0.0.1:50566
+Feb 14 18:13 : client: [43] opened from 127.0.0.1:50670
+Feb 14 18:13 : client: [43] closed
+Feb 14 18:26 : client: [44] opened from 127.0.0.1:50884
+Feb 14 18:26 : client: [44] closed
+Feb 14 18:27 : client: [45] opened from 127.0.0.1:50908
+Feb 14 18:27 : client: [45] closed
+Feb 14 18:37 : client: [46] opened from 127.0.0.1:50992
+Feb 14 18:37 : client: [46] closed
+Feb 14 19:01 : client: [42] closed
+Feb 14 21:20 : client: [47] opened from 127.0.0.1:52316
+Feb 14 21:20 : client: [47] closed
+Feb 14 21:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 21:55 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 14 21:55 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 14 21:55 : client: [0] opened from 127.0.0.1:59316
+Feb 14 21:55 : client: [1] opened from 127.0.0.1:59318
+Feb 14 22:01 : client: [1] closed
+Feb 14 23:07 : client: [2] opened from 127.0.0.1:33112
+Feb 14 23:07 : client: [2] closed
+Feb 14 23:16 : client: [3] opened from 127.0.0.1:33394
+Feb 14 23:16 : client: [3] closed
+Feb 14 23:16 : client: [4] opened from 127.0.0.1:33396
+Feb 14 23:16 : client: [4] closed
+Feb 15 03:00 : client: [5] opened from 127.0.0.1:34308
+Feb 15 03:00 : client: [5] closed
+Feb 15 03:25 : client: [6] opened from 127.0.0.1:34450
+Feb 15 03:25 : client: [6] closed
+Feb 15 03:25 : client: [7] opened from 127.0.0.1:34452
+Feb 15 03:25 : client: [7] closed
+Feb 15 03:25 : client: [8] opened from 127.0.0.1:34454
+Feb 15 04:01 : client: [8] closed
+Feb 15 04:02 : client: [9] opened from 127.0.0.1:34624
+Feb 15 17:06 : client: [10] opened from 127.0.0.1:34634
+Feb 15 17:06 : client: [10] closed
+Feb 15 18:01 : client: [9] closed
+Feb 15 18:06 : client: [11] opened from 127.0.0.1:35012
+Feb 15 18:23 : client: [12] opened from 127.0.0.1:35072
+Feb 15 18:23 : client: [12] closed
+Feb 15 18:40 : client: [13] opened from 127.0.0.1:35150
+Feb 15 18:40 : client: [13] closed
+Feb 15 19:37 : client: [14] opened from 127.0.0.1:35166
+Feb 15 19:37 : client: [14] closed
+Feb 15 20:02 : client: [15] opened from 127.0.0.1:35364
+Feb 15 20:02 : client: [15] closed
+Feb 15 20:21 : client: [11] closed
+Feb 15 20:22 : client: [16] opened from 127.0.0.1:35644
+Feb 15 20:22 : client: [16] closed
+Feb 15 20:22 : client: [17] opened from 127.0.0.1:35648
+Feb 15 20:22 : client: [17] closed
+Feb 15 20:22 : client: [18] opened from 127.0.0.1:35650
+Feb 15 20:22 : client: [18] closed
+Feb 15 20:22 : client: [19] opened from 127.0.0.1:35656
+Feb 15 20:48 : client: [19] closed
+Feb 15 20:48 : client: [20] opened from 127.0.0.1:35968
+Feb 15 21:01 : client: [20] closed
+Feb 15 21:21 : client: [21] opened from 127.0.0.1:36400
+Feb 15 21:37 : client: [21] closed
+Feb 15 21:50 : client: [22] opened from 127.0.0.1:36562
+Feb 15 22:01 : client: [22] closed
+Feb 15 22:01 : client: [23] opened from 127.0.0.1:36640
+Feb 15 23:01 : client: [23] closed
+Feb 15 23:11 : client: [24] opened from 127.0.0.1:37608
+Feb 16 00:01 : client: [24] closed
+Feb 16 00:46 : client: [25] opened from 127.0.0.1:38562
+Feb 16 01:01 : client: [25] closed
+Feb 16 11:14 : client: [26] opened from 127.0.0.1:38770
+Feb 16 11:14 : client: [26] closed
+Feb 16 15:49 : client: [27] opened from 127.0.0.1:38880
+Feb 16 15:49 : client: [27] closed
+Feb 16 16:05 : client: [28] opened from 127.0.0.1:39376
+Feb 16 16:05 : client: [28] closed
+Feb 16 16:05 : client: [29] opened from 127.0.0.1:39378
+Feb 16 17:01 : client: [29] closed
+Feb 16 17:08 : client: [30] opened from 127.0.0.1:40416
+Feb 16 18:01 : client: [30] closed
+Feb 16 18:24 : client: [31] opened from 127.0.0.1:40998
+Feb 16 18:24 : client: [31] closed
+Feb 16 18:24 : client: [0] closed
+Feb 16 18:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 18:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 18:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 16 18:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 18:26 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 16 18:26 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 16 18:26 : client: [0] opened from 127.0.0.1:53492
+Feb 16 18:26 : client: [0] closed
+Feb 16 18:26 : client: [1] opened from 127.0.0.1:53544
+Feb 16 19:45 : client: [2] opened from 127.0.0.1:53820
+Feb 16 19:45 : client: [2] closed
+Feb 16 20:02 : client: [3] opened from 127.0.0.1:53988
+Feb 16 20:02 : client: [3] closed
+Feb 16 20:25 : client: [4] opened from 127.0.0.1:54368
+Feb 16 20:25 : client: [4] closed
+Feb 16 20:49 : client: [1] closed
+Feb 16 21:01 : client: [5] opened from 127.0.0.1:55182
+Feb 16 21:01 : client: [5] closed
+Feb 16 21:23 : client: [6] opened from 127.0.0.1:55296
+Feb 16 21:23 : client: [6] closed
+Feb 16 21:40 : client: [7] opened from 127.0.0.1:55440
+Feb 16 21:40 : client: [7] closed
+Feb 16 23:11 : client: [8] opened from 127.0.0.1:56548
+Feb 16 23:36 : client: [8] closed
+Feb 16 23:36 : client: [9] opened from 127.0.0.1:56878
+Feb 16 23:36 : client: [9] closed
+Feb 17 00:09 : client: [10] opened from 127.0.0.1:56996
+Feb 17 16:58 : client: [11] opened from 127.0.0.1:57002
+Feb 17 16:58 : client: [11] closed
+Feb 17 17:01 : client: [10] closed
+Feb 17 17:24 : client: [12] opened from 127.0.0.1:57246
+Feb 17 18:01 : client: [12] closed
+Feb 17 19:15 : client: [13] opened from 127.0.0.1:57752
+Feb 17 19:45 : client: [14] opened from 127.0.0.1:58112
+Feb 17 19:45 : client: [14] closed
+Feb 17 19:46 : client: [15] opened from 127.0.0.1:58118
+Feb 17 19:46 : client: [15] closed
+Feb 17 20:01 : client: [13] closed
+Feb 17 20:12 : client: [16] opened from 127.0.0.1:58282
+Feb 17 21:01 : client: [16] closed
+Feb 17 21:51 : client: [17] opened from 127.0.0.1:59336
+Feb 17 21:52 : client: [17] closed
+Feb 17 22:01 : client: [18] opened from 127.0.0.1:59380
+Feb 17 22:01 : client: [18] closed
+Feb 17 22:02 : client: [19] opened from 127.0.0.1:59384
+Feb 17 22:05 : client: [19] closed
+Feb 17 22:05 : client: [20] opened from 127.0.0.1:59424
+Feb 17 22:06 : client: [20] closed
+Feb 17 22:06 : client: [21] opened from 127.0.0.1:59458
+Feb 17 22:08 : client: [21] closed
+Feb 17 22:08 : client: [22] opened from 127.0.0.1:59488
+Feb 17 22:09 : client: [22] closed
+Feb 17 22:09 : client: [23] opened from 127.0.0.1:59492
+Feb 17 23:01 : client: [23] closed
+Feb 17 23:22 : client: [24] opened from 127.0.0.1:60168
+Feb 17 23:22 : client: [24] closed
+Feb 18 01:12 : client: [25] opened from 127.0.0.1:60844
+Feb 18 01:12 : client: [25] closed
+Feb 18 01:12 : client: [26] opened from 127.0.0.1:60848
+Feb 18 01:12 : client: [26] closed
+Feb 18 01:23 : client: [27] opened from 127.0.0.1:60942
+Feb 18 01:24 : client: [27] closed
+Feb 18 01:24 : client: [28] opened from 127.0.0.1:60944
+Feb 18 01:24 : client: [28] closed
+Feb 18 01:24 : client: [29] opened from 127.0.0.1:60946
+Feb 18 01:24 : client: [29] closed
+Feb 18 01:24 : client: [30] opened from 127.0.0.1:60948
+Feb 18 02:01 : client: [30] closed
+Feb 18 16:32 : client: [31] opened from 127.0.0.1:33074
+Feb 18 16:32 : client: [31] closed
+Feb 18 16:32 : client: [32] opened from 127.0.0.1:33076
+Feb 18 16:32 : client: [33] opened from 127.0.0.1:33078
+Feb 18 16:51 : client: [32] closed
+Feb 18 16:51 : client: [33] closed
+Feb 18 16:51 : client: [34] opened from 127.0.0.1:33216
+Feb 18 16:51 : client: [35] opened from 127.0.0.1:33218
+Feb 18 16:51 : client: [34] closed
+Feb 18 16:51 : client: [35] closed
+Feb 18 16:51 : client: [36] opened from 127.0.0.1:33220
+Feb 18 16:51 : client: [36] closed
+Feb 18 16:51 : client: [37] opened from 127.0.0.1:33222
+Feb 18 17:01 : client: [37] closed
+Feb 18 17:10 : client: [38] opened from 127.0.0.1:33372
+Feb 18 18:01 : client: [38] closed
+Feb 18 18:13 : client: [39] opened from 127.0.0.1:34250
+Feb 18 18:13 : client: [39] closed
+Feb 18 18:14 : client: [40] opened from 127.0.0.1:34258
+Feb 18 18:14 : client: [40] closed
+Feb 18 18:52 : client: [41] opened from 127.0.0.1:34650
+Feb 18 18:59 : client: [41] closed
+Feb 18 18:59 : client: [42] opened from 127.0.0.1:34762
+Feb 18 19:01 : client: [42] closed
+Feb 18 19:27 : client: [43] opened from 127.0.0.1:34942
+Feb 18 19:27 : client: [43] closed
+Feb 18 21:55 : client: [44] opened from 127.0.0.1:35770
+Feb 18 22:01 : client: [44] closed
+Feb 18 22:15 : client: [45] opened from 127.0.0.1:35920
+Feb 18 22:15 : client: [45] closed
+Feb 18 22:43 : client: [46] opened from 127.0.0.1:36064
+Feb 18 23:01 : client: [46] closed
+Feb 19 00:25 : client: [47] opened from 127.0.0.1:37052
+Feb 19 01:01 : client: [47] closed
+Feb 19 02:23 : client: [48] opened from 127.0.0.1:38218
+Feb 19 02:54 : client: [49] opened from 127.0.0.1:38432
+Feb 19 02:54 : client: [49] closed
+Feb 19 03:01 : client: [48] closed
+Feb 19 03:39 : client: [50] opened from 127.0.0.1:38804
+Feb 19 03:39 : client: [51] opened from 127.0.0.1:38810
+Feb 19 03:39 : client: [51] closed
+Feb 19 03:40 : client: [52] opened from 127.0.0.1:38840
+Feb 19 03:40 : client: [52] closed
+Feb 19 03:40 : client: [53] opened from 127.0.0.1:38866
+Feb 19 03:40 : client: [53] closed
+Feb 19 03:41 : client: [54] opened from 127.0.0.1:38898
+Feb 19 03:41 : client: [54] closed
+Feb 19 03:42 : client: [55] opened from 127.0.0.1:38916
+Feb 19 03:42 : client: [55] closed
+Feb 19 03:42 : client: [56] opened from 127.0.0.1:38942
+Feb 19 03:42 : client: [56] closed
+Feb 19 03:43 : client: [57] opened from 127.0.0.1:38962
+Feb 19 03:43 : client: [57] closed
+Feb 19 03:43 : client: [58] opened from 127.0.0.1:38988
+Feb 19 03:43 : client: [58] closed
+Feb 19 03:44 : client: [59] opened from 127.0.0.1:39014
+Feb 19 03:44 : client: [59] closed
+Feb 19 03:45 : client: [60] opened from 127.0.0.1:39018
+Feb 19 03:45 : client: [60] closed
+Feb 19 03:46 : client: [61] opened from 127.0.0.1:39038
+Feb 19 03:46 : client: [61] closed
+Feb 19 03:46 : client: [62] opened from 127.0.0.1:39060
+Feb 19 03:46 : client: [62] closed
+Feb 19 03:47 : client: [63] opened from 127.0.0.1:39086
+Feb 19 03:47 : client: [63] closed
+Feb 19 03:47 : client: [64] opened from 127.0.0.1:39106
+Feb 19 03:47 : client: [64] closed
+Feb 19 03:48 : client: [65] opened from 127.0.0.1:39128
+Feb 19 03:48 : client: [65] closed
+Feb 19 03:49 : client: [66] opened from 127.0.0.1:39146
+Feb 19 03:49 : client: [66] closed
+Feb 19 03:49 : client: [67] opened from 127.0.0.1:39170
+Feb 19 03:49 : client: [67] closed
+Feb 19 03:50 : client: [68] opened from 127.0.0.1:39188
+Feb 19 03:50 : client: [68] closed
+Feb 19 03:51 : client: [69] opened from 127.0.0.1:39208
+Feb 19 03:51 : client: [69] closed
+Feb 19 03:51 : client: [70] opened from 127.0.0.1:39224
+Feb 19 03:51 : client: [70] closed
+Feb 19 03:52 : client: [71] opened from 127.0.0.1:39244
+Feb 19 03:52 : client: [71] closed
+Feb 19 03:52 : client: [72] opened from 127.0.0.1:39264
+Feb 19 03:52 : client: [72] closed
+Feb 19 03:53 : client: [73] opened from 127.0.0.1:39282
+Feb 19 03:53 : client: [73] closed
+Feb 19 03:54 : client: [74] opened from 127.0.0.1:39300
+Feb 19 03:54 : client: [74] closed
+Feb 19 03:54 : client: [75] opened from 127.0.0.1:39320
+Feb 19 03:54 : client: [75] closed
+Feb 19 03:55 : client: [76] opened from 127.0.0.1:39336
+Feb 19 03:55 : client: [76] closed
+Feb 19 03:56 : client: [77] opened from 127.0.0.1:39352
+Feb 19 03:56 : client: [77] closed
+Feb 19 03:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 03:55 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 19 03:55 : avahi: Service 'Music Player @ gus' successfully established.
+Feb 19 03:55 : client: [0] opened from 127.0.0.1:34696
+Feb 19 17:01 : client: [0] closed
+Feb 19 17:59 : client: [1] opened from 127.0.0.1:35078
+Feb 19 18:01 : client: [1] closed
+Feb 19 18:19 : client: [2] opened from 127.0.0.1:35566
+Feb 19 19:01 : client: [2] closed
+Feb 19 20:11 : client: [3] opened from 127.0.0.1:36044
+Feb 19 20:11 : client: [3] closed
+Feb 19 20:11 : client: [4] opened from 127.0.0.1:36046
+Feb 19 20:11 : client: [5] opened from 127.0.0.1:36048
+Feb 19 20:39 : client: [4] closed
+Feb 19 20:39 : client: [5] closed
+Feb 19 20:39 : client: [6] opened from 127.0.0.1:36456
+Feb 19 20:39 : client: [6] closed
+Feb 19 20:39 : client: [7] opened from 127.0.0.1:36458
+Feb 19 21:01 : client: [7] closed
+Feb 19 22:10 : client: [8] opened from 127.0.0.1:37000
+Feb 19 22:10 : client: [8] closed
+Feb 19 22:11 : client: [9] opened from 127.0.0.1:37004
+Feb 19 22:11 : client: [9] closed
+Feb 19 22:12 : client: [10] opened from 127.0.0.1:37014
+Feb 19 22:12 : client: [10] closed
+Feb 19 22:12 : client: [11] opened from 127.0.0.1:37024
+Feb 19 22:12 : client: [11] closed
+Feb 19 22:13 : client: [12] opened from 127.0.0.1:37030
+Feb 19 22:13 : client: [12] closed
+Feb 19 22:14 : client: [13] opened from 127.0.0.1:37040
+Feb 19 22:14 : client: [13] closed
+Feb 19 22:14 : client: [14] opened from 127.0.0.1:37054
+Feb 19 22:14 : client: [14] closed
+Feb 19 22:15 : client: [15] opened from 127.0.0.1:37060
+Feb 19 22:15 : client: [15] closed
+Feb 19 22:16 : client: [16] opened from 127.0.0.1:37070
+Feb 19 22:16 : client: [16] closed
+Feb 19 22:16 : client: [17] opened from 127.0.0.1:37080
+Feb 19 22:16 : client: [17] closed
+Feb 19 22:17 : client: [18] opened from 127.0.0.1:37092
+Feb 19 22:17 : client: [18] closed
+Feb 19 22:17 : client: [19] opened from 127.0.0.1:37108
+Feb 19 22:17 : client: [19] closed
+Feb 19 22:18 : client: [20] opened from 127.0.0.1:37118
+Feb 19 22:18 : client: [20] closed
+Feb 19 22:19 : client: [21] opened from 127.0.0.1:37128
+Feb 19 22:19 : client: [21] closed
+Feb 19 22:19 : client: [22] opened from 127.0.0.1:37138
+Feb 19 22:19 : client: [22] closed
+Feb 19 22:20 : client: [23] opened from 127.0.0.1:37152
+Feb 19 22:20 : client: [23] closed
+Feb 19 22:21 : client: [24] opened from 127.0.0.1:37168
+Feb 19 22:21 : client: [24] closed
+Feb 19 22:21 : client: [25] opened from 127.0.0.1:37178
+Feb 19 22:21 : client: [25] closed
+Feb 19 22:22 : client: [26] opened from 127.0.0.1:37188
+Feb 19 22:22 : client: [26] closed
+Feb 19 22:22 : client: [27] opened from 127.0.0.1:37194
+Feb 19 22:22 : client: [27] closed
+Feb 19 22:23 : client: [28] opened from 127.0.0.1:37200
+Feb 19 22:23 : client: [28] closed
+Feb 19 22:24 : client: [29] opened from 127.0.0.1:37208
+Feb 19 22:24 : client: [29] closed
+Feb 19 22:24 : client: [30] opened from 127.0.0.1:37214
+Feb 19 22:24 : client: [30] closed
+Feb 19 22:25 : client: [31] opened from 127.0.0.1:37220
+Feb 19 22:25 : client: [31] closed
+Feb 19 22:26 : client: [32] opened from 127.0.0.1:37226
+Feb 19 22:26 : client: [32] closed
+Feb 19 22:26 : client: [33] opened from 127.0.0.1:37232
+Feb 19 22:26 : client: [33] closed
+Feb 19 22:27 : client: [34] opened from 127.0.0.1:37238
+Feb 19 22:27 : client: [34] closed
+Feb 19 22:28 : client: [35] opened from 127.0.0.1:37244
+Feb 19 22:28 : client: [35] closed
+Feb 20 12:55 : client: [36] opened from 127.0.0.1:39046
+Feb 20 12:55 : client: [36] closed
+Feb 20 12:56 : client: [37] opened from 127.0.0.1:39086
+Feb 20 12:56 : client: [38] opened from 127.0.0.1:39092
+Feb 20 12:56 : client: [39] opened from 127.0.0.1:39102
+Feb 20 12:56 : client: [39] closed
+Feb 20 13:01 : client: [38] closed
+Feb 20 13:01 : client: [37] closed
+Feb 20 13:10 : client: [40] opened from 127.0.0.1:39416
+Feb 20 13:10 : client: [41] opened from 127.0.0.1:39418
+Feb 20 13:38 : client: [41] closed
+Feb 20 13:38 : client: [40] closed
+Feb 20 13:38 : client: [42] opened from 127.0.0.1:39670
+Feb 20 13:38 : client: [42] closed
+Feb 20 13:38 : client: [43] opened from 127.0.0.1:39672
+Feb 20 13:38 : client: [43] closed
+Feb 20 13:39 : client: [44] opened from 127.0.0.1:39682
+Feb 20 13:39 : client: [44] closed
+Feb 20 13:39 : client: [45] opened from 127.0.0.1:39688
+Feb 20 13:39 : client: [45] closed
+Feb 20 13:40 : client: [46] opened from 127.0.0.1:39702
+Feb 20 13:40 : client: [46] closed
+Feb 20 13:41 : client: [47] opened from 127.0.0.1:39718
+Feb 20 13:41 : client: [47] closed
+Feb 20 13:54 : client: [48] opened from 127.0.0.1:39890
+Feb 20 13:54 : client: [48] closed
+Feb 20 13:55 : client: [49] opened from 127.0.0.1:39896
+Feb 20 13:55 : client: [49] closed
+Feb 20 14:14 : client: [50] opened from 127.0.0.1:40112
+Feb 20 14:14 : client: [50] closed
+Feb 20 14:15 : client: [51] opened from 127.0.0.1:40120
+Feb 20 14:15 : client: [51] closed
+Feb 20 14:16 : client: [52] opened from 127.0.0.1:40128
+Feb 20 14:16 : client: [52] closed
+Feb 20 14:22 : client: [53] opened from 127.0.0.1:40154
+Feb 20 14:22 : client: [53] closed
+Feb 20 14:22 : client: [54] opened from 127.0.0.1:40174
+Feb 20 14:22 : client: [54] closed
+Feb 20 14:23 : client: [55] opened from 127.0.0.1:40188
+Feb 20 14:23 : client: [55] closed
+Feb 20 14:23 : client: [56] opened from 127.0.0.1:40214
+Feb 20 14:23 : client: [56] closed
+Feb 20 14:24 : client: [57] opened from 127.0.0.1:40220
+Feb 20 14:24 : client: [57] closed
+Feb 20 14:24 : client: [58] opened from 127.0.0.1:40238
+Feb 20 14:24 : client: [58] closed
+Feb 20 14:25 : client: [59] opened from 127.0.0.1:40258
+Feb 20 14:25 : client: [59] closed
+Feb 20 14:40 : client: [60] opened from 127.0.0.1:40432
+Feb 20 14:40 : client: [60] closed
+Feb 20 14:42 : client: [61] opened from 127.0.0.1:40512
+Feb 20 14:42 : client: [61] closed
+Feb 20 14:43 : client: [62] opened from 127.0.0.1:40522
+Feb 20 14:43 : client: [62] closed
+Feb 20 14:43 : client: [63] opened from 127.0.0.1:40528
+Feb 20 14:43 : client: [63] closed
+Feb 20 14:45 : client: [64] opened from 127.0.0.1:40542
+Feb 20 14:45 : client: [64] closed
+Feb 20 14:45 : client: [65] opened from 127.0.0.1:40548
+Feb 20 14:45 : client: [65] closed
+Feb 20 14:45 : client: [66] opened from 127.0.0.1:40554
+Feb 20 14:45 : client: [66] closed
+Feb 20 14:45 : client: [67] opened from 127.0.0.1:40560
+Feb 20 14:45 : client: [67] closed
+Feb 20 14:46 : client: [68] opened from 127.0.0.1:40568
+Feb 20 14:46 : client: [68] closed
+Feb 20 14:46 : client: [69] opened from 127.0.0.1:40574
+Feb 20 14:46 : client: [69] closed
+Feb 20 14:46 : client: [70] opened from 127.0.0.1:40580
+Feb 20 14:46 : client: [70] closed
+Feb 20 14:46 : client: [71] opened from 127.0.0.1:40586
+Feb 20 14:46 : client: [71] closed
+Feb 20 14:46 : client: [72] opened from 127.0.0.1:40592
+Feb 20 14:46 : client: [72] closed
+Feb 20 14:46 : client: [73] opened from 127.0.0.1:40598
+Feb 20 14:46 : client: [73] closed
+Feb 20 14:52 : client: [74] opened from 127.0.0.1:40646
+Feb 20 14:52 : client: [74] closed
+Feb 20 14:52 : client: [75] opened from 127.0.0.1:40652
+Feb 20 14:52 : client: [75] closed
+Feb 20 14:53 : client: [76] opened from 127.0.0.1:40682
+Feb 20 14:53 : client: [76] closed
+Feb 20 14:53 : client: [77] opened from 127.0.0.1:40688
+Feb 20 14:53 : client: [77] closed
+Feb 20 14:54 : client: [78] opened from 127.0.0.1:40694
+Feb 20 14:54 : client: [78] closed
+Feb 20 14:54 : client: [79] opened from 127.0.0.1:40700
+Feb 20 14:54 : client: [79] closed
+Feb 20 14:54 : client: [80] opened from 127.0.0.1:40714
+Feb 20 14:54 : client: [80] closed
+Feb 20 14:54 : client: [81] opened from 127.0.0.1:40720
+Feb 20 14:54 : client: [81] closed
+Feb 20 14:55 : client: [82] opened from 127.0.0.1:40732
+Feb 20 14:55 : client: [82] closed
+Feb 20 14:56 : client: [83] opened from 127.0.0.1:40740
+Feb 20 14:56 : client: [83] closed
+Feb 20 14:56 : client: [84] opened from 127.0.0.1:40748
+Feb 20 14:56 : client: [84] closed
+Feb 20 14:57 : client: [85] opened from 127.0.0.1:40758
+Feb 20 14:57 : client: [85] closed
+Feb 20 14:57 : client: [86] opened from 127.0.0.1:40768
+Feb 20 14:57 : client: [86] closed
+Feb 20 14:57 : client: [87] opened from 127.0.0.1:40774
+Feb 20 14:57 : client: [87] closed
+Feb 20 14:59 : client: [88] opened from 127.0.0.1:40782
+Feb 20 14:59 : client: [88] closed
+Feb 20 15:07 : client: [89] opened from 127.0.0.1:40810
+Feb 20 15:07 : client: [89] closed
+Feb 20 15:07 : client: [90] opened from 127.0.0.1:40816
+Feb 20 15:07 : client: [90] closed
+Feb 20 15:07 : client: [91] opened from 127.0.0.1:40824
+Feb 20 15:07 : client: [91] closed
+Feb 20 15:09 : client: [92] opened from 127.0.0.1:40830
+Feb 20 15:09 : client: [92] closed
+Feb 20 15:09 : client: [93] opened from 127.0.0.1:40836
+Feb 20 15:09 : client: [93] closed
+Feb 20 15:11 : client: [94] opened from 127.0.0.1:40846
+Feb 20 15:11 : client: [94] closed
+Feb 20 15:13 : client: [95] opened from 127.0.0.1:40902
+Feb 20 15:13 : client: [95] closed
+Feb 20 15:14 : client: [96] opened from 127.0.0.1:40908
+Feb 20 15:14 : client: [96] closed
+Feb 20 15:17 : client: [97] opened from 127.0.0.1:40918
+Feb 20 15:17 : client: [97] closed
+Feb 20 15:22 : client: [98] opened from 127.0.0.1:40946
+Feb 20 15:22 : client: [98] closed
+Feb 20 15:23 : client: [99] opened from 127.0.0.1:40954
+Feb 20 15:23 : client: [99] closed
+Feb 20 15:24 : client: [100] opened from 127.0.0.1:40978
+Feb 20 15:24 : client: [100] closed
+Feb 20 15:24 : client: [101] opened from 127.0.0.1:40986
+Feb 20 15:28 : client: [101] closed
+Feb 20 15:29 : client: [102] opened from 127.0.0.1:41044
+Feb 20 15:29 : client: [102] closed
+Feb 20 15:30 : client: [103] opened from 127.0.0.1:41050
+Feb 20 15:30 : client: [103] closed
+Feb 20 15:30 : client: [104] opened from 127.0.0.1:41056
+Feb 20 15:30 : client: [104] closed
+Feb 20 16:46 : client: [105] opened from 127.0.0.1:41644
+Feb 20 16:46 : client: [105] closed
+Feb 20 18:14 : client: [106] opened from 127.0.0.1:41982
+Feb 20 18:14 : client: [106] closed
+Feb 20 23:42 : client: [107] opened from 127.0.0.1:42692
+Feb 20 23:42 : client: [107] closed
+Feb 21 01:23 : client: [108] opened from 127.0.0.1:43836
+Feb 21 01:23 : client: [108] closed
+Feb 21 02:57 : client: [109] opened from 127.0.0.1:44658
+Feb 21 02:57 : client: [109] closed
+Feb 21 18:25 : client: [110] opened from 127.0.0.1:45202
+Feb 21 18:25 : client: [110] closed
+Feb 21 21:06 : client: [111] opened from 127.0.0.1:47424
+Feb 21 21:06 : client: [111] closed
+Feb 23 18:07 : client: [112] opened from 127.0.0.1:54082
+Feb 23 18:07 : client: [112] closed
+Feb 23 20:56 : client: [113] opened from 127.0.0.1:56562
+Feb 23 20:56 : client: [113] closed
+Feb 23 22:03 : client: [114] opened from 127.0.0.1:57426
+Feb 23 22:03 : client: [114] closed
+Feb 23 22:50 : client: [115] opened from 127.0.0.1:58436
+Feb 23 22:50 : client: [115] closed
+Feb 23 22:50 : client: [116] opened from 127.0.0.1:58442
+Feb 23 22:50 : client: [116] closed
+Feb 23 22:51 : client: [117] opened from 127.0.0.1:58454
+Feb 23 22:51 : client: [117] closed
+Feb 24 16:18 : client: [118] opened from 127.0.0.1:34576
+Feb 24 16:18 : client: [118] closed
+Feb 24 20:29 : client: [119] opened from 127.0.0.1:38040
+Feb 24 20:29 : client: [119] closed
+Feb 24 23:25 : client: [120] opened from 127.0.0.1:39942
+Feb 24 23:25 : client: [120] closed
+Feb 24 23:26 : client: [121] opened from 127.0.0.1:39952
+Feb 24 23:26 : client: [121] closed
+Feb 25 00:51 : client: [122] opened from 127.0.0.1:41434
+Feb 25 00:51 : client: [122] closed
+Feb 25 00:52 : client: [123] opened from 127.0.0.1:41442
+Feb 25 00:52 : client: [123] closed
+Feb 25 01:04 : client: [124] opened from 127.0.0.1:41540
+Feb 25 01:04 : client: [124] closed
+Feb 25 15:21 : client: [125] opened from 127.0.0.1:41824
+Feb 25 15:21 : client: [125] closed
+Feb 25 16:04 : client: [126] opened from 127.0.0.1:42284
+Feb 25 16:04 : client: [126] closed
+Feb 25 17:48 : client: [127] opened from 127.0.0.1:43378
+Feb 25 17:48 : client: [127] closed
+Feb 25 20:09 : client: [128] opened from 127.0.0.1:44676
+Feb 25 20:09 : client: [128] closed
+Feb 25 20:19 : client: [129] opened from 127.0.0.1:44750
+Feb 25 20:19 : client: [129] closed
+Feb 25 20:41 : client: [130] opened from 127.0.0.1:44886
+Feb 25 20:41 : client: [130] closed
+Feb 25 23:04 : client: [131] opened from 127.0.0.1:46310
+Feb 25 23:04 : client: [131] closed
+Feb 26 15:17 : client: [132] opened from 127.0.0.1:48330
+Feb 26 15:17 : client: [132] closed
+Feb 26 19:44 : client: [133] opened from 127.0.0.1:51336
+Feb 26 19:44 : client: [133] closed
+Feb 26 20:31 : client: [134] opened from 127.0.0.1:52336
+Feb 26 20:31 : client: [134] closed
+Feb 26 20:32 : client: [135] opened from 127.0.0.1:52376
+Feb 26 20:32 : client: [135] closed
+Feb 26 20:32 : client: [136] opened from 127.0.0.1:52382
+Feb 26 20:32 : client: [136] closed
+Feb 26 20:33 : client: [137] opened from 127.0.0.1:52394
+Feb 26 20:33 : exception: Not playing
+Feb 26 20:33 : client: [137] closed
+Feb 26 21:55 : client: [138] opened from 127.0.0.1:53198
+Feb 26 21:55 : client: [138] closed
+Feb 27 16:29 : client: [139] opened from 127.0.0.1:57136
+Feb 27 16:29 : client: [139] closed
+Feb 27 17:44 : client: [140] opened from 127.0.0.1:57920
+Feb 27 17:44 : client: [140] closed
+Feb 27 18:27 : client: [141] opened from 127.0.0.1:58436
+Feb 27 18:27 : client: [141] closed
+Feb 27 18:49 : client: [142] opened from 127.0.0.1:58906
+Feb 27 18:49 : client: [142] closed
+Feb 27 18:49 : client: [143] opened from 127.0.0.1:58916
+Feb 27 18:49 : client: [144] opened from 127.0.0.1:58914
+Feb 27 18:49 : client: [143] closed
+Feb 27 18:49 : client: [144] closed
+Feb 27 20:24 : client: [145] opened from 127.0.0.1:59620
+Feb 27 20:24 : client: [145] closed
+Feb 28 02:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 02:34 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 28 02:34 : client: [0] opened from 127.0.0.1:53780
+Feb 28 02:34 : client: [1] opened from 127.0.0.1:53784
+Feb 28 02:34 : client: [1] closed
+Feb 28 02:37 : client: [2] opened from 127.0.0.1:53842
+Feb 28 02:37 : client: [3] opened from 127.0.0.1:53846
+Feb 28 02:37 : client: [3] closed
+Feb 28 02:39 : client: [4] opened from 127.0.0.1:53856
+Feb 28 02:39 : client: [4] closed
+Feb 28 02:39 : client: [5] opened from 127.0.0.1:53862
+Feb 28 02:39 : client: [5] closed
+Feb 28 02:42 : client: [6] opened from 127.0.0.1:53928
+Feb 28 02:42 : client: [6] closed
+Feb 28 02:43 : client: [7] opened from 127.0.0.1:53934
+Feb 28 02:43 : client: [7] closed
+Feb 28 02:43 : client: [8] opened from 127.0.0.1:53940
+Feb 28 02:43 : client: [8] closed
+Feb 28 02:43 : client: [9] opened from 127.0.0.1:53946
+Feb 28 02:43 : client: [9] closed
+Feb 28 02:44 : client: [10] opened from 127.0.0.1:53952
+Feb 28 02:44 : client: [10] closed
+Feb 28 02:44 : client: [11] opened from 127.0.0.1:53958
+Feb 28 02:44 : client: [11] closed
+Feb 28 14:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 14:54 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 28 14:54 : client: [0] opened from 127.0.0.1:38622
+Feb 28 14:54 : client: [1] opened from 127.0.0.1:38626
+Feb 28 14:54 : client: [1] closed
+Feb 28 19:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:17 : exception: inotify_add_watch() has failed: No such file or directory

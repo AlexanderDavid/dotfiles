@@ -1,0 +1,31 @@
+#!/usr/bin/env sh
+location="$1"; [ -z "$location" ] || { location="$location+" && rm -f "$HOME/.local/share/weatherreport" ;}
+
+getforecast() {
+	# Try and ping a DNS server. If no response this will exit the program because
+	# result of a bad ping is false and the exit 1 will be evaluated
+	ping -q -c 1 1.1.1.1 > /dev/null 2>&1 || exit 1
+	# If the program has not exited at this point then we have internet.
+	# Get the current status of the weather html page and then save it.
+	# Like the call above if this does not work exit the program
+	curl -s "wttr.in/$location" > "$HOME/.local/share/weatherreport" || exit 1
+}
+
+showweather() {
+	# Get the highest relative humidity for the day and print it out without a \n at the end
+	printf "%s" "$(sed '16q;d' "$HOME/.local/share/weatherreport" | grep -wo "[0-9]*%" | sort -n | sed -e '$!d' | sed -e "s/^/ /g" | tr -d '\n')"
+	# Print the highest and lowest temp for the day
+	sed '13q;d' "$HOME/.local/share/weatherreport" | grep -o "m\\(-\\)*[0-9]\\+" | sort -n -t 'm' -k 2n | sed -e 1b -e '$!d' | tr '\n|m' ' ' | awk '{print "  ",$1 "°","盛",$2 "°"}'
+}
+
+
+# Get the last date of status change. If the last check was more than 6 hours ago OR the time zone changed then refresh.
+LAST_REFRESH="$(date "+%s" -d "$(stat -c %y "$HOME/.local/share/weatherreport" >/dev/null 2>&1 | awk '{print $1 " " $2}')")"
+TIME_DIFF="$(expr "$(date "+%s")" - "$LAST_REFRESH")"
+
+
+if [ ! "$(expr "$TIME_DIFF" < 43200)" ]; then
+	getforecast
+fi
+
+showweather
