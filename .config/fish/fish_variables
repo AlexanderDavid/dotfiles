@@ -63,6 +63,10 @@ SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_user_paths:/home/alex/\x2econfig/nvm/13\x2e10\x2e1/bin
 SETUVAR foreground:ebdbb2
 SETUVAR green:b8bb26
+SETUVAR man_blink:\x2do\x1ecc241d
+SETUVAR man_bold:\x2do\x1e689d7a
+SETUVAR man_standout:\x2db\x1eblack\x1eebdbb2
+SETUVAR man_underline:\x2du\x1ed79921
 SETUVAR orange:fe8019
 SETUVAR pink:d787af
 SETUVAR pisces_pairs:\x28\x2c\x29\x1e\x5b\x2c\x5d\x1e\x7b\x2c\x7d\x1e\x22\x2c\x22\x1e\x27\x2c\x27

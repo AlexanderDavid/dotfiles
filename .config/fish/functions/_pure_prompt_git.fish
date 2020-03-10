@@ -1,5 +1,5 @@
-# Defined in /tmp/fish.yjCm83/_pure_prompt_git.fish @ line 2
-function _pure_prompt_git --description 'Print git repository informations: branch name, dirty, upstream ahead/behind'
+function _pure_prompt_git \
+    --description 'Print git repository informations: branch name, dirty, upstream ahead/behind'
 
     if test $pure_enable_git != true
         return
