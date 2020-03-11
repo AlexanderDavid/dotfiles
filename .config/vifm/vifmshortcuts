@@ -49,3 +49,4 @@ map cfd :e ~/repos/dwm/config.h<CR>
 map cfs :e ~/repos/slstatus/config.h<CR>
 map cfk :e ~/.config/sxhkd/sxhkdrc<CR>
 map cff :e ~/.config/fish/config.fish<CR>
+map cfc :e ~/.config/picom/picom.conf<CR>

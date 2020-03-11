@@ -8,3 +8,4 @@ cfd	~/repos/dwm/config.h
 cfs	~/repos/slstatus/config.h
 cfk	~/.config/sxhkd/sxhkdrc
 cff     ~/.config/fish/config.fish
+cfc     ~/.config/picom/picom.conf

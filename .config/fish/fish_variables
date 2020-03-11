@@ -16,6 +16,7 @@ SETUVAR _fish_abbr_bf:nvim\x20\x7e/\x2econfig/files
 SETUVAR _fish_abbr_bw:nvim\x20\x7e/\x2econfig/bookmarks
 SETUVAR _fish_abbr_cf:cd\x20\x7e/\x2econfig\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_cfa:nvim\x20\x7e/\x2econfig/aliasrc
+SETUVAR _fish_abbr_cfc:nvim\x20\x7e/\x2econfig/picom/picom\x2econf
 SETUVAR _fish_abbr_cfd:nvim\x20\x7e/repos/dwm/config\x2eh
 SETUVAR _fish_abbr_cff:nvim\x20\x7e/\x2econfig/fish/config\x2efish
 SETUVAR _fish_abbr_cfk:nvim\x20\x7e/\x2econfig/sxhkd/sxhkdrc
@@ -81,7 +82,7 @@ SETUVAR pure_color_git_unpulled_commits:pure_color_info
 SETUVAR pure_color_git_unpushed_commits:pure_color_info
 SETUVAR pure_color_info:cyan
 SETUVAR pure_color_jobs:pure_color_normal
-SETUVAR pure_color_light:white
+SETUVAR pure_color_light:ebdbb2
 SETUVAR pure_color_mute:666666
 SETUVAR pure_color_normal:normal
 SETUVAR pure_color_primary:blue

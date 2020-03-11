@@ -19,3 +19,4 @@ cfd="$EDITOR ~/repos/dwm/config.h" \
 cfs="$EDITOR ~/repos/slstatus/config.h" \
 cfk="$EDITOR ~/.config/sxhkd/sxhkdrc" \
 cff="$EDITOR ~/.config/fish/config.fish" \
+cfc="$EDITOR ~/.config/picom/picom.conf" \
