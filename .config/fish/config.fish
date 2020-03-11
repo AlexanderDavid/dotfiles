@@ -42,7 +42,7 @@ export LF_ICONS="di=:fi=:ln=:or=:ex=:*.c=:*.cc=:*.clj=:*
 
 # Source my alias, input, and shortcut files
 source $HOME/.config/fish/shortcuts.fish
-source $HOME/.config/aliasrc
+source $HOME/.config/fish/aliases.fish
 
 # Make fish yank and paste from primary clipboard
 bind yy fish_clipboard_copy
