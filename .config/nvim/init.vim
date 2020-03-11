@@ -1,11 +1,13 @@
 set encoding=utf-8
 
+" Vim doesn't play nice with fish
 if &shell =~# 'fish$'
     set shell=bash
 endif
 
 let mapleader =","
 
+" Autodownload vim-plug
 if ! filereadable(expand('~/.config/nvim/autoload/plug.vim'))
 	echo "Downloading junegunn/vim-plug to manage plugins..."
 	silent !mkdir -p ~/.config/nvim/autoload/
@@ -15,81 +17,36 @@ endif
 
 call plug#begin('~/.config/nvim/plugged')
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
 Plug 'scrooloose/nerdtree'
 Plug 'junegunn/goyo.vim'
-Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'jreybert/vimagit'
-Plug 'lukesmithxyz/vimling'
 Plug 'lervag/vimtex'
-Plug 'ying17zi/vim-live-latex-preview'
-Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
-Plug 'tpope/vim-commentary'
 Plug 'kovetskiy/sxhkd-vim'
-Plug 'rust-lang/rust.vim'
-Plug 'racer-rust/vim-racer'
 Plug 'jiangmiao/auto-pairs'
-Plug 'pangloss/vim-javascript'
-Plug 'MaxMEllon/vim-jsx-pretty'
 Plug 'dag/vim-fish'
-Plug 'preservim/nerdcommenter'
-Plug 'Valloric/YouCompleteMe'
 Plug 'lifepillar/vim-gruvbox8'
 Plug 'ryanoasis/vim-devicons'
-Plug 'mattn/emmet-vim'
 Plug 'sbdchd/neoformat'
-Plug 'jparise/vim-graphql'
-Plug 'jxnblk/vim-mdx-js'
-Plug 'peitalin/vim-jsx-typescript'
 Plug 'prettier/vim-prettier'
 Plug 'airblade/vim-gitgutter'
-Plug 'heavenshell/vim-pydocstring'
 call plug#end()
 
-set bg=dark
 set go=a
 set mouse=a
 set nohlsearch
 set clipboard+=unnamedplus
-" colorscheme gruvbox8
+
+" Make vim look gruvvy
+colorscheme gruvbox8
 
 " Set fish shell syntax highlighting
 au FileType fish compiler fish
 au FileType fish setlocal textwidth=79
 
-" Set rust autocomlpete
-let g:ycm_auto_trigger=0
-set hidden
-let g:racer_cmd = "/home/alex/.cargo/bin/racer"
-let g:racer_experimental_completer = 1
-let g:racer_insert_paren = 1
-
-let g:rustfmt_autosave = 1
-au FileType rust map <F5> <ESC>:w<CR>:! cargo run<CR>
-
-" Python
-au FileType python map <F5> <ESC>:w<CR>:! python <c-r>%<CR>
-
 " Autosave on exit
 set autowriteall
-
-" Remove newbie crutches in Insert Mode
-inoremap <Down> <Nop>
-inoremap <Left> <Nop>
-inoremap <Right> <Nop>
-inoremap <Up> <Nop>
-
-" Remove newbie crutches in Normal Mode
-nnoremap <Down> <Nop>
-nnoremap <Left> <Nop>
-nnoremap <Right> <Nop>
-nnoremap <Up> <Nop>
-
-" Remove newbie crutches in Visual Mode
-vnoremap <Down> <Nop>
-vnoremap <Left> <Nop>
-vnoremap <Right> <Nop>
-vnoremap <Up> <Nop>
 
 " Some basics:
 	nnoremap c "_c
@@ -151,9 +108,6 @@ vnoremap <Up> <Nop>
 	autocmd VimLeave *.tex !texclear %
 
 " Ensure files are read as what I want:
-	let g:vimwiki_ext2syntax = {'.Rmd': 'markdown', '.rmd': 'markdown','.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
-	map <leader>v :VimwikiIndex
-	let g:vimwiki_list = [{'path': '~/vimwiki', 'syntax': 'markdown', 'ext': '.md'}]
 	autocmd BufRead,BufNewFile /tmp/calcurse*,~/.calcurse/notes/* set filetype=markdown
 	autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
 	autocmd BufRead,BufNewFile *.tex set filetype=tex
@@ -177,15 +131,5 @@ vnoremap <Up> <Nop>
 " Update binds when sxhkdrc is updated.
 	autocmd BufWritePost *sxhkdrc !pkill -USR1 sxhkd
 
+" Transparent background in vim
 hi Normal ctermbg=None
-
-" Javascript formatters
-" FORMATTERS
-let g:neoformat_try_formatprg = 1
-autocmd FileType javascript,javascript.jsx,typescript,typescript.tsx set expandtab
-autocmd FileType javascript,javascript.jsx,typescript,typescript.tsx set shiftwidth=2
-au BufRead,BufNewFile *.tsx setfiletype typescript
-autocmd BufWritePre *.js,*.jsx,*.mjs,*.ts,*.tsx,*.css,*.less,*.scss,*.json,*.graphql,*.md,*.vue,*.yaml,*.html PrettierAsync
-
-"Python
-autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
