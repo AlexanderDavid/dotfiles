@@ -16,3 +16,4 @@
 .config/BraveSoftware/**
 .config/chromium
 .config/filezilla
+.config/pulse
