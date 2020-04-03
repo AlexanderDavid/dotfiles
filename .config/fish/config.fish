@@ -1,7 +1,8 @@
 # Profile file. Runs on login. Environmental variables are set here.
 
 # Adds `~/.local/bin` and the rust binaries to $PATH
-export PATH="$PATH:$HOME/.cargo/bin:"(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*\$//')
+# export PATH="$PATH:$HOME/.cargo/bin:"(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*\$//')
+export PATH="$PATH:$HOME/.local/bin/statusbar:$HOME/.local/bin/cron:$HOME/.local/bin/"
 
 # Default programs:
 export EDITOR="nvim"

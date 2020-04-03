@@ -12,4 +12,4 @@ unclutter &		                    # Remove mouse when idle
 xss-lock -- fancy-slock & 		    # Set a lock screen
 autorandr --load mobile &   		    # Load the default screen configuration
 setbg &			                    # set the background with the `setbg` script
-$STATUSBAR &		                    # script for updating the status bar
+# $STATUSBAR &		                    # script for updating the status bar
