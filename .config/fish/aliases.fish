@@ -12,10 +12,10 @@ alias mkd="mkdir -pv"
 alias yt="youtube-dl --add-metadata -i"
 alias yta="yt -x -f bestaudio/best"
 alias ffmpeg="ffmpeg -hide_banner"
-alias ll="ls -alh"
-alias lh="ls -lh"
-alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-
+alias ll="lsd --group-dirs first -alh"
+alias lh="ls --group-dirs first -lh"
+alias dots='/usr/bin/git --git-dir=$HOME/.config/.dotfiles/ --work-tree=$HOME'
+alias server='python -m http.server'
 
 # Colorize commands when possible.
 alias ls="ls -hN --color=auto --group-directories-first"
