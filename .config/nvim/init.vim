@@ -16,30 +16,37 @@ if ! filereadable(expand('~/.config/nvim/autoload/plug.vim'))
 endif
 
 call plug#begin('~/.config/nvim/plugged')
-Plug 'tpope/vim-surround'
-Plug 'tpope/vim-commentary'
-Plug 'scrooloose/nerdtree'
-Plug 'junegunn/goyo.vim'
-Plug 'jreybert/vimagit'
-Plug 'lervag/vimtex'
-Plug 'bling/vim-airline'
-Plug 'kovetskiy/sxhkd-vim'
-Plug 'jiangmiao/auto-pairs'
+Plug 'airblade/vim-gitgutter'
+Plug 'ap/vim-css-color'
+Plug 'cespare/vim-toml'
 Plug 'dag/vim-fish'
+Plug 'itchyny/lightline.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'junegunn/goyo.vim'
+Plug 'kovetskiy/sxhkd-vim'
+Plug 'lervag/vimtex'
 Plug 'lifepillar/vim-gruvbox8'
 Plug 'ryanoasis/vim-devicons'
 Plug 'sbdchd/neoformat'
-Plug 'prettier/vim-prettier'
-Plug 'airblade/vim-gitgutter'
+Plug 'scrooloose/nerdtree'
+Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-surround'
+Plug 'jceb/vim-orgmode'
 call plug#end()
 
 set go=a
 set mouse=a
 set nohlsearch
 set clipboard+=unnamedplus
+set noshowmode
 
 " Make vim look gruvvy
 colorscheme gruvbox8
+
+" Make statusline look gruvvy
+let g:lightline = {
+	\ 'colorscheme': 'seoul256',
+	\ }
 
 " Set fish shell syntax highlighting
 au FileType fish compiler fish
@@ -79,8 +86,6 @@ set autowriteall
         let g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol='' " symbol for closed folder (f07b)
         let NERDTreeDirArrowExpandable = "\u00a0"
         let NERDTreeDirArrowCollapsible = "\u00a0"
-
-
 
 " Shortcutting split navigation, saving a keypress:
 	map <C-h> <C-w>h
@@ -130,6 +135,8 @@ set autowriteall
 	autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
 " Update binds when sxhkdrc is updated.
 	autocmd BufWritePost *sxhkdrc !pkill -USR1 sxhkd
+" Compile suckless on write
+	autocmd BufWritePost config.h !make
 
 " Transparent background in vim
 hi Normal ctermbg=None
