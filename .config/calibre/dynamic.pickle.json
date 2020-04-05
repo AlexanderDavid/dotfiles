@@ -1,0 +1,16 @@
+{
+  "add books dialog dir": "/home/alex/doc/books",
+  "database location dialog": "/home/alex/doc/books/CalibreLibrary",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

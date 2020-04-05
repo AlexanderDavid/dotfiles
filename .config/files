@@ -4,8 +4,9 @@ bw	~/.config/bookmarks
 cfa	~/.config/aliasrc
 cfv	~/.config/nvim/init.vim
 cfm	~/repos/dmenu/config.h
-cfd	~/repos/dwm/config.h
+cfd	~/.config/dunst/dunstrc
 cfs	~/repos/slstatus/config.h
 cfk	~/.config/sxhkd/sxhkdrc
 cff     ~/.config/fish/config.fish
 cfc     ~/.config/picom/picom.conf
+cfr	~/.config/ranger/rc.conf

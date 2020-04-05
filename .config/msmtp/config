@@ -12,6 +12,18 @@ user alex@alexday.me
 passwordeval "pass mutt-wizard-alexdayme"
 
 
+# Set a default account
+account default : gmail
+
+
+account clemson
+host smtp.gmail.com
+port 587
+from adday@g.clemson.edu
+user adday@g.clemson.edu
+passwordeval "pass mutt-wizard-clemson"
+
+
 account gmail
 host smtp.gmail.com
 port 587
@@ -19,5 +31,4 @@ from alexday135@gmail.com
 user alexday135@gmail.com
 passwordeval "pass mutt-wizard-gmail"
 
-# Set a default account
-account default : gmail
+

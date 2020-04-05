@@ -1,0 +1,38 @@
+IMAPAccount gmail
+# Address to connect to
+Host imap.gmail.com
+Port 993
+User alexday135@gmail.com
+PassCmd "pass mutt-wizard-gmail"
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+IMAPStore gmail-remote
+Account gmail
+
+MaildirStore gmail-local
+Subfolders Verbatim
+Path ~/.local/mail/gmail/
+Inbox ~/.local/mail/gmail/Inbox
+
+Channel sync-gmail-default
+Master :gmail-remote:
+Slave :gmail-local:
+# Select some mailboxes to sync
+Patterns "INBOX" "arch"
+
+Channel sync-gmail-sent
+Master :gmail-remote:"[Gmail].Sent Mail"
+Slave :gmail-local:sent
+Create Slave
+
+Channel sync-gmail-trash
+Master :gmail-remote:"[Gmail].Trash"
+Slave :gmail-local:trash
+Create Slave
+
+# Get all the channels together into a group.
+Group gmail
+Channel sync-gmail-default
+Channel sync-gmail-sent
+Channel sync-gmail-trash
