@@ -4,24 +4,12 @@ tls	on
 tls_trust_file	/etc/ssl/certs/ca-certificates.crt
 logfile	~/.config/msmtp/msmtp.log
 
-account alexdayme
-host mail.privateemail.com
-port 465
-from alex@alexday.me
-user alex@alexday.me
-passwordeval "pass mutt-wizard-alexdayme"
-
-
-# Set a default account
-account default : gmail
-
-
 account clemson
 host smtp.gmail.com
 port 587
-from adday@g.clemson.edu
+from adday@clemson.edu
 user adday@g.clemson.edu
-passwordeval "pass mutt-wizard-clemson"
+passwordeval "pass mail/clemson"
 
 
 account gmail
@@ -29,6 +17,8 @@ host smtp.gmail.com
 port 587
 from alexday135@gmail.com
 user alexday135@gmail.com
-passwordeval "pass mutt-wizard-gmail"
+passwordeval "pass mail/gmail"
 
 
+# Set a default account
+account default : gmail
