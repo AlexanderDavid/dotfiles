@@ -26,6 +26,7 @@ remotepasseval = get_pass("gmail")
 realdelete = no
 maxconnections = 5
 sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+folderfilter = lambda folder: "sms" not in folder.lower() and "call log" not in folder.lower() and "note" not in folder.lower() and "starred" not in folder.lower()
 
 [Repository Clemson-Remote]
 type = Gmail
