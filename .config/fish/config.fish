@@ -30,6 +30,7 @@ export ALSA_CONFIG_PATH="$HOME/.config/alsa/asoundrc"
 export DICS="/usr/share/stardict/dic/"
 export SUDO_ASKPASS="$HOME/.local/bin/dmenupass"
 export FZF_DEFAULT_OPTS="--layout=reverse --height 40%"
+export MAILDIR="$HOME/.local/share/mail/"
 
 # Bootstrap the shortcuts file
 [ ! -f ~/.config/fish/shortcuts.fish ] && shortcuts >/dev/null 2>&1
