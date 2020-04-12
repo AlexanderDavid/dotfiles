@@ -23,6 +23,8 @@ export GNUPGHOME="$HOME/.config/gnupg"
 export CARGO_HOME="$HOME/.local/share/cargo"
 export RUSTUP_HOME="$HOME/.local/share/rustup"
 export XAUTHORITY="$HOME/.cache/Xauthority"
+export MU_HOME="$HOME/.cache/mu"
+export ALSA_CONFIG_PATH="$HOME/.config/alsa/asoundrc"
 
 # Other program settings:
 export DICS="/usr/share/stardict/dic/"
