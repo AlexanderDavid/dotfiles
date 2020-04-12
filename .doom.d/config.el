@@ -23,78 +23,125 @@
  '(org-headline-done
    ((((class color) (min-colors 16) (background dark))
      (:strike-through t)))))
+(require 'org-mu4e)
 (setq org-capture-templates
-      '(("s" "School Todo" entry (file+headline "~/org/school.org" "Tasks")
-         "* TODO %?\n  %i\n  %a")
-        ("p" "Personal Todo" entry (file+headline "~/org/personal.org" "Tasks")
-         "* TODO %?\n  %i\n  %a")
-        ("n" "Note" entry (file+headline "~/org/notes.org" "Notes")
+      '(("p" "Todo" entry (file+headline "~/doc/org/todo.org" "Inbox")
+         "* TODO %?\n  %a\n")
+        ;; ("e" "Email Todo" entry (file+headline "~/doc/org/todo.org" "Inbox")
+        ;;  "* TODO %?\nSCHEDULED: %(org-insert-time-stamp (org-read-date nil t \"+0d\"))\n%a\n")
+        ("e" "Email Todo" entry (file+headline "~/doc/org/todo.org" "Inbox")
+         "* TODO %?\nProcess mail from %:fromname on %:subject\nSCHEDULED:%t\nDEADLINE: %(org-insert-time-stamp (org-read-date nil t \"+2d\"))\n:PROPERTIES:\n:CREATED: %U\n:END:\n %a" :prepend t)
+        ("n" "Note" entry (file+headline "~/doc/org/notes.org" "Notes")
          "* NOTE %?\n  %i\n  %a")
-        ("j" "Journal" entry (file+datetree "~/org/journal.org")
+        ("j" "Journal" entry (file+datetree "~/doc/org/journal.org")
          "* %?\nEntered on %U\n  %i\n  %a")))
 (setq org-agenda-start-on-weekday nil)
 (setq org-agenda-start-day "0d")
 (setq org-agenda-span 'day)
-(after! mu4e
-  (setq! mu4e-get-mail-command "mbsync -a && mu index --maildir=~/.local/share/mail/"
-         mu4e-index-update-in-background t
-         mu4e-use-fancy-chars t
-         mu4e-compose-signature-auto-include t
-         mu4e-use-fancy-chars t
-         mu4e-view-show-addresses t
-         mu4e-view-show-images t
-         mu4e-compose-format-flowed t
-         mu4e-maildir "~/.local/share/mail"
-         ;mu4e-compose-in-new-frame t
-         mu4e-change-filenames-when-moving t ;; http://pragmaticemacs.com/emacs/fixing-duplicate-uid-errors-when-using-mbsync-and-mu4e/
-)
-  ;; Add an open in browser action
-  (add-to-list 'mu4e-headers-actions
-             '("in browser" . mu4e-action-view-in-browser) t)
-  (add-to-list 'mu4e-view-actions
-             '("in browser" . mu4e-action-view-in-browser) t)
-  (setq! mu4e-compose-context-policy 'ask-if-none
-         mu4e-context-policy 'pick-first
-         mu4e-contexts
-            `( ,(make-mu4e-context
-                    :name "gmail"
-                    :match-func (lambda (msg)
-                                    (when msg
-                                        (mu4e-message-contact-field-matches msg
-                                        :to "alexday135@gmail.com")))
-                    :enter-func '()
-                    :leave-func (lambda () (mu4e-clear-caches))
-                    :vars '(
-                            (user-mail-address      . "alexday135@gmail")
-                            (user-full-name         . "Alex Day")
-                            (mu4e-drafts-folder     . "/gmail/Drafts")
-                            (mu4e-refile-folder     . "/gmail/Archive")
-                            (mu4e-sent-folder       . "/gmail/Sent Mail")
-                            (mu4e-trash-folder      . "/gmail/Trash")
-                            (mu4e-update-interval   . 1800)))
-                ,(make-mu4e-context
-                    :name "alexday"
-                    :match-func (lambda (msg)
-                                    (when msg
-                                        (mu4e-message-contact-field-matches msg
-                                            :to "alex@alexday.me")))
-                    :enter-func '()
-                    :leave-func (lambda () (mu4e-clear-caches))
-                    :vars '((user-mail-address      . "alex@alexday.me")
-                            (user-full-name         . "Alex Day")
-                            (mu4e-drafts-folder     . "/alexdayme/Drafts")
-                            (mu4e-refile-folder     . "/alexdayme/Archive")
-                            (mu4e-sent-folder       . "/alexdayme/Sent")
-                            (mu4e-trash-folder      . "/alexdayme/Trash")
-                            (mu4e-update-interval   . 1800)))))
-(setq! sendmail-program "/usr/bin/msmtp"
-       message-sendmail-f-is-evil t
-       message-sendmail-extra-arguments '("--read-envelope-from")
-       message-send-mail-function 'message-send-mail-with-sendmail)
-  (setq! message-citation-line-format "On %a %d %b %Y at %R, %f wrote:\n"
-         message-citation-line-function 'message-insert-formatted-citation-line
-         message-kill-buffer-on-exit t)
-)
+(setq org-pretty-entities 't)
+(require 'mu4e)
+
+;; use mu4e for e-mail in emacs
+(setq mail-user-agent 'mu4e-user-agent)
+(setq mu4e-maildir "/home/alex/.local/share/mail")
+
+;; default
+(setq mu4e-contexts
+    `( ,(make-mu4e-context
+        :name "clemson"
+        :enter-func (lambda ()
+                      (mu4e-message "Entering Clemson context")
+                      (setq mu4e-maildir-shortcuts  '( ("/clemson/INBOX"               . ?i)
+                                                       ("/clemson/[Gmail].Sent Mail"   . ?s)
+                                                       ("/clemson/[Gmail].Trash"       . ?t)
+                                                       ("/clemson/[Gmail].All Mail"    . ?a)
+                                                       ("/clemson/archive"             . ?r)))
+                    )
+        :leave-func (lambda () (mu4e-message "Leaving Clemson context"))
+        :match-func (lambda (msg)
+        (when msg
+            (or (mu4e-message-contact-field-matches msg
+                :to "adday@clemson.edu")
+                (mu4e-message-contact-field-matches msg
+                :to "adday@g.clemson.edu"))))
+        :vars '( ( user-mail-address     . "adday@clemson.edu"  )
+                ( user-full-name         . "Alex Day" )
+                ( mu4e-drafts-folder     . "/clemson/[Gmail].Drafts")
+                ( mu4e-sent-folder       . "/clemson/[Gmail].Sent Mail")
+                ( mu4e-trash-folder      . "/clemson/[Gmail].Trash")
+                ( mu4e-refile-folder     . "/clemson/archive" )
+                ( mu4e-compose-signature .
+                    (concat
+                    "Alex Day"))))
+       ,(make-mu4e-context
+        :name "Gmail"
+        :enter-func (lambda ()
+                      (mu4e-message "Entering Gmail context")
+                      (setq mu4e-maildir-shortcuts  '( ("/gmail/INBOX"               . ?i)
+                                                       ("/gmail/[Gmail].Sent Mail"   . ?s)
+                                                       ("/gmail/[Gmail].Trash"       . ?t)
+                                                       ("/gmail/[Gmail].All Mail"    . ?a)
+                                                       ("/gmail/archive"             . ?r)))
+                    )
+        :leave-func (lambda () (mu4e-message "Leaving Gmail context"))
+        :match-func (lambda (msg)
+                        (when msg
+                                (mu4e-message-contact-field-matches msg
+                                :to "alexday135@gmail.com")))
+        :vars '( ( user-mail-address     . "alexday135@gmail.com"  )
+                ( user-full-name         . "Alex Day" )
+                ( mu4e-drafts-folder     . "/gmail/[Gmail].Drafts")
+                ( mu4e-sent-folder       . "/gmail/[Gmail].Sent Mail")
+                ( mu4e-trash-folder      . "/gmail/[Gmail].Trash")
+                ( mu4e-refile-folder     . "/gmail/archive" )
+                ( mu4e-compose-signature .
+                    (concat
+                    "Alex Day"))))))
+
+
+;; set `mu4e-context-policy` and `mu4e-compose-policy` to tweak when mu4e should
+;; guess or ask the correct context, e.g.
+
+;; start with the first (default) context;
+;; default is to ask-if-none (ask when there's no context yet, and none match)
+;; (setq mu4e-context-policy 'pick-first)
+
+;; compose with the current context is no context matches;
+;; default is to ask
+;; (setq mu4e-compose-context-policy nil)
+
+;; don't save message to Sent Messages, Gmail/IMAP takes care of this
+(setq mu4e-sent-messages-behavior 'delete)
+
+;; allow for updating mail using 'U' in the main view:
+(setq mu4e-get-mail-command "offlineimap")
+
+;; Download attachments to the correct directory
+(setq mu4e-attachment-dir "~/dl")
+
+;; Sometimes html email is just not readable in a text based client, this lets me open the
+;; email in my browser.
+(add-to-list 'mu4e-view-actions '("View in browser" . mu4e-action-view-in-browser) t)
+
+;; sending mail -- replace USERNAME with your gmail username
+;; also, make sure the gnutls command line utils are installed
+;; package 'gnutls-bin' in Debian/Ubuntu
+
+
+(setq message-send-mail-function 'message-send-mail-with-sendmail)
+(setq sendmail-program "/usr/bin/msmtp")
+;; tell msmtp to choose the SMTP server according to the from field in the outgoing email
+(setq message-sendmail-extra-arguments '("--read-envelope-from"))
+(setq message-sendmail-f-is-evil 't)
+
+;; don't keep message buffers around
+(setq message-kill-buffer-on-exit t)
+
+;; Store link to message if in header view, not to header query
+(setq org-mu4e-link-query-in-headers-mode nil)
+(setq org-gcal-client-id "900216513200-bs50871t0mb9kpmgoq6uindfg58tjiql.apps.googleusercontent.com"
+org-gcal-client-secret "fhVYMXuuuq6HgT7eyumR1DXi"
+org-gcal-file-alist '(("alexday135@gmail.com" .  "~/doc/org/personal.org")))
 (setq! +latex-viewers '(pdf-tools)
        TeX-view-evince-keep-focus 't)
 (add-hook! 'latex-mode-hook
@@ -149,3 +196,9 @@
         :desc "In" "i" 'eimp-increase-image-size
         :desc "Out" "o" 'eimp-decrease-image-size
         :desc "Fit to Window" "f" 'eimp-fit-image-to-window))
+(map! :leader
+      (:prefix ("o")
+        :desc "Open todo.org" "t" (lambda () (interactive) (find-file "~/doc/org/todo.org"))))
+(map! :leader
+      (:prefix ("o")
+        :desc "Open mu4e" "m" 'mu4e))
