@@ -35,3 +35,4 @@ remotepasseval = get_pass("clemson")
 realdelete = no
 maxconnections = 5
 sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+nametrans = lambda f: f.replace('[Gmail]/', '').replace("Sent Mail", "Sent") if f.startswith('[Gmail]/') else f
