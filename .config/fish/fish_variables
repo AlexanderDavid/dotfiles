@@ -21,6 +21,7 @@ SETUVAR _fish_abbr_cfd:nvim\x20\x7e/\x2econfig/dunst/dunstrc
 SETUVAR _fish_abbr_cff:nvim\x20\x7e/\x2econfig/fish/config\x2efish
 SETUVAR _fish_abbr_cfk:nvim\x20\x7e/\x2econfig/sxhkd/sxhkdrc
 SETUVAR _fish_abbr_cfm:nvim\x20\x7e/repos/dmenu/config\x2eh
+SETUVAR _fish_abbr_cfo:nvim\x20\x7e/\x2econfig/offlineimap/config
 SETUVAR _fish_abbr_cfr:nvim\x20\x7e/\x2econfig/ranger/rc\x2econf
 SETUVAR _fish_abbr_cfs:nvim\x20\x7e/repos/slstatus/config\x2eh
 SETUVAR _fish_abbr_cfv:nvim\x20\x7e/\x2econfig/nvim/init\x2evim
