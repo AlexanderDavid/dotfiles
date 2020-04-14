@@ -1,0 +1,5 @@
+#! /bin/sh
+
+# Push the current changes UP
+rclone copy ~/doc/org/ remote:org
+
