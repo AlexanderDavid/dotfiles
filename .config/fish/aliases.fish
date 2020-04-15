@@ -32,6 +32,7 @@ alias e="$EDITOR"
 alias v="$EDITOR"
 alias p="sudo pacman"
 alias sv="sudo $EDITOR"
+alias mbsync="mbsync -c $HOME/.config/isync/mbsyncrc"
 
 # This alias is important. It enables the `pauseallmpv` command.
 # alias mpv="mpv --input-ipc-server=/tmp/mpvsoc(date +%s)"
