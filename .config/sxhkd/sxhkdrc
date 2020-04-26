@@ -25,7 +25,7 @@ super + n
 super + c
 	$TERMINAL -e calcurse
 super + b
-	blueman-manager
+	blueman-applet && blueman-manager
 super + v
 	$TERMINAL -e $EDITOR
 super + shift + v
