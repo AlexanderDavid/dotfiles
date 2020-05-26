@@ -15,4 +15,6 @@ case $BLOCK_BUTTON in
 esac
 
 
+printf "^b$(xgetres slstatus.background)^"
+printf "^c$(xgetres slstatus.foreground)^"
 pacman -Qu | grep -v "\[ignored\]" | wc -l | sed -e "s/^0$//g"

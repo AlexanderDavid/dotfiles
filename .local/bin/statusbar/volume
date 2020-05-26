@@ -29,4 +29,6 @@ else
 	icon=""
 fi
 
-printf "%s %3s%%\\n" "$icon" "$vol"
+printf "^b$(xgetres slstatus.color9)^"
+printf "^c$(xgetres slstatus.background)^"
+printf " %s %3s%% \\n" "$icon" "$vol"

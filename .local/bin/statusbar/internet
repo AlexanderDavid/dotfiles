@@ -2,6 +2,8 @@
 
 [ "$(cat /sys/class/net/w*/operstate)" = 'down' ] && wifiicon=""
 
-[ ! -n "${wifiicon+var}" ] && wifiicon=$(grep "^\s*w" /proc/net/wireless | awk '{ print " ", sprintf("%03s", int($3 * 100 / 70)) "%" }')
+[ ! -n "${wifiicon+var}" ] && wifiicon=$(grep "^\s*w" /proc/net/wireless | awk '{ print "", sprintf("%03s", int($3 * 100 / 70)) "%" }')
 
-printf "%s " "$wifiicon" # "$(cat /sys/class/net/w*/operstate | sed "s/down/⬇/;s/up//")"
+printf "^b$(xgetres slstatus.color5)^"
+printf "^c$(xgetres slstatus.background)^"
+printf " %s " "$wifiicon" # "$(cat /sys/class/net/w*/operstate | sed "s/down/⬇/;s/up//")"

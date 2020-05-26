@@ -23,6 +23,9 @@ for battery in /sys/class/power_supply/BAT?; do
 
 	[ -z $warn ] && warn=" "
 
-	printf "%s%s%s" "$(echo "$stat" | sed -e "s/,//;s/Discharging/$icon /;s/Not charging//;s/Charging//;s/Unknown//;s/Full//;s/ 0*/ /g;s/ :/ /g")" "$warn" "$(echo "$capacity" | sed -e 's/$/%/')"
+
+	printf "^b$(xgetres slstatus.color14)^"
+	printf "^c$(xgetres slstatus.background)^"
+	printf " %s%s%s " "$(echo "$stat" | sed -e "s/,//;s/Discharging/$icon /;s/Not charging//;s/Charging//;s/Unknown//;s/Full//;s/ 0*/ /g;s/ :/ /g")" "$warn" "$(echo "$capacity" | sed -e 's/$/%/')"
 	unset warn
 done
