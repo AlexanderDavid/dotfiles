@@ -3,7 +3,7 @@
 
 ping -q -c 1 1.1.1.1 > /dev/null || exit
 
-notify-send "📦 Repository Sync" "Checking for package updates..."
+notify-send " Repository Sync" "Checking for package updates..."
 
 sudo pacman -Syyuw --noconfirm || notify-send "Error downloading updates.
 
@@ -12,7 +12,7 @@ pkill -RTMIN+8 "${STATUSBAR:?}"
 
 if pacman -Qu | grep -v "\[ignored\]"
 then
-	notify-send "🎁 Repository Sync" "Updates available. Please update"
+	notify-send " Repository Sync" "Updates available. Please update"
 else
-	notify-send "📦 Repository Sync"  "Sync complete. No new packages for update."
+	notify-send " Repository Sync"  "Sync complete. No new packages for update."
 fi

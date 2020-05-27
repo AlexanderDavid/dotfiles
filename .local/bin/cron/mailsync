@@ -4,7 +4,7 @@
 
 # Run only if user logged in (prevent cron errors)
 pgrep -u "${USER:=$LOGNAME}" >/dev/null || { echo "$USER not logged in; sync will not run."; exit ;}
-# Run only if not already running i other instance
+# Run only if not already running in other instance
 pgrep -x mbsync >/dev/null && { echo "mbsync is already running." ; exit ;}
 
 # Checks for internet connection and set notification script.
@@ -18,12 +18,19 @@ export DISPLAY=:0.0
 # For individual configurations:
 [ -d "$HOME/.local/share/password-store" ] && export PASSWORD_STORE_DIR="$HOME/.local/share/password-store"
 
-notify() { notify-send --app-name="Mail" "Mail" "ﯬ $2 new mail(s) in \`$1\` account." ;}
+# Settings are different for MacOS (Darwin) systems.
+if [ "$(uname)" = "Darwin" ]; then
+    notify() { osascript -e "display notification \"$2 in $1\" with title \"You've got Mail\" subtitle \"Account: $account\"" && sleep 2 ;}
+    messageinfo() { osascript "display notification with title \"📧 $from\" subtitle \"$subject\"" ;}
+else
+    notify() { notify-send --app-name="mutt-wizard" "mutt-wizard" "📬 $2 new mail(s) in \`$1\` account." ;}
+    messageinfo() { notify-send --app-name="mutt-wizard" "📧$from:" "$subject" ;}
+fi
 
 # Check account for new mail. Notify if there is new content.
 syncandnotify() {
     acc="$(echo "$account" | sed "s/.*\///")"
-    mbsync -a
+    mbsync -c /home/alex/.config/isync/mbsyncrc $opts "$acc"
     new=$(find "$HOME/.local/share/mail/$acc/INBOX/new/" "$HOME/.local/share/mail/$acc/Inbox/new/" "$HOME/.local/share/mail/$acc/inbox/new/" -type f -newer "$HOME/.config/mutt/.mailsynclastrun" 2> /dev/null)
     newcount=$(echo "$new" | sed '/^\s*$/d' | wc -l)
     if [ "$newcount" -gt "0" ]; then
@@ -32,24 +39,35 @@ syncandnotify() {
             # Extract subject and sender from mail.
             from=$(awk '/^From: / && ++n ==1,/^\<.*\>:/' "$file" | perl -CS -MEncode -ne 'print decode("MIME-Header", $_)' | awk '{ $1=""; if (NF>=3)$NF=""; print $0 }' | sed 's/^[[:blank:]]*[\"'\''\<]*//;s/[\"'\''\>]*[[:blank:]]*$//')
             subject=$(awk '/^Subject: / && ++n == 1,/^\<.*\>: / && ++i == 2' "$file" | head -n-1 | perl -CS -MEncode -ne 'print decode("MIME-Header", $_)' | sed 's/^Subject: //' | sed 's/^{[[:blank:]]*[\"'\''\<]*//;s/[\"'\''\>]*[[:blank:]]*$//' | tr -d '\n')
-            notify-send --app-name="Mail" "﯍$from:" "$subject" &
+	    messageinfo &
         done
     fi
 }
 
 # Sync accounts passed as argument or all.
 if [ "$#" -eq "0" ]; then
-    accounts="$(awk '/^Channel/ {print $2}' "$HOME/.mbsyncrc")"
+    accounts="$(awk '/^Channel/ {print $2}' "$HOME/.config/isync/mbsyncrc")"
 else
+    for arg in "$@"; do
+        [ "${arg%${arg#?}}" = '-' ] && opts="${opts:+${opts} }${arg}" && shift 1
+    done
     accounts=$*
 fi
 
+echo " 🔃" > /tmp/imapsyncicon_"$USER"
+( pkill -RTMIN+14 "${STATUSBAR:-blocks}" >/dev/null 2>&1 ) 2>/dev/null
 
 # Parallelize multiple accounts
-syncandnotify
-mu index -m /home/alex/.local/share/mail/ --muhome /home/alex/.cache/mu
+for account in $accounts
+do
+    syncandnotify &
+done
 
+wait
+rm -f /tmp/imapsyncicon_"$USER"
+( pkill -RTMIN+12 "${STATUSBAR:-blocks}" >/dev/null 2>&1 ) 2>/dev/null
 
+mu index
 
 #Create a touch file that indicates the time of the last run of mailsync
-touch "$HOME/.config/.mailsynclastrun"
+touch "$HOME/.config/mutt/.mailsynclastrun"
