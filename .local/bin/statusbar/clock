@@ -1,15 +1,16 @@
 #!/usr/bin/env sh
 
-printf "^b$(xgetres slstatus.color3)^"
-printf "^c$(xgetres slstatus.background)^"
+# printf "^b$(xgetres slstatus.color3)^"
+# printf "^c$(xgetres slstatus.background)^"
 printf "  "
 printf "$(date '+%b %d (%a) %I:%M%p')"
 printf "  "
 
 
 case $BLOCK_BUTTON in
-	1) pgrep -x dunst >/dev/null && notify-send "This Month" "$(cal --color=always | sed "s/..7m/<b><span color=\"red\">/;s/..27m/<\/span><\/b>/")" && notify-send "Appointments" "$(calcurse -D ~/.config/calcurse -d3)" ;;
-	2) $TERMINAL -e calcurse -D ~/.config/calcurse ;;
-	3) pgrep -x dunst >/dev/null && notify-send "📅 Time/date module" "\- Left click to show upcoming appointments for the next three days via \`calcurse -d3\` and show the month via \`cal\`
-- Middle click opens calcurse if installed" ;;
+	1) emacs --funcall org-agenda-list ;;
+	2) pgrep -x dunst >/dev/null && notify-send "📅 Time/date module" "\- Right click: show upcoming appointments for the next three days
+- Left click: Open org agenda" ;;
+	3) calup && pgrep -x dunst >/dev/null && notify-send "This Month" "$(cal --color=always | sed "s/..7m/<b><span color=\"red\">/;s/..27m/<\/span><\/b>/")" && notify-send "Appointments" "$(emacs --batch --eval '(progn (setq org-agenda-files (quote ("~/doc/org/"))) (setq org-agenda-use-time-grid nil) (org-batch-agenda "a"))' | sed 1d)" ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac

@@ -2,8 +2,16 @@
 
 NEWMAILS=$(du -a ~/.local/share/mail/*/INBOX/new/* 2>/dev/null | wc -l)
 
-if [ "$NEWMAILS" -gt 0 ]; then
-	printf "^b%s^" $(xgetres slstatus.color2)
-	printf "^c%s^" $(xgetres slstatus.background)
-	printf " ﯬ %s" $NEWMAILS
-fi
+# if [ "$NEWMAILS" -gt 0 ]; then
+	# printf "^b%s^" $(xgetres slstatus.color2)
+	# printf "^c%s^" $(xgetres slstatus.background)
+printf " ﯬ %s " $NEWMAILS
+# fi
+
+case $BLOCK_BUTTON in
+	1) setsid emacs --eval "(mu4e)" & ;;
+	2)  notify-send "📫 Mail Module" "\- Left click: Open mu4e\n\- Right click: Sync mail" ;;
+	3) setsid mailsync gmail & \
+		setsid mailsync clemson & ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
