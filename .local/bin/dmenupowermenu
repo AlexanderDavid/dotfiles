@@ -1,0 +1,14 @@
+#!/usr/bin/fish
+
+switch (echo -e 'lock\nlogout\nreboot\npoweroff\nexit' | dmenu -i -c -l 6 -bw 2 -p " ")
+case "lock"
+	fancy-slock
+case "logout"
+	killall xinit
+case "reboot"
+	systemctl reboot
+case "poweroff"
+	sdn
+case "*"
+	echo "SOMETHING ELSE"
+end
