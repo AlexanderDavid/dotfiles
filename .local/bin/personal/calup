@@ -1,8 +1,0 @@
-#!/bin/sh
-
-# Get personal calander
-curl https://calendar.google.com/calendar/ical/alexday135%40gmail.com/private-01da04f79a68fc711e6008461d627221/basic.ics | ical2org 2> /dev/null |  sed "s/#+CATEGORY:    google/#+CATEGORY:    personal/g" > ~/doc/org/personal.org
-
-# Get clemson calander
-curl https://calendar.google.com/calendar/ical/adday%40g.clemson.edu/private-2b04f410df590429d2fbfa4e5e4c25f1/basic.ics | ical2org 2> /dev/null | sed "s/#+CATEGORY:    google/#+CATEGORY:    clemson/g" > ~/doc/org/clemson.org
-

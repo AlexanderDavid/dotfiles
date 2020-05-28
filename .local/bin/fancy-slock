@@ -1,5 +1,0 @@
-#!/bin/sh
-
-DATE="$(date +'%H:%M')"
-FIGLETTED_DATE="$(echo $DATE | figlet -c)"
-slock -m "$(echo "  Locked at $DATE" | figlet)"
