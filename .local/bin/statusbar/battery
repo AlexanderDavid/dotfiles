@@ -10,6 +10,8 @@ case $BLOCK_BUTTON in
 🔌: charging
 ⚡: charged
 ❗: battery very low!" ;;
+	4) exit ;;
+	5) exit ;;
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
@@ -21,11 +23,11 @@ for battery in /sys/class/power_supply/BAT?
 do
 	# Get its remaining capacity and charge status.
 	capacity=$(cat "$battery"/capacity) || break
-	status=$(sed "s/[Dd]ischarging//;s/[Nn]ot charging/栗/;s/[Cc]harging//;s/[Uu]nknown//;s/[Ff]ull//" "$battery"/status)
+	status=$(sed "s/[Dd]ischarging/ /;s/[Nn]ot charging/栗/;s/[Cc]harging//;s/[Uu]nknown//;s/[Ff]ull//" "$battery"/status)
 
 	# If it is discharging and 25% or less, we will add a ❗ as a warning.
 	 [ "$capacity" -le 25 ] && [ "$status" = "🔋" ] && warn="❗"
 
-	printf "%s  %s%s%% " "$status" "$warn" "$capacity"
+	printf "%s %s%s%% " "$status" "$warn" "$capacity"
 	unset warn
 done | sed 's/ *$//'

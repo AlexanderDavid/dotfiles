@@ -11,6 +11,8 @@ case $BLOCK_BUTTON in
 ❎: no ethernet
 🌐: ethernet working
 " ;;
+	4) exit ;;
+	5) exit ;;
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
