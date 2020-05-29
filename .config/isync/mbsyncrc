@@ -2,7 +2,6 @@ IMAPAccount clemson
 Host imap.gmail.com
 User adday@g.clemson.edu
 PassCmd "pass mail/clemson"
-# Use SSL
 SSLType IMAPS
 CertificateFile /etc/ssl/certs/ca-certificates.crt
 
@@ -18,51 +17,43 @@ Inbox ~/.local/share/mail/clemson/INBOX
 Channel sync-clemson-default
 Master :clemson-remote:
 Slave :clemson-local:
-Patterns "INBOX" "arch"
+# Select some mailboxes to sync
+Patterns "INBOX"
+
+SyncState *
 
 Channel sync-clemson-sent
 Master :clemson-remote:"[Gmail]/Sent Mail"
-Slave :clemson-local:Sent
+Slave :clemson-local:sent
 Create Slave
 
 Channel sync-clemson-archive
 Master :clemson-remote:"archive"
-Slave :clemson-local:Archive
-Create Slave
-
-Channel sync-clemson-trash
-Master :clemson-remote:"[Gmail]/Trash"
-Slave :clemson-local:Trash
+Slave :clemson-local:archive
 Create Slave
 
 Channel sync-clemson-drafts
 Master :clemson-remote:"[Gmail]/Drafts"
-Slave :clemson-local:Drafts
+Slave :clemson-local:drafts
 Create Slave
 
-Channel sync-clemson-spam
-Master :clemson-remote:"[Gmail]/Spam"
-Slave :clemson-local:Spam
+Channel sync-clemson-trash
+Master :clemson-remote:"[Gmail]/Trash"
+Slave :clemson-local:trash
 Create Slave
 
 # Get all the channels together into a group.
 Group clemson
 Channel sync-clemson-default
 Channel sync-clemson-sent
-Channel sync-clemson-archive
 Channel sync-clemson-trash
 Channel sync-clemson-drafts
-Channel sync-clemson-spam
-
-
-
-# GMAIL
+Channel sync-clemson-archive
 
 IMAPAccount gmail
 Host imap.gmail.com
 User alexday135@gmail.com
 PassCmd "pass mail/gmail"
-# Use SSL
 SSLType IMAPS
 CertificateFile /etc/ssl/certs/ca-certificates.crt
 
@@ -78,38 +69,35 @@ Inbox ~/.local/share/mail/gmail/INBOX
 Channel sync-gmail-default
 Master :gmail-remote:
 Slave :gmail-local:
-Patterns "INBOX" "arch"
+# Select some mailboxes to sync
+Patterns "INBOX"
+
+SyncState *
 
 Channel sync-gmail-sent
 Master :gmail-remote:"[Gmail]/Sent Mail"
-Slave :gmail-local:Sent
+Slave :gmail-local:sent
 Create Slave
 
 Channel sync-gmail-archive
 Master :gmail-remote:"archive"
-Slave :gmail-local:Archive
-Create Slave
-
-Channel sync-gmail-trash
-Master :gmail-remote:"[Gmail]/Trash"
-Slave :gmail-local:Trash
+Slave :gmail-local:archive
 Create Slave
 
 Channel sync-gmail-drafts
 Master :gmail-remote:"[Gmail]/Drafts"
-Slave :gmail-local:Drafts
+Slave :gmail-local:drafts
 Create Slave
 
-Channel sync-gmail-spam
-Master :gmail-remote:"[Gmail]/Spam"
-Slave :gmail-local:Spam
+Channel sync-gmail-trash
+Master :gmail-remote:"[Gmail]/Trash"
+Slave :gmail-local:trash
 Create Slave
 
 # Get all the channels together into a group.
 Group gmail
 Channel sync-gmail-default
 Channel sync-gmail-sent
-Channel sync-gmail-archive
 Channel sync-gmail-trash
 Channel sync-gmail-drafts
-Channel sync-gmail-spam
+Channel sync-gmail-archive
