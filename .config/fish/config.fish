@@ -2,7 +2,7 @@
 
 # Adds `~/.local/bin` and the rust binaries to $PATH
 # export PATH="$PATH:$HOME/.cargo/bin:"(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*\$//')
-export PATH="$PATH:$HOME/.local/bin/personal:$HOME/.local/bin/statusbar:$HOME/.local/bin/cron:$HOME/.local/bin/"
+export PATH="$PATH:$HOME/.local/bin/personal:$HOME/.local/bin/statusbar:$HOME/.local/bin/cron:$HOME/.local/bin/:$HOME/.cask/bin:$PATH"
 export LANG="en_US.UTF-8"
 
 # Default programs:
@@ -11,7 +11,7 @@ export TERMINAL="st"
 export BROWSER="brave"
 export READER="zathura"
 export FILE="ranger"
-export STATUSBAR="slstatus"
+export STATUSBAR="dwmblocks"
 
 # ~/ Clean-up:
 export NOTMUCH_CONFIG="$HOME/.config/notmuch-config"
@@ -20,7 +20,7 @@ export LESSHISTFILE="-"
 export INPUTRC="$HOME/.config/inputrc"
 export ZDOTDIR="$HOME/.config/zsh"
 export PASSWORD_STORE_DIR="$HOME/.local/share/password-store"
-export GNUPGHOME="$HOME/.config/gnupg"
+# export GNUPGHOME="$HOME/.config/gnupg"
 export CARGO_HOME="$HOME/.local/share/cargo"
 export RUSTUP_HOME="$HOME/.local/share/rustup"
 export XAUTHORITY="$HOME/.cache/Xauthority"
@@ -59,7 +59,6 @@ bind p fish_clipboard_paste
 # set fish_cursor_replace_one underscore blink
 # set fish_cursor_visual      block
 
-thefuck --alias | source
 
-# # Make the backspace key work in st
+# Make the backspace key work in st
 tput smkx
