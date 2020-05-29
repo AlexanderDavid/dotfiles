@@ -11,7 +11,6 @@ from adday@clemson.edu
 user adday@g.clemson.edu
 passwordeval "pass mail/clemson"
 
-
 account gmail
 host smtp.gmail.com
 port 587
@@ -20,5 +19,3 @@ user alexday135@gmail.com
 passwordeval "pass mail/gmail"
 
 
-# Set a default account
-account default : gmail
