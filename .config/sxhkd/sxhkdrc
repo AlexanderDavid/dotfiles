@@ -9,11 +9,11 @@
 
 # Basic binds
 super + Return
-	$TERMINAL
+	tabbed -r 2 $TERMINAL -w ''
 super + e
 	emacs
 super + shift + q
-	kill -9 `xdotool getwindowfocus getwindowpid`
+	kill -9 (xdotool getwindowfocus getwindowpid)
 super + r
 	$TERMINAL -e $FILE
 super + m
@@ -32,9 +32,9 @@ super + shift + v
 	killall picom || setsid picom
 super + shift + a
 	$TERMINAL -e alsamixer; pkill -RTMIN+10 $STATUSBAR
-super + w
-	$TERMINAL -e sudo nmtui
 super + shift + w
+	$TERMINAL -e sudo nmtui
+super + w
 	$BROWSER
 
 # Et cetera...
@@ -79,18 +79,18 @@ super + {_,shift +} bracketleft
 	mpc seek -{10,120}
 # Increase volume
 super {_,shift +} + plus
-	amixer sset Master {5,15}%+; pkill -RTMIN+10 $STATUSBAR
+	lmc up {5,15}; pkill -RTMIN+12 $STATUSBAR
 # Decrease volume
 super {_,shift +} + minus
-	amixer sset Master {5,15}%-; pkill -RTMIN+10 $STATUSBAR
+	lmc down {5,15}; pkill -RTMIN+12 $STATUSBAR
 super + shift + m
-	amixer sset Master toggle; pkill -RTMIN+10 $STATUSBAR
+	lmc toggle; pkill -RTMIN+12 $STATUSBAR
 
 # Audiokeys
 XF86AudioMute
-	amixer sset Master toggle
+	lmc toggle; pkill -RTMIN+12 $STATUSBAR
 XF86Audio{Raise,Lower}Volume
-	amixer sset Master 5%{+,-}
+	lmc {up,down}; pkill -RTMIN+12 $STATUSBAR
 super + XF86AudioMute
 	sinkpicker
 XF86Audio{Next,Prev}
