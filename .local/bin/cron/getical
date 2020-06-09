@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl "https://calendar.google.com/calendar/ical/alexday135%40gmail.com/private-01da04f79a68fc711e6008461d627221/basic.ics" | gawk -v cat="personal" -f /home/alex/.local/bin/cron/ical2org > /home/alex/doc/org/personal.org
+
+curl "https://calendar.google.com/calendar/ical/adday%40g.clemson.edu/private-2b04f410df590429d2fbfa4e5e4c25f1/basic.ics" | gawk -v cat="clemson" -f /home/alex/.local/bin/cron/ical2org  > /home/alex/doc/org/clemson.org
