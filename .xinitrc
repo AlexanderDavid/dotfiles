@@ -11,7 +11,7 @@
 # and so they are needed there. To prevent doubling up commands, I source them
 # here with the line below.
 
-[ -f "${XDG_CONFIG_HOME:-$HOME/.config}/xprofile" ] && . "${XDG_CONFIG_HOME:-$HOME/.config}/xprofile"
+$HOME/.config/xprofile
 
 # Start dwm in a loop so that it can be restarted without _much_ hassle
 

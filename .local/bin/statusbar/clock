@@ -2,10 +2,10 @@
 
 
 case $BLOCK_BUTTON in
-	1) notify-send "This Month" "$(cal --color=always | sed "s/..7m/<b><span color=\"red\">/;s/..27m/<\/span><\/b>/")" && notify-send "Appointments" "$(emacs --batch --eval '(progn (setq org-agenda-files (quote ("~/doc/org/"))) (setq org-agenda-use-time-grid nil) (org-batch-agenda "a"))' | sed 1d | sed s/2020//g)" ;;
-	2) setsid emacs --eval "(org-agenda-list)" & ;;
-	3) notify-send "📅 Time/date module" "\- Left click to show upcoming appointments for the next three days via \`org-mode\` and show the month via \`cal\`
+	1) notify-send "Appointments" "$(emacs --batch --eval '(progn (setq org-agenda-files (quote ("~/doc/org/"))) (setq org-agenda-use-time-grid nil) (org-batch-agenda "a"))' | sed 1d | sed 's/'$(date '+%Y')'//g' | sed 's/Friday/<span color=\\\"red\\\">Friday<\/span>/')" ;;
+	2) notify-send "📅 Time/date module" "\- Left click to show upcoming appointments for the next three days via \`org-mode\` and show the month via \`cal\`
 - Middle click opens Emacs adgenda if installed" ;;
+	3) setsid emacs --eval "(org-agenda-list)" & ;;
 	4) exit ;;
 	5) exit ;;
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;

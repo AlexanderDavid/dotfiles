@@ -11,3 +11,4 @@ cff     ~/.config/fish/config.fish
 cfc     ~/.config/picom/picom.conf
 cfr	~/.config/ranger/rc.conf
 cfo	~/.config/offlineimap/config
+cfx     ~/.config/xonsh/rc.xsh
