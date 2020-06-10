@@ -59,6 +59,7 @@ bind p fish_clipboard_paste
 # set fish_cursor_replace_one underscore blink
 # set fish_cursor_visual      block
 
+zoxide init fish | source
 
 # Make the backspace key work in st
 tput smkx

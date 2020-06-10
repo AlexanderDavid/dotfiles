@@ -1,10 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR ZO_CMD:zo
-SETUVAR Z_CMD:z
-SETUVAR Z_DATA:/home/alex/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/alex/\x2elocal/share/z
-SETUVAR Z_EXCLUDE:/home/alex
 SETUVAR __fish_init_2_39_8:\x1d
 SETUVAR __fish_init_2_3_0:\x1d
 SETUVAR __fish_init_3_x:\x1d
@@ -33,6 +29,12 @@ SETUVAR _fish_abbr_pp:cd\x20\x7e/Pictures\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_r:cd\x20\x7e/code/repos\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_sc:cd\x20\x7e/\x2elocal/bin\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_vv:cd\x20\x7e/Videos\x3b\x20and\x20ls\x20\x2da
+SETUVAR _fish_abbr_za:zoxide\x20add
+SETUVAR _fish_abbr_zi:z\x20\x2di
+SETUVAR _fish_abbr_zq:zoxide\x20query
+SETUVAR _fish_abbr_zqi:zoxide\x20query\x20\x2di
+SETUVAR _fish_abbr_zr:zoxide\x20remove
+SETUVAR _fish_abbr_zri:zoxide\x20remove\x20\x2di
 SETUVAR blue:83a598
 SETUVAR comment:7c6f64
 SETUVAR fish_color_autosuggestion:444444
@@ -64,7 +66,7 @@ SETUVAR fish_pager_color_completion:normal
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
-SETUVAR fish_user_paths:/home/alex/\x2econfig/nvm/13\x2e11\x2e0/bin\x1e/home/alex/\x2econfig/nvm/13\x2e10\x2e1/bin
+SETUVAR fish_user_paths:/home/alex/\x2econfig/nvm/13\x2e10\x2e1/bin
 SETUVAR foreground:ebdbb2
 SETUVAR green:b8bb26
 SETUVAR man_blink:\x2do\x1ecc241d
@@ -73,7 +75,6 @@ SETUVAR man_standout:\x2db\x1eblack\x1eebdbb2
 SETUVAR man_underline:\x2du\x1ed79921
 SETUVAR orange:fe8019
 SETUVAR pink:d787af
-SETUVAR pisces_pairs:\x28\x2c\x29\x1e\x5b\x2c\x5d\x1e\x7b\x2c\x7d\x1e\x22\x2c\x22\x1e\x27\x2c\x27
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_color_command_duration:pure_color_warning
 SETUVAR pure_color_current_directory:pure_color_primary
