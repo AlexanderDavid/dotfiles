@@ -1,0 +1,21 @@
+# Whitelist everything because this is in my home dir
+*
+# Add only the config files
+!.gitignore
+!.config/
+!.doom.d/
+!.asoundrc
+!.profile
+!.tmux.conf
+!.xinitrc
+!.xprofile
+!.zprofile
+!.local/share/larbs/
+
+# Whitelist certain files
+.config/BraveSoftware/**
+.config/GIMP/
+.config/LibreOffice
+.config/chromium
+.config/filezilla
+.config/pulse

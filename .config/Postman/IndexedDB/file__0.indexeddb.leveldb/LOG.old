@@ -1,0 +1,32 @@
+2020/05/22-14:21:57.864 4151087 Reusing MANIFEST /home/alex/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/05/22-14:21:57.876 4151087 Current memtable full; waiting...
+2020/05/22-14:21:57.876 4151309 Level-0 table #5: started
+2020/05/22-14:21:57.886 4151309 Level-0 table #5: 338 bytes OK
+2020/05/22-14:21:57.892 4151309 Delete type=0 #3
+2020/05/22-14:21:57.892 4151309 Level-0 table #7: started
+2020/05/22-14:21:57.892 4151309 Level-0 table #7: 0 bytes OK
+2020/05/22-14:21:57.896 4151309 Delete type=0 #4
+2020/05/22-14:21:57.897 4151309 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/22-14:21:57.946 4151089 Current memtable full; waiting...
+2020/05/22-14:21:57.946 4151309 Level-0 table #9: started
+2020/05/22-14:21:57.949 4151309 Level-0 table #9: 332 bytes OK
+2020/05/22-14:21:57.952 4151309 Delete type=0 #6
+2020/05/22-14:21:57.952 4151309 Level-0 table #11: started
+2020/05/22-14:21:57.952 4151309 Level-0 table #11: 0 bytes OK
+2020/05/22-14:21:57.955 4151309 Delete type=0 #8
+2020/05/22-14:21:57.955 4151309 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/22-14:22:21.089 4151089 Current memtable full; waiting...
+2020/05/22-14:22:21.089 4151309 Level-0 table #13: started
+2020/05/22-14:22:21.092 4151309 Level-0 table #13: 10931 bytes OK
+2020/05/22-14:22:21.094 4151309 Delete type=0 #10
+2020/05/22-14:22:21.095 4151309 Level-0 table #15: started
+2020/05/22-14:22:21.095 4151309 Level-0 table #15: 0 bytes OK
+2020/05/22-14:22:21.097 4151309 Delete type=0 #12
+2020/05/22-14:22:21.098 4151309 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 666 : 1
+2020/05/22-14:22:21.098 4151309 Compacting 1@0 + 1@1 files
+2020/05/22-14:22:21.101 4151309 Generated table #16@0: 547 keys, 9358 bytes
+2020/05/22-14:22:21.101 4151309 Compacted 1@0 + 1@1 files => 9358 bytes
+2020/05/22-14:22:21.103 4151309 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/22-14:22:21.103 4151309 Delete type=2 #9
+2020/05/22-14:22:21.103 4151309 Delete type=2 #13
+2020/05/22-14:22:21.103 4151309 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 666 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+[Unit]
+Description=Timer for mu indexing
+
+[Timer]
+OnUnitInactiveSec=15m
+
+[Install]
+WantedBy=mail.target

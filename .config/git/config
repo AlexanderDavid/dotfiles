@@ -1,4 +1,7 @@
 [user]
-	email = alex@alexday.me
-	name = Alex
+	email = alexday135@gmail.com
+	name = Alex Day
 	signkey = 7C056308DFD334511C7CB1F2ADDF88E448CFB104
+	signingkey = ADDF88E448CFB104
+[commit]
+	gpgsign = true

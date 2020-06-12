@@ -1,0 +1,10 @@
+[Unit]
+Description=Indexing maildir $MAILDIR with mu
+Wants=offlineimap.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/mu index --maildir ~/.local/share/mail/ --muhome /home/alex/.cache/mu
+
+[Install]
+WantedBy=mail.target

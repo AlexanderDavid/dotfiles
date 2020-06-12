@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[status]
+	showUntrackedFiles = no
+[submodule ".config/ranger/plugins/ranger_devicons"]
+	url = https://github.com/alexanderjeurissen/ranger_devicons
+	active = true
+[remote "origin"]
+	url = git@github.com:AlexanderDavid/dotfiles
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

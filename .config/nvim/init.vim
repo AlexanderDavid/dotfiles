@@ -136,7 +136,7 @@ set autowriteall
 " Update binds when sxhkdrc is updated.
 	autocmd BufWritePost *sxhkdrc !pkill -USR1 sxhkd
 " Compile suckless on write
-	autocmd BufWritePost config.h !make
+	autocmd BufWritePost config.h ! make && { killall -q dwmblocks;setsid ./dwmblocks & }
 
 " Transparent background in vim
 hi Normal ctermbg=None

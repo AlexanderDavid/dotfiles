@@ -1,0 +1,7 @@
+hash -d h=~/
+hash -d d=~/doc
+hash -d D=~/dl
+hash -d cf=~/.config
+hash -d b=~/.local/bin
+hash -d mn=/mnt
+hash -d r=~/code/repos

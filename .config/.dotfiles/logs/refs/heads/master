@@ -1,0 +1,65 @@
+0000000000000000000000000000000000000000 9be4a0028de383819327826b262c1d45f4252ea4 Alex <alex@alexday.me> 1583804877 -0400	commit (initial): Initial commit
+9be4a0028de383819327826b262c1d45f4252ea4 3e947141204b40c6f5166e463d6b55d4185f300f Alex <alex@alexday.me> 1583804915 -0400	commit: Changed fish prompt to remove redundant git home check
+3e947141204b40c6f5166e463d6b55d4185f300f e6164000c7ff6dd3f98545362b2055dd8e8e52d1 Alex <alex@alexday.me> 1583805048 -0400	commit: Added larbs files
+e6164000c7ff6dd3f98545362b2055dd8e8e52d1 4bee6fb15db624ebec62ded9af985d690168aa9d Alex <alex@alexday.me> 1583876321 -0400	commit: Make dunst look so nice
+4bee6fb15db624ebec62ded9af985d690168aa9d 95965cfc69431fe8057e3ca5f2a5d236919763cf Alex <alex@alexday.me> 1583876949 -0400	commit: Added colored man pages
+95965cfc69431fe8057e3ca5f2a5d236919763cf 3447cae9a37784b47220a44e5f749aa75445ea2a Alex <alex@alexday.me> 1583879043 -0400	commit: Changed picom to add shadows
+3447cae9a37784b47220a44e5f749aa75445ea2a ca7ccd535a8b7537cc01f1b53cb744923e300ded Alex <alex@alexday.me> 1583879079 -0400	commit: Ignore pulseaudio files
+ca7ccd535a8b7537cc01f1b53cb744923e300ded 9c2e0cbbd7688e73f112b42a86d3b2b39fa7385a Alex <alex@alexday.me> 1583879086 -0400	pull: Merge made by the 'recursive' strategy.
+9c2e0cbbd7688e73f112b42a86d3b2b39fa7385a ed68abb689a550533bd0457b80d16275c6cf7395 Alex <alex@alexday.me> 1583891891 -0400	pull: Fast-forward
+ed68abb689a550533bd0457b80d16275c6cf7395 8eecf26eb0e995346d10839ab3a0329e68c79974 Alex <alex@alexday.me> 1583892065 -0400	pull: Fast-forward
+8eecf26eb0e995346d10839ab3a0329e68c79974 fc6496aa0f57e70b37039605214cf110c42d718f Alex <alex@alexday.me> 1583892442 -0400	commit: Removed useless file
+fc6496aa0f57e70b37039605214cf110c42d718f 5c2ac17a38a107253a281f3cfe3f6d87feca63f8 Alex <alex@alexday.me> 1583975856 -0400	commit: Moved git repo
+5c2ac17a38a107253a281f3cfe3f6d87feca63f8 2724eac34f7b75f7f4589581cd317b10c8b17a3a Alex <alex@alexday.me> 1583975896 -0400	commit: Removed dunst startup notification
+2724eac34f7b75f7f4589581cd317b10c8b17a3a 179505a159bc4f93d4393f85c8b1f57cd872c885 Alex <alex@alexday.me> 1583975939 -0400	commit: Removed pulse files
+179505a159bc4f93d4393f85c8b1f57cd872c885 37b87b2cb67ccd3fbe09321b2482fb6a5f114a8d Alex <alex@alexday.me> 1583975955 -0400	commit: Changed gitignore to remove pulse files
+37b87b2cb67ccd3fbe09321b2482fb6a5f114a8d 3e5a12ab398b0a1ff6f3e3c59232bacc73aef465 Alex <alex@alexday.me> 1584305456 -0400	commit: Made dunst wider
+3e5a12ab398b0a1ff6f3e3c59232bacc73aef465 f5589b2a33e13a071ac23246a4da9f3b1b6c5a40 Alex <alex@alexday.me> 1585087057 -0400	commit: Added xResources
+f5589b2a33e13a071ac23246a4da9f3b1b6c5a40 fc9aaac802978c9bb74d6fc17b8a9f8b0aa9c9da Alex <alex@alexday.me> 1585087543 -0400	commit: Added colors
+fc9aaac802978c9bb74d6fc17b8a9f8b0aa9c9da 3a27de649575a6a9b6da02651e2d0db5add47bfd Alex <alex@alexday.me> 1585101324 -0400	commit: Changed weather script to be better
+3a27de649575a6a9b6da02651e2d0db5add47bfd 0a739301761da4d98fc7ac9ad84885b2920a2029 Alex <alex@alexday.me> 1585939177 -0400	commit: Added package list
+0a739301761da4d98fc7ac9ad84885b2920a2029 4c8bbf704a2fbdd0b4a31104779d148741cab313 Alex <alex@alexday.me> 1585954950 -0400	commit: Updated fish config
+4c8bbf704a2fbdd0b4a31104779d148741cab313 5ef433531f1af21f5e5912590ae81ad693693ca1 Alex <alex@alexday.me> 1585956386 -0400	commit: Updated keybindings
+5ef433531f1af21f5e5912590ae81ad693693ca1 b47b65a337b06669f4e3728be7679c2df2a8f705 Alex <alex@alexday.me> 1586130600 -0400	commit: April 5th update
+b47b65a337b06669f4e3728be7679c2df2a8f705 c9c27abf0f65d0a8b2dc015cbb6d23a20f8e457a Alex <alex@alexday.me> 1586130729 -0400	commit: Shouldnt store node binary in dotfiles
+c9c27abf0f65d0a8b2dc015cbb6d23a20f8e457a 6fab7cc5a1caf88e947604b7b26ff1fc3c6a8bd7 Alex <alex@alexday.me> 1586130756 -0400	commit: Shouldn't store git repo in repo
+6fab7cc5a1caf88e947604b7b26ff1fc3c6a8bd7 c0d3c3f2a67765aae63669607f50cfc34f2a145d Alex <alex@alexday.me> 1586204005 -0400	pull: Fast-forward
+c0d3c3f2a67765aae63669607f50cfc34f2a145d 91f872dcef3880583039a50792e4f972c0882bbf Alex <alex@alexday.me> 1586204056 -0400	commit: Added doom emacs config
+91f872dcef3880583039a50792e4f972c0882bbf a044cae084d54492d51cca07b8eea204e82c51e0 Alex <alex@alexday.me> 1586288184 -0400	pull: Fast-forward
+a044cae084d54492d51cca07b8eea204e82c51e0 733fc8b54c06f3b566a70aab170b564f456c6cce Alex <alex@alexday.me> 1586300879 -0400	commit: added clemson
+733fc8b54c06f3b566a70aab170b564f456c6cce 9309a3db1e39e6bb64d8208cf08cffc15e4612c4 Alex <alex@alexday.me> 1586313828 -0400	pull: Fast-forward
+9309a3db1e39e6bb64d8208cf08cffc15e4612c4 9fc960c26036c329f9fec27022997c3dded933fc Alex <alex@alexday.me> 1586372376 -0400	commit: Added msmtp config
+9fc960c26036c329f9fec27022997c3dded933fc 2c3a36c72080ec384b9a3922e0ec52fac7338b71 Alex <alex@alexday.me> 1586722946 -0400	pull: Fast-forward
+2c3a36c72080ec384b9a3922e0ec52fac7338b71 af56f9f63becb9ca35340cc2097c81ec2010cd7e Alex <alex@alexday.me> 1586727288 -0400	commit: Added really hacky way of hiding mail block when no new mails and fixed fish config
+af56f9f63becb9ca35340cc2097c81ec2010cd7e 2905d7cc6b0e4079b077e2dd6dd3f99e8a308672 Alex <alex@alexday.me> 1586728322 -0400	commit: Added mail dir var
+2905d7cc6b0e4079b077e2dd6dd3f99e8a308672 d47c645bb81539c4cdb6dd560c20a1a1b52cf30a Alex <alex@alexday.me> 1586792987 -0400	commit: Added mail cronjobs
+d47c645bb81539c4cdb6dd560c20a1a1b52cf30a 681bca4dc23174d60633c8175fa6bd48d790eb89 Alex <alex@alexday.me> 1586793015 -0400	commit: Removed doom
+681bca4dc23174d60633c8175fa6bd48d790eb89 02ac39c064efbad02f89bf9944571b40488c5518 Alex <alex@alexday.me> 1586793021 -0400	pull: Merge made by the 'recursive' strategy.
+02ac39c064efbad02f89bf9944571b40488c5518 03c48047ff04ce21365397ce812ecd2701e6e21f Alex <alex@alexday.me> 1586808740 -0400	commit: Added dir to PATH
+03c48047ff04ce21365397ce812ecd2701e6e21f 5891cc34d14aa0203c5c1e509645a016e03a5ccc Alex <alex@alexday.me> 1586900684 -0400	pull: Merge made by the 'recursive' strategy.
+5891cc34d14aa0203c5c1e509645a016e03a5ccc b0c2f32ae7a9ac584f8be412c876841a86610b07 Alex <alex@alexday.me> 1585826767 -0400	pull: Merge made by the 'recursive' strategy.
+b0c2f32ae7a9ac584f8be412c876841a86610b07 f2181788b366eef0b1cae0991d54cd0291d49e6e Alex <alex@alexday.me> 1587938630 -0400	commit: Added applet launch before manager launch
+f2181788b366eef0b1cae0991d54cd0291d49e6e ca3fbe08720ad25d10f8c3469450698c8e9230c0 Alex <alex@alexday.me> 1587939768 -0400	commit: Added en_US.UTF-8
+ca3fbe08720ad25d10f8c3469450698c8e9230c0 9bd51634d76f6ed5fd5442ec000004e449ce5b09 Alex <alex@alexday.me> 1590458927 -0400	commit: Changed scripts to include colors
+9bd51634d76f6ed5fd5442ec000004e449ce5b09 db396d79f56b2633b132fa8a97e082f1d596c309 Alex Day <alexday135@gmail.com> 1590553411 -0400	commit: Added clicks
+db396d79f56b2633b132fa8a97e082f1d596c309 fdecbd0bd7257a85f78106c5dcd63e5161b1decc Alex Day <alexday135@gmail.com> 1590553451 -0400	commit: Deleted useless files
+fdecbd0bd7257a85f78106c5dcd63e5161b1decc f33dccbd7f072f36996f4ba5fe2a30f2e3773716 Alex Day <alexday135@gmail.com> 1590553630 -0400	commit: Updated scripts
+f33dccbd7f072f36996f4ba5fe2a30f2e3773716 a473e5f71594fbc3c0ac72fa08362ae44b56f4a0 Alex Day <alexday135@gmail.com> 1590699267 -0400	commit: Added percentage
+a473e5f71594fbc3c0ac72fa08362ae44b56f4a0 458cc9389803a2d7ed0e016f36657fc4f79d1a1b Alex Day <alexday135@gmail.com> 1590699292 -0400	commit: Updated to Lukes bin
+458cc9389803a2d7ed0e016f36657fc4f79d1a1b 79ca95c07977cfbee98673db50ff8292d8b25512 Alex Day <alexday135@gmail.com> 1590718012 -0400	commit: Switch to dwmblocks
+79ca95c07977cfbee98673db50ff8292d8b25512 4a5006596e1de3a5c720cc98772fa59c3056ae77 Alex Day <alexday135@gmail.com> 1590718032 -0400	commit: Move mbsyncrc file
+4a5006596e1de3a5c720cc98772fa59c3056ae77 e62ae7b9761b9692ec3b7a6a6855f1ec14620ecd Alex Day <alexday135@gmail.com> 1590718055 -0400	commit: Changed icons and mouse shortcuts
+e62ae7b9761b9692ec3b7a6a6855f1ec14620ecd 134910e21a8d0b160959832ed49535cc159068db Alex Day <alexday135@gmail.com> 1590718075 -0400	commit: Added email config
+134910e21a8d0b160959832ed49535cc159068db 53e67aff073069d0cb222718511ed2d751a30919 Alex Day <alexday135@gmail.com> 1590718096 -0400	commit: Added email sending config
+53e67aff073069d0cb222718511ed2d751a30919 8b614b72ecff3b00228ed44dd1361a9f7b151898 Alex Day <alexday135@gmail.com> 1590718145 -0400	commit: Added pkills and changed browser shrotcut
+8b614b72ecff3b00228ed44dd1361a9f7b151898 9cddec9c962b298296b69853c03a19a389d3808d Alex Day <alexday135@gmail.com> 1590718176 -0400	commit: Added autoranr
+9cddec9c962b298296b69853c03a19a389d3808d 0d3d4c9a2146db57612b1106f6394dc94db0e554 Alex Day <alexday135@gmail.com> 1590810398 -0400	commit: Changed zathura colorscheme
+0d3d4c9a2146db57612b1106f6394dc94db0e554 648841fec70d41baad055acc051560b825ae2242 Alex Day <alexday135@gmail.com> 1590810402 -0400	pull: Merge made by the 'recursive' strategy.
+648841fec70d41baad055acc051560b825ae2242 59924638e8312ebf06efbeda4a32d6255425dd04 Alex Day <alexday135@gmail.com> 1591665862 -0400	commit: Added xonsh files
+59924638e8312ebf06efbeda4a32d6255425dd04 78f05dcb0214b7ec42ca3127b43da181271fbb99 Alex Day <alexday135@gmail.com> 1591665898 -0400	commit: Minor script changes
+78f05dcb0214b7ec42ca3127b43da181271fbb99 3882da04232b6348573fbb108505a9cbff458a4d Alex Day <alexday135@gmail.com> 1591665922 -0400	commit: Source xprofile
+3882da04232b6348573fbb108505a9cbff458a4d e9d580f0358585ce46a4c65848907243c48136c5 Alex Day <alexday135@gmail.com> 1591665974 -0400	commit: Changed shortcuts
+e9d580f0358585ce46a4c65848907243c48136c5 cea9fc504f97e0798b6a72c166d19061a3d5b941 Alex Day <alexday135@gmail.com> 1591757550 -0400	commit: Switched to omf
+cea9fc504f97e0798b6a72c166d19061a3d5b941 b3640ace81f2f7e1a051c25e93313b9c081ac624 Alex Day <alexday135@gmail.com> 1591757560 -0400	pull: Merge made by the 'recursive' strategy.
+b3640ace81f2f7e1a051c25e93313b9c081ac624 359998cbbebd750b4b99e4e308041cbe9c23fc5f Alex Day <alexday135@gmail.com> 1591758065 -0400	commit: Make vi in shell great again
+359998cbbebd750b4b99e4e308041cbe9c23fc5f 939c626612c3121ca92498dc6e1e2f5001b791b5 Alex Day <alexday135@gmail.com> 1591758163 -0400	commit: Hide the clunky indicator. We have cursor change

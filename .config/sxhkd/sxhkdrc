@@ -9,7 +9,7 @@
 
 # Basic binds
 super + Return
-	tabbed -r 2 $TERMINAL -w ''
+	$TERMINAL
 super + e
 	emacs
 super + shift + q

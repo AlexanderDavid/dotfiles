@@ -14,7 +14,9 @@ text/x-csrc=nvim.desktop;
 application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
 text/html=brave-browser.desktop;
 x-scheme-handler/webcal=brave-browser.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 image/svg+xml=nvim.desktop;
 application/rtf=nvim.desktop;
+image/png=sxiv.desktop
