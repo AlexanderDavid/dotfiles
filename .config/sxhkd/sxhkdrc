@@ -10,6 +10,8 @@
 # Basic binds
 super + Return
 	$TERMINAL
+super + shift + Return
+	samedir
 super + e
 	emacs
 super + shift + q
