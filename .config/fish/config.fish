@@ -10,7 +10,7 @@ export TERMINAL="st"
 export BROWSER="brave"
 export READER="zathura"
 export FILE="ranger"
-export STATUSBAR="dwmblocks"
+export STATUSBAR="launch_polybar"
 
 # ~/ Clean-up:
 export XDG_CACHE_HOME="$HOME/.cache"
