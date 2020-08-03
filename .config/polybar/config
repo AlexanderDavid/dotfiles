@@ -43,7 +43,7 @@ background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 3
-line-color = {$xrdb:red}
+line-color = {$colors.background}
 
 border-size = 0
 border-color = ${colors.white}
@@ -54,29 +54,25 @@ padding-right = 1
 module-margin-left = 1
 module-margin-right = 1
 
-font-0 = mono:pixelsize=11;1
-font-1 = Inconsolata Nerd Font:size=10;1
-font-2 = Noto Color Emoji:scale=12:style=Regular;2
-font-3 = Symbola:pixelsize=9;1
 
+font-0 = JetBrains Mono Medium Nerd Font:size=12;
 
 ; Other modules: xkeyboard filesystem xbacklight backlight-acpi cpu memory temperature powermenu weather
-modules-left = i3
-;modules-center = xwindow
-modules-right = mpd volume wlan eth battery date
+modules-left = dwm
+modules-center = xwindow
+modules-right = volume wlan eth battery date
 
 tray-position = right
 tray-padding = 0
 
-wm-restack = bspwm
+wm-restack = dwm
 
-;override-redirect = true
+override-redirect = false
 
 scroll-up = i3-desknext
 scroll-down = i3-deskprev
 
 [module/mutt-wizard]
-
 type = custom/script
 exec = mailbox
 interval =  ${colors.red}5
@@ -86,7 +82,6 @@ format-underline = ${colors.red}
 click-left = st -e neomutt
 
 [module/weather]
-
 type = custom/script
 exec = weather
 interval = 5000
@@ -96,90 +91,80 @@ click-left = $TERMINAL -e less -S "$HOME/.local/share/weatherreport"
 [module/xwindow]
 type = internal/xwindow
 label = %title:0:45:...%
-format-foreground = ${colors.blue}
+format-foreground = ${colors.foreground}
 
-[module/xkeyboard]
-type = internal/xkeyboard
-blacklist-0 = num lock
+[module/dwm]
+type = internal/dwm
+format = <label-tags> <label-layout> <label-floating>
+; Path to dwm socket (default: /tmp/dwm.sock)
+; socket-path = /tmp/dwm.sock
 
-format-prefix = " "
-format-prefix-foreground = ${colors.gray}
-format-prefix-underline = ${colors.darkmagenta}
+; Left-click to view tag, right-click to toggle tag view
+enable-tags-click = false
+; Left-click to set secondary layout, right-click to switch to previous layout
+enable-layout-click = false
+; Scroll to cycle between available layouts
+enable-layout-scroll = false
+; Wrap when scrolling and reaching begining/end of layouts
+layout-scroll-wrap = false
+; Reverse scroll direction
+layout-scroll-reverse = false
 
-label-layout = %layout%
-label-layout-underline = ${colors.darkmagenta}
+; If enable-layout-click = true, clicking the layout symbol will switch to this layout
+secondary-layout-symbol = [M]
 
-label-indicator-padding = 2
-label-indicator-margin = 1
-label-indicator-background = ${colors.darkmagenta}
-label-indicator-underline = ${colors.darkmagenta}
+; Separator in between shown tags
+; label-separator = |
 
-[module/filesystem]
-type = internal/fs
-interval = 25
+; Title of currently focused window
+; Available tokens:
+;   %title%
+label-title = %title%
+label-title-padding = 2
+label-title-foreground = ${colors.foreground}
+label-title-maxlen = 30
 
-mount-0 = /
-mount-1 = /home
+; Symbol of current layout
+; Available tokens:
+;   %symbol%
+label-layout = %symbol%
+label-layout-padding = 2
+label-layout-foreground = ${colors.foreground}
+label-layout-background = ${colors.background}
 
-label-mounted-underline = ${colors.cyan}
-label-mounted = /: %percentage_used%%
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.gray}
+; Text to show when currently focused window is floating
+label-floating = F
 
-[module/bspwm]
-type = internal/bspwm
+; States: focused, unfocused, visible, urgent, empty
+; Available tokens:
+;   %name%
 
-label-focused = %index%
-label-focused-foreground = ${colors.black}
-label-focused-background = ${colors.blue}
-label-focused-underline= ${colors.yellow}
+; focused = Selected tag on focused monitor
+label-focused = %name%
+label-focused-background = ${colors.background}
+label-focused-underline= ${colors.green}
 label-focused-padding = 1
 
-label-occupied = %index%
-label-occupied-underline = ${colors.blue}
-label-occupied-padding = 1
+; unfocused = Unselected tag on unselected monitor
+label-unfocused = %name%
+label-unfocused-padding = 1
 
-label-urgent = %index%!
+; visible = Unselected tag, but occupied tag on any monitor
+label-visible = %name%
+label-visible-background = ${colors.background}
+label-visible-underline = ${colors.background}
+label-visible-padding = 1
+
+; urgent = Unselected tag with window that has urgency hint set
+label-urgent = %name%
 label-urgent-background = ${colors.red}
 label-urgent-padding = 1
 
-label-empty = %index%
-label-empty-foreground = ${colors.lightgray}
-label-empty-padding = 1
-
-[module/i3]
-type = internal/i3
-format = <label-state> <label-mode>
-index-sort = true
-wrapping-scroll = false
-
-; Only show workspaces on the same output as the bar
-;pin-workspaces = true
-
-label-mode-padding = 2
-label-mode-foreground = ${colors.white}
-label-mode-background = ${colors.darkyellow}
-
-; focused = Active workspace on focused monitor
-label-focused = %index%
-# label-focused-background = ${module/bspwm.label-focused-background}
-label-focused-underline = ${module/bspwm.label-focused-underline}
-label-focused-padding = ${module/bspwm.label-focused-padding}
-
-; unfocused = Inactive workspace on any monitor
-label-unfocused = %index%
-label-unfocused-padding = ${module/bspwm.label-occupied-padding}
-
-; visible = Active workspace on unfocused monitor
-label-visible = %index%
-#label-visible-background = ${self.label-focused-background}
-label-visible-underline = ${self.label-focused-underline}
-label-visible-padding = ${self.label-focused-padding}
-
-; urgent = Workspace with urgency hint set
-label-urgent = %index%
-label-urgent-background = ${module/bspwm.label-urgent-background}
-label-urgent-padding = ${module/bspwm.label-urgent-padding}
+; empty = Unselected and unoccupied tag
+; This can be set to an empty string to hide empty tags
+label-empty =
+label-empty-background = ${colors.cyan}
+label-empty-padding = 2
 
 [module/mpd]
 type = internal/mpd
@@ -286,8 +271,8 @@ time = "%I:%M %p"
 ;time-alt = %H:%M:%S
 ;time-alt = %H:%M:%S
 
-format-prefix = " "
-format-prefix-foreground = ${colors.gray}
+format-prefix = "  "
+format-prefix-foreground = ${colors.foreground}
 format-underline = ${colors.blue}
 
 label = %date% %time%
@@ -295,7 +280,7 @@ label = %date% %time%
 click-left = calcurse
 
 [module/volume]
-type = internal/alsa
+type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
 label-volume = 
@@ -330,15 +315,15 @@ adapter = ADP1
 full-at = 98
 
 ;format-charging = Charging... <label-charging>
-format-charging = <animation-charging> <label-charging>
+format-charging = <animation-charging>  <label-charging>
 format-charging-underline = ${colors.darkyellow}
 
 ;format-discharging = <label-discharging>
-format-discharging = <ramp-capacity> <label-discharging>
+format-discharging = <ramp-capacity>  <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
 
 format-full-prefix = " "
-format-full-prefix-foreground = ${colors.gray}
+format-full-prefix-foreground = ${colors.foreground}
 format-full-underline = ${self.format-charging-underline}
 
 ramp-capacity-0 = 
@@ -346,14 +331,14 @@ ramp-capacity-1 = 
 ramp-capacity-2 = 
 ramp-capacity-3 = 
 ramp-capacity-4 = 
-ramp-capacity-foreground = ${colors.gray}
+ramp-capacity-foreground = ${colors.foreground}
 
 animation-charging-0 = 
 animation-charging-1 = 
 animation-charging-2 = 
 animation-charging-3 = 
 animation-charging-4 = 
-animation-charging-foreground = ${colors.gray}
+animation-charging-foreground = ${colors.foreground}
 animation-charging-framerate = 500
 
 [module/temperature]
