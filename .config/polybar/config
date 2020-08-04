@@ -30,6 +30,7 @@ foreground = ${xrdb:color257:#ebdbb2}
 
 [bar/default]
 monitor = ${env:MONITOR}
+monitor-strict = true
 ;monitor = ${env:MONITOR:HDMI-1}
 enable-ipc = true
 width = 100%
@@ -60,7 +61,7 @@ font-0 = JetBrains Mono Medium Nerd Font:size=12;
 ; Other modules: xkeyboard filesystem xbacklight backlight-acpi cpu memory temperature powermenu weather
 modules-left = dwm
 modules-center = xwindow
-modules-right = volume wlan vpn updates-pacman-aurhelper battery date
+modules-right = volume wlan eth vpn updates-pacman-aurhelper battery date
 
 tray-position = right
 tray-padding = 0
@@ -247,20 +248,20 @@ click-left = $TERMINAL -e nmtui
 
 [module/eth]
 type = internal/network
-interface = enp0s25
+interface = enp9s0
 interval = 3.0
 
 format-connected-underline = ${colors.darkgreen}
 ;format-connected-underline = ${colors.green}
 format-connected-prefix = " "
-format-connected-prefix-foreground = ${colors.gray}
+format-connected-prefix-foreground = ${colors.foreground}
 label-connected = %local_ip%
 
 ;format-disconnected =
 format-disconnected = <label-disconnected>
 format-disconnected-underline = ${self.format-connected-underline}
 label-disconnected =  %ifname%
-label-disconnected-foreground = ${colors.gray}
+label-disconnected-foreground = ${colors.foreground}
 
 
 [module/date]
