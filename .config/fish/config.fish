@@ -78,5 +78,8 @@ zoxide init fish | source
 # Make the backspace key work in st
 tput smkx
 
+# Always do fancy shell for pipenv
+set pipenv_fish_fancy yes
+
 # Load the keymap if tty
 sudo -n loadkeys $HOME/.local/share/larbs/ttymaps.kmap 2>/dev/null
