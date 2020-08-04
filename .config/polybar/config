@@ -33,7 +33,7 @@ monitor = ${env:MONITOR}
 ;monitor = ${env:MONITOR:HDMI-1}
 enable-ipc = true
 width = 100%
-height = 26
+height = 28
 ;offset-x = 1%
 ;offset-y = 1%
 ;radius = 6.0
@@ -48,7 +48,7 @@ line-color = {$colors.background}
 border-size = 0
 border-color = ${colors.white}
 
-padding-left = 1
+padding-left = 0
 padding-right = 1
 
 module-margin-left = 1
@@ -60,26 +60,30 @@ font-0 = JetBrains Mono Medium Nerd Font:size=12;
 ; Other modules: xkeyboard filesystem xbacklight backlight-acpi cpu memory temperature powermenu weather
 modules-left = dwm
 modules-center = xwindow
-modules-right = volume wlan eth battery date
+modules-right = volume wlan vpn updates-pacman-aurhelper battery date
 
 tray-position = right
 tray-padding = 0
-
-wm-restack = dwm
 
 override-redirect = false
 
 scroll-up = i3-desknext
 scroll-down = i3-deskprev
 
-[module/mutt-wizard]
+[module/updates-pacman-aurhelper]
 type = custom/script
-exec = mailbox
-interval =  ${colors.red}5
-format-prefix = " "
-format-underline = ${colors.red}
+exec = updates-pacman-aurhelper.sh
+exec-if = updates-pacman-aurhelper.sh
+interval = 600
+format-underline = ${colors.green}
+click-left = $TERMINAL -e "yay" & disown
 
-click-left = st -e neomutt
+[module/vpn]
+type = custom/script
+exec = vpn-openconnect-status.sh
+exec-if = pidof openconnect
+interval = 600
+format-underline = ${colors.green}
 
 [module/weather]
 type = custom/script
@@ -95,7 +99,7 @@ format-foreground = ${colors.foreground}
 
 [module/dwm]
 type = internal/dwm
-format = <label-tags> <label-layout> <label-floating>
+format = <label-tags><label-layout> <label-floating>
 ; Path to dwm socket (default: /tmp/dwm.sock)
 ; socket-path = /tmp/dwm.sock
 
