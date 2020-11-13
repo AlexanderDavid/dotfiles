@@ -1,0 +1,3 @@
+#! /usr/bin/fish
+
+brightnessctl --device="tpacpi::kbd_backlight" set (echo "(" (cat /sys/class/leds/tpacpi::kbd_backlight/brightness) "-" (cat /sys/class/leds/tpacpi::kbd_backlight/max_brightness) ") * -1" | bc)
