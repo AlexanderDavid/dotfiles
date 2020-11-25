@@ -14,5 +14,4 @@ autorandr --load main &   		    # Load the default screen configuration
 # setbg ~/.config/wall.png &		    # set the background with the `setbg` script
 nitrogen --restore
 $STATUSBAR &		                    # script for updating the status bar
-emacs --daemon & 		            # Start emacs
-dropbox start &                             # Start dropboxd
+eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh) &
