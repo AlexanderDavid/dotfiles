@@ -37,11 +37,15 @@ call plug#end()
 set go=a
 set mouse=a
 set nohlsearch
-set clipboard+=unnamedplus
+" set clipboard+=unnamedplus
+set clipboard=unnamedplus
 set noshowmode
 
 " Make vim look gruvvy
 colorscheme gruvbox8
+
+" LaTeX flavor
+let g:tex_flavor = 'latex'
 
 " Make statusline look gruvvy
 let g:lightline = {
