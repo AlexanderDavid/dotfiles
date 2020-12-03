@@ -29,12 +29,6 @@ SETUVAR _fish_abbr_pp:cd\x20\x7e/Pictures\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_r:cd\x20\x7e/code/repos\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_sc:cd\x20\x7e/\x2elocal/bin\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_vv:cd\x20\x7e/Videos\x3b\x20and\x20ls\x20\x2da
-SETUVAR _fish_abbr_za:zoxide\x20add
-SETUVAR _fish_abbr_zi:z\x20\x2di
-SETUVAR _fish_abbr_zq:zoxide\x20query
-SETUVAR _fish_abbr_zqi:zoxide\x20query\x20\x2di
-SETUVAR _fish_abbr_zr:zoxide\x20remove
-SETUVAR _fish_abbr_zri:zoxide\x20remove\x20\x2di
 SETUVAR blue:83a598
 SETUVAR comment:7c6f64
 SETUVAR fish_color_autosuggestion:444444

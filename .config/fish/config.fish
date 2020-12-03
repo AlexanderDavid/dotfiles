@@ -1,13 +1,13 @@
 # Profile file. Runs on login. Environmental variables are set here.
 
 # Adds `~/.local/bin` to $PATH
-export PATH="$PATH:"(du "$HOME/.local/bin/" | cut -f2 | paste -sd ':')
+export PATH="$PATH:"(du "$HOME/.local/bin/" | cut -f2 | paste -sd ':')":/home/alex/.gem/ruby/2.7.0/bin"
 export LANG="en_US.UTF-8"
 
 # Default programs:
 export EDITOR="nvim"
 export TERMINAL="st"
-export BROWSER="brave"
+export BROWSER="firefox"
 export READER="zathura"
 export FILE="ranger"
 export STATUSBAR="launch_polybar"
