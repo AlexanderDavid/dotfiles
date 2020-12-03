@@ -2,6 +2,13 @@
 	email = alexday135@gmail.com
 	name = Alex Day
 	signkey = 7C056308DFD334511C7CB1F2ADDF88E448CFB104
-	signingkey = ADDF88E448CFB104
+	signingkey = D502723AA96DF736
 [commit]
 	gpgsign = true
+[pull]
+	rebase = false
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
