@@ -1,3 +1,4 @@
 May 04 20:39:51 host=smtp.gmail.com tls=on auth=on user=adday@g.clemson.edu from=adday@clemson.edu recipients=alexday135@gmail.com mailsize=1096 smtpstatus=250 smtpmsg='250 2.0.0 OK  1588639191 d4sm388791qtw.25 - gsmtp' exitcode=EX_OK
 May 17 18:34:46 host=smtp.gmail.com tls=on auth=on user=adday@g.clemson.edu from=adday@clemson.edu recipients=alexday135@gmail.com mailsize=590 smtpstatus=250 smtpmsg='250 2.0.0 OK  1589754887 w9sm1642474qtn.29 - gsmtp' exitcode=EX_OK
 May 27 15:48:21 host=smtp.gmail.com tls=on auth=on user=alexday135@gmail.com from=alexday135@gmail.com recipients=AFye@JGMSINC.com mailsize=4272 smtpstatus=250 smtpmsg='250 2.0.0 OK  1590608901 b22sm2150810ill.6 - gsmtp' exitcode=EX_OK
+Nov 13 18:34:15 host=smtp.gmail.com tls=on auth=on user=adday@g.clemson.edu from=adday@clemson.edu recipients=adday@clemson.edu mailsize=2531 smtpstatus=250 smtpmsg='250 2.0.0 OK  1605310456 m25sm7683479qka.107 - gsmtp' exitcode=EX_OK
