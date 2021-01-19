@@ -1,0 +1,2245 @@
+: 1609649247:0;history
+: 1609649253:0;nvim .config/zsh/.zshrc
+: 1609649275:0;ls -al
+: 1609649277:0;ls -h
+: 1609649278:0;ls -alh
+: 1609649319:0;showkey -a
+: 1609649329:0;nvim .config/zsh/.zshrc
+: 1609649381:0;zsh-5.8 
+: 1609649382:0;exit
+: 1609649396:0;for i in $(seq 1 10); do /usr/bin/time $SHELL -i -c exit; done\
+
+: 1609649400:0;time
+: 1609649406:0;for i in $(seq 1 10); do time $SHELL -i -c exit; done\
+
+: 1609649419:0;$SHELL
+: 1609649421:0;exit
+: 1609649440:0;for i in $(seq 1 10); do time bash -i -c exit; done\
+
+: 1609649446:0;bash
+: 1609649450:0;exit
+: 1609649448:0;zsh
+: 1609649450:0;exit
+: 1609649481:0;$ZDOTDIR
+: 1609649492:0;nvim /etc/zprofile
+: 1609649507:0;zsh -xv
+: 1609649540:0;nvim .config/zsh/.zshrc
+: 1609649549:0;ls
+: 1609649554:0;exi
+: 1609649555:0;exit
+: 1609649556:0;clear
+: 1609649557:0;ls
+: 1609649560:0;nvim .zshrc
+: 1609649573:0;ls
+: 1609649580:0;for i in $(seq 1 10); do time $SHELL -i -c exit; done\
+
+: 1609649599:0;nvim .config/zsh/.zshrc
+: 1609649605:0;for i in $(seq 1 10); do time $SHELL -i -c exit; done\
+
+: 1609649619:0;gdate
+: 1609649658:0;z multi
+: 1609649661:0;ls
+: 1609649663:0;git status
+: 1609708530:0;crontab -e
+: 1609722993:0;D
+: 1609722995:0;ls
+: 1609722997:0;z shell
+: 1609722997:0;ls
+: 1609722999:0;z zsh
+: 1609722999:0;ls
+: 1609723001:0;cd ../shell
+: 1609723002:0;ls
+: 1609723015:0;../zsh]
+: 1609723016:0;../zsh
+: 1609723017:0;ls
+: 1609723019:0;nvim .zshrc
+: 1609723075:0;D
+: 1609723085:0;ll
+: 1609723090:0;lsd -al
+: 1609723093:0;lsd
+: 1609723094:0;lsd -al
+: 1609723101:0;alias ls="lsd"
+: 1609723103:0;ll
+: 1609723104:0;ls
+: 1609723107:0;ls -al
+: 1609723158:0;mv \[Adaptive\ Computation\ and\ Machine\ Learning\ series\]\ Bengio,\ Yoshua_\ Courville,\ Aaron_\ Goodfellow,\ Ian\ J\ -\ Deep\ learning_\ adaptive\ computation\ and\ machine\ learning\ \(2016,\ The\ MIT\ Press\)\ -\ libgen.lc.pdf ~/doc/books/Deep_Learning_Bengio_Courville_Goodfellow.pdf
+: 1609723159:0;d
+: 1609723161:0;ls
+: 1609723163:0;cd books
+: 1609723164:0;ls
+: 1609723174:0;zathura Deep_Learning_Bengio_Courville_Goodfellow.pdf
+: 1609723187:0;open
+: 1609723189:0;xdg-open
+: 1609723193:0;xdg-open Deep_Learning_Bengio_Courville_Goodfellow.pdf
+: 1609723248:0;edit-command-line
+: 1609723258:0;bindkey '^e' edit-command-line\
+
+: 1609723284:0;bindkey -s '^f' 'cd "$(dirname "$(fzf)")"\n'\
+
+: 1609723285:0;cd "$(dirname "$(fzf)")"
+: 1609723300:0;bindkey
+: 1609723316:0;bindkey --help
+: 1609723318:0;bindkey -h
+: 1609723321:0;man bindkey
+: 1609723323:0;man help
+: 1609723326:0;man man
+: 1609723335:0;man python
+: 1609723348:0;for i in $(seq 1 10); do time $SHELL -i -c exit; done\
+
+: 1609723354:0;run-help \$SHElli
+: 1609723358:0;run-help \$SHciwElliiw
+: 1609723362:0;for i in $(seq 1 10); do time fish -i -c exit; done\
+
+: 1609825880:0;fish
+: 1609874658:0;pikaur glm
+: 1609874674:0;nvim test.c
+: 1609874734:0;g++ test.c
+: 1609874746:0;nvim test.c
+: 1609874761:0;mv test.c test.cpp
+: 1609874762:0;ls
+: 1609874766:0;g++ test.cpp
+: 1609874769:0;ls
+: 1609874770:0;./a.out
+: 1609874774:0;rm a.out test.cpp
+: 1609874779:0;pikaur clion
+: 1609874814:0;cd code
+: 1609874814:0;ls
+: 1609874817:0;mkdir glp_test
+: 1609874909:0;ccls
+: 1609875179:0;killall emacs
+: 1609875360:0;ccls --help
+: 1609875377:0;cd glp_test
+: 1609875380:0;ccls --index
+: 1609875382:0;ccls --index .
+: 1609875498:0;pikaur -S clion
+: 1609875546:0;pikaur intellij
+: 1609875683:0;cd .config
+: 1609875691:0;mkdir emacs
+: 1609875692:0;ls
+: 1609875703:0;cd emacs
+: 1609875736:0;nvim init.el
+: 1609875813:0;emacs -q
+: 1609875966:0;pikaur java
+: 1609877768:0;pikaur java 1.8
+: 1609877773:0;pikaur java 8
+: 1609877786:0;pikaur openjdk 8
+: 1609877806:0;pikaur openjre
+: 1609877811:0;pikaur jre
+: 1609877838:0;sudo arch-java
+: 1609877843:0;fish
+: 1609877851:0;sudo archlinux-java 
+: 1609877856:0;sudo archlinux-java get
+: 1609877861:0;sudo archlinux-java status
+: 1609877868:0;sudo archlinux-java set java-14-openjdk
+: 1609878126:0;intellij-idea-ultimate-edition
+: 1609878200:0;sudo ip a set 
+: 1609878206:0;sudo ip link
+: 1609878208:0;sudo ip link set
+: 1609878212:0;sudo ip link set lo down
+: 1609878215:0;sudo ip link set lo up
+: 1609878372:0;pikaur -S clion
+: 1609878514:0;rsync
+: 1609878519:0;pikaur -S rsync
+: 1609878562:0;pikaur -G rsync
+: 1609878565:0;cd rsync
+: 1609878566:0;ls
+: 1609878567:0;cd trunk
+: 1609878567:0;ls
+: 1609878578:0;makepkg -i
+: 1609878583:0;makepkg -si
+: 1609878595:0;makepkg -si --skipchecksums
+: 1609878602:0;makepkg -si --skippgpcheck
+: 1609878634:0;rsync
+: 1609878687:0;/
+: 1609878689:0;rsync
+: 1609878710:0;exit
+: 1609878712:0;rsync
+: 1609878720:0;pikaur -S clion
+: 1609879019:0;cmake
+: 1609879038:0;whereis cmake
+: 1609879166:0;pikaur cmake
+: 1609879210:0;clion-cmake
+: 1609879215:0;pikaur -S clion-cmake
+: 1609879759:0;hexdump
+: 1609879761:0;D
+: 1609879774:0;rm -r astroturf.tar botometer-feedback-2019.tar mpernel_Project5.tar
+: 1609879779:0;ls
+: 1609879790:0;rm -r model_files neural_network pg2014-data playback_file political-bots-2019* Project*
+: 1609879792:0;ls
+: 1609879797:0;rm startercode Test -r
+: 1609879799:0;ls
+: 1609879800:0;rm startercode Test -r
+: 1609879802:0;ls
+: 1609879810:0;rm *.ipynb
+: 1609879812:0;ls
+: 1609879821:0;rm *.zip
+: 1609879826:0;rm *.pickle
+: 1609879827:0;ls
+: 1609879832:0;rm PennYorkSentenceCompression.pptx
+: 1609879836:0;rm pg2014-data.rar
+: 1609879839:0;rm re2.pkg.tar.xz
+: 1609879841:0;rm users.json
+: 1609879843:0;rm *.py
+: 1609879845:0;ls
+: 1609879848:0;rm rvo2-navmesh-test.blend
+: 1609879849:0;ls
+: 1609879866:0;rm botometer-feedback-2019.tar.gz mpernel_Project5.tar.gz guest-petition.pdf CrowdRatioBoxPlots.png s21_gta_assigments_v1.xlsx q10.pdf
+: 1609879868:0;ls
+: 1609879873:0;rm AlexDayResume.pdf 2020_12_13\ 10_32\ PM\ Office\ Lens*
+: 1609879874:0;ls
+: 1609879886:0;rm 1609.06838\(1\).pdf astroturf.tar.gz class.tsv CPSC8480__Final_Project.pdf
+: 1609879894:0;rm SSR_TSRPT.pdf transcriptfall2020.pdf
+: 1609879895:0;ls
+: 1609879901:0;hexdump mandrill.ppm
+: 1609879909:0;hexdump mandrill.ppm | less
+: 1609879921:0;sxiv mandrill.ppm
+: 1609879932:0;hexdump mandrill.ppm | less
+: 1609879946:0;nvim mandrill.ppm
+: 1609880119:0;pikaur clion eap
+: 1609880279:0;cd classes
+: 1609880279:0;ls
+: 1609880290:0;mkdir computer_vision
+: 1609880386:0;ls
+: 1609880390:0;cd computer_vision
+: 1609880390:0;ls
+: 1609880394:0;mkdir asg01
+: 1609880395:0;cd asg01
+: 1609880398:0;nvim Makefile
+: 1609880410:0;gcc
+: 1609880411:0;make
+: 1609881067:0;z books
+: 1609881072:0;z
+: 1609881078:0;z repos
+: 1609881083:0;alias
+: 1609881087:0;alias | z
+: 1609881093:0;cd .config/zsh
+: 1609881094:0;nvim .z
+: 1609881097:0;nvim .zshrc
+: 1609881106:0;cd ../s
+: 1609881109:0;cd ../shell
+: 1609881109:0;ls
+: 1609881112:0;nvim aliasrc
+: 1609881144:0;ls
+: 1609881146:0;ll
+: 1609881147:0;lsd
+: 1609881148:0;ls
+: 1609881151:0;z
+: 1609881155:0;z shell
+: 1609881157:0;nvim aliasrc
+: 1609881168:0;vim
+: 1609881171:0;ls
+: 1609881172:0;ll
+: 1609881173:0;ls
+: 1609881178:0;alias
+: 1609881180:0;alias | ls
+: 1609881182:0;alias | grep ls
+: 1609881191:0;nvim aliasrc
+: 1609881206:0;ls
+: 1609881212:0;z shell
+: 1609881216:0;nvim aliasrc
+: 1609881220:0;lsd -h
+: 1609881221:0;lsd -hN
+: 1609881223:0;ls
+: 1609881234:0;ls -N
+: 1609881236:0;ls --help
+: 1609881240:0;ls --help | grep N
+: 1609881248:0;ls
+: 1609881262:0;lsd --group-dirs
+: 1609881274:0;ls
+: 1609881276:0;ll
+: 1609881290:0;rg ll
+: 1609881293:0;rg ll=
+: 1609881297:0;rg "ll="
+: 1609881299:0;rg "ll\="
+: 1609881302:0;rg "ll\\="
+: 1609881306:0;rg "alias ll"
+: 1609881310:0;nvim aliasrc
+: 1609881337:0;z books
+: 1609881337:0;ls
+: 1609881342:0;z shell
+: 1609881343:0;nvim aliasrc
+: 1609881349:0;ls
+: 1609881350:0;z books
+: 1609881351:0;ls
+: 1609881355:0;ll
+: 1609881356:0;ls
+: 1609881360:0;alias
+: 1609881364:0;alias | grep ll
+: 1609881368:0;cd
+: 1609881375:0;rg "ll="
+: 1609881380:0;alias | grep ll
+: 1609881385:0;rg "ll='ls -lh'"
+: 1609881393:0;ls -al
+: 1609881398:0;z shell
+: 1609881400:0;nvim aliasrc
+: 1609881413:0;ll
+: 1609881416:0;z books
+: 1609881417:0;ls
+: 1609881422:0;open Tour_of_C++_Bjarne_Stroustrup.pdf
+: 1609881433:0;google-chrome-beta Tour_of_C++_Bjarne_Stroustrup.pdf
+: 1609882470:0;xdg-mime query filetype test.html
+: 1609882477:0;touch test.html
+: 1609882478:0;xdg-mime query filetype test.html
+: 1609882504:0;xdg-settings get default-web-browser
+: 1609882550:0;xdg-mime query default x-scheme-handler/http
+: 1609882561:0;run-help xdg-mime
+: 1609882587:0;xdg-mime query filetype test.html
+: 1609882591:0;xdg-settings get default-web-browser
+: 1609882603:0;xdg-mime default google-chrome-beta.desktop x-scheme-handler/http
+: 1609882605:0;xdg-mime default google-chrome-beta.desktop x-scheme-handler/https
+: 1609882610:0;xdg-mime query default x-scheme-handler/http
+: 1609883688:0;z D
+: 1609883690:0;ls
+: 1609883716:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_ORCA.mp4 -filter:v "setpts=2.0*PTS" Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4\
+
+: 1609883718:0;ls
+: 1609883728:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4
+: 1609883735:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_ORCA.mp4 -filter:v "setpts=5.0*PTS" Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4\
+
+: 1609883742:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4
+: 1609883749:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_ORCA.mp4 -filter:v "setpts=10.0*PTS" Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4\
+
+: 1609883754:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4
+: 1609883766:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_ORCA.mp4 -filter:v "setpts=20.0*PTS" Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4\
+
+: 1609883774:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4
+: 1609883806:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_ORCANN.mp4 -filter:v "setpts=20.0*PTS" Crowd_BNC_Students_Oneway_Circle_ORCANN_Slowed.mp4\
+
+: 1609883818:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCANN_Slowed.mp4
+: 1609883867:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_P.mp4 -filter:v "setpts=20.0*PTS" Crowd_BNC_Students_Oneway_Circle_P_Slowed.mp4\
+
+: 1609883883:0;mpv Crowd_BNC_Students_Oneway_Circle_P_Slowed.mp4
+: 1609883888:0;D
+: 1609883891:0;mpv Crowd_BNC_Students_Oneway_Circle_P_Slowed.mp4
+: 1609883998:0;mpv --help
+: 1609884006:0;mpv --list-options
+: 1609884012:0;mpv --list-options | grep repeat
+: 1609884017:0;mpv --list-options | grep replay
+: 1609884045:0;mpv Crowd_BNC_Students_Oneway_Circle_P_Slowed.mp4 --loop
+: 1609884211:0;ffmpeg -i Crowd_BNC_Students_Oneway_Circle_PNN.mp4 -filter:v "setpts=20.0*PTS" Crowd_BNC_Students_Oneway_Circle_PNN_Slowed.mp4\
+
+: 1609884221:0;ls
+: 1609884262:0;z Multiagent
+: 1609884263:0;ls
+: 1609884269:0;cd data/reports
+: 1609884269:0;ls
+: 1609884272:0;ll
+: 1609884295:0;nvim report_scenes_crowd.config_models_model_bnc_students_oneway_circle_.md
+: 1609884645:0;D
+: 1609884651:0;mpv Crowd_BNC_Students_Oneway_Circle_P_Slowed.mp4
+: 1609884656:0;mpv Crowd_BNC_Students_Oneway_Circle_PNN_Slowed.mp4
+: 1609884662:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCA_Slowed.mp4
+: 1609884666:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCANN_Slowed.mp4
+: 1609887491:0;z asg01
+: 1609887492:0;make
+: 1609887643:0;OA
+: 1609887645:0;make
+: 1609887962:0;g++ --help
+: 1609887974:0;g++ ppm.c
+: 1609887977:0;g++ ppm.cpp
+: 1609888174:0;mkae
+: 1609888176:0;make
+: 1609888385:0;./main
+: 1609888385:0;ls
+: 1609888409:0;D
+: 1609888418:0;mv mandrill.ppm ~/classes/computer_vision/asg01/
+: 1609888438:0;ls
+: 1609888443:0;make
+: 1609888551:0;./main
+: 1609888567:0;make
+: 1609888572:0;z asg01
+: 1609888573:0;./main
+: 1609888696:0;make
+: 1609888703:0;./main
+: 1609888727:0;hexdump mandrill.ppm | less
+: 1609888730:0;less mandrill.ppm
+: 1609888759:0;make
+: 1609888763:0;./main
+: 1609888975:0;make
+: 1609888984:0;./main
+: 1609889076:0;make
+: 1609889135:0;./main
+: 1609889197:0;make
+: 1609889199:0;./main
+: 1609889212:0;make
+: 1609889219:0;./main
+: 1609889221:0;make
+: 1609889223:0;./main
+: 1609889234:0;make
+: 1609889237:0;./main
+: 1609889273:0;nvim mandrill.ppm
+: 1609889338:0;make
+: 1609889341:0;nvim mandrill.ppm
+: 1609889343:0;make
+: 1609889346:0;./main
+: 1609889407:0;make
+: 1609889409:0;./main
+: 1609889466:0;make
+: 1609889468:0;./main
+: 1609889485:0;less mandrill.ppm
+: 1609889597:0;hexdump mandrill.ppm | less
+: 1609898098:0;make
+: 1609898114:0;./main
+: 1609898141:0;make
+: 1609898143:0;./main
+: 1609898186:0;make
+: 1609898187:0;./main
+: 1609898512:0;D
+: 1609898524:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCANN_Slowed.mp4 --loop
+: 1609898544:0;mpv Crowd_BNC_Students_Oneway_Circle_ORCANN.mp4
+: 1609937821:0;make
+: 1609937892:0;z asg01
+: 1609937894:0;nvim Makefile
+: 1609939611:0;z 
+: 1609939613:0;z asg01
+: 1609939615:0;hexdump mandrill.ppm | less
+: 1609939655:0;nvim mandrill.ppm
+: 1609939789:0;pikaur -S gimp
+: 1609940026:0;hexdump mandrill.ppm | less
+: 1609940363:0;z asg01
+: 1609940364:0;ls
+: 1609940367:0;./main
+: 1609940383:0;./main | hexdump
+: 1609940412:0;make
+: 1609940413:0;./main | hexdump
+: 1609940453:0;make
+: 1609940454:0;./main | hexdump
+: 1609941860:0;ssh access
+: 1609941879:0;curl checkin.cs.computing.edu
+: 1609945114:0;D
+: 1609945146:0;mv Request\ to\ Audit-Fillable-Spring\ 2021\ \(2\)\ \(1\).pdf MATH_2060_Audit_Request.pdf
+: 1609945148:0;ls
+: 1609956451:0;D
+: 1609956469:0;ls
+: 1609956497:0;mv SzeliskiBookDraft_20200920.pdf ~/doc/books/Computer_Vision_Szeliski.pdf
+: 1609957921:0;nvim
+: 1609959823:0;pikaur -S maim
+: 1609968763:0;sudo ip link set lo down
+: 1609968767:0;sudo ip link set lo up
+: 1609968854:0;pkill clion
+: 1609970757:0;g++
+: 1609970760:0;man g++
+: 1609970880:0;make clean
+: 1609970881:0;make
+: 1609970905:0;nvim makefile
+: 1609970909:0;nvim Makefile
+: 1609970912:0;make
+: 1609970915:0;make clean
+: 1609970915:0;make
+: 1609970922:0;make clean
+: 1609970923:0;ls
+: 1609970945:0;make
+: 1609995381:0;ip a
+: 1609995388:0;sudo ip link set lo down
+: 1609995394:0;sudo ip link set lo up
+: 1609995451:0;make
+: 1609995454:0;./main
+: 1610035497:0;sudo ip link set lo down
+: 1610035502:0;sudo ip link set lo up
+: 1610036468:0;pikaur opencv
+: 1610036626:0;pikaur gdb
+: 1610036659:0;gdb
+: 1610036667:0;whereis gdb
+: 1610036993:0;z asg01
+: 1610036994:0;make
+: 1610036996:0;./main
+: 1610036998:0;./main | hexdump
+: 1610037049:0;make
+: 1610037051:0;./main
+: 1610039416:0;z asg
+: 1610039422:0;z asg1
+: 1610039424:0;z asg01
+: 1610039424:0;ls
+: 1610039429:0;nvim mandrill.ppm
+: 1610039793:0;ls
+: 1610039798:0;sxiv mandrill.pgm
+: 1610039804:0;nvim mandrill.ppm
+: 1610039808:0;sxiv .
+: 1610039886:0;nvim mandrill.pgm
+: 1610039955:0;sxiv .
+: 1610045394:0;ip a
+: 1610045476:0;sudo ip link set lo down
+: 1610045480:0;sudo ip link set lo up
+: 1610045482:0;ls
+: 1610045485:0;z Multiagent
+: 1610045486:0;ls
+: 1610045489:0;nvim Environment_Ratio.py
+: 1610045509:0;pipenv shell
+: 1610045537:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval
+: 1610045641:0;ls data/videos
+: 1610045652:0;cd data/videos
+: 1610045652:0;ls
+: 1610045653:0;ll
+: 1610045655:0;ll ./
+: 1610045663:0;cd ../
+: 1610045671:0;nvim Environment_Ratio.py
+: 1610045704:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save
+: 1610045725:0;pkill clion
+: 1610045728:0;clion
+: 1610047005:0;ll data/videos
+: 1610047009:0;ll
+: 1610047021:0;ls data
+: 1610047039:0;ls
+: 1610047041:0;z shell
+: 1610047042:0;ls
+: 1610047043:0;nvim aliasrc
+: 1610047054:0;ls
+: 1610047056:0;ls ./classes
+: 1610047060:0;cd ./classes
+: 1610047062:0;ls
+: 1610047162:0;nvim Environment_Ratio.py
+: 1610047185:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610047484:0;z asg
+: 1610047485:0;ls
+: 1610047486:0;make
+: 1610047526:0;nvim Makefile
+: 1610047532:0;make
+: 1610047538:0;nvim Makefile
+: 1610047549:0;make
+: 1610047555:0;nvim Ma
+: 1610047558:0;nvim Makefile
+: 1610047590:0;make
+: 1610047593:0;nvim Makefile
+: 1610047599:0;ls
+: 1610047609:0;mv Makefile m
+: 1610047610:0;make
+: 1610047615:0;nvim Mak
+: 1610047619:0;mv m Makefile
+: 1610047620:0;make
+: 1610047626:0;nvim Makefile
+: 1610047639:0;make
+: 1610047642:0;nvim Makefile
+: 1610047670:0;make clean
+: 1610047672:0;ls
+: 1610047674:0;make
+: 1610047678:0;nvim Makefile
+: 1610047696:0;make clean
+: 1610047696:0;make
+: 1610047701:0;make clean
+: 1610047702:0;nvim Makefile
+: 1610047789:0;make clean
+: 1610047790:0;make
+: 1610047793:0;nvim Makefile
+: 1610047801:0;make
+: 1610047806:0;make clean
+: 1610047807:0;make
+: 1610047812:0;nvim Makefile
+: 1610047820:0;make
+: 1610047824:0;make clean
+: 1610047825:0;make
+: 1610047829:0;nvim Makefile
+: 1610047888:0;make
+: 1610047891:0;nvim Makefile
+: 1610047914:0;make
+: 1610048593:0;z asg
+: 1610048596:0;sxiv .
+: 1610049006:0;du . 
+: 1610049010:0;du --help
+: 1610056753:0;z asg
+: 1610056755:0;ls
+: 1610056772:0;mpv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4
+: 1610056780:0;nvim Environment_Ratio.py
+: 1610056821:0;mpv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4
+: 1610056836:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610056860:0;make
+: 1610056864:0;./main 1
+: 1610056866:0;./main 1 2
+: 1610056912:0;make
+: 1610056923:0;./main 1
+: 1610056928:0;./main 2
+: 1610057104:0;make
+: 1610057106:0;./main 2
+: 1610057113:0;./main 1
+: 1610057323:0;make
+: 1610057327:0;./main 1
+: 1610057329:0;./main 2
+: 1610057355:0;make
+: 1610057362:0;./main 2
+: 1610057458:0;make
+: 1610057461:0;./main 2
+: 1610057463:0;./main 1
+: 1610057464:0;ls
+: 1610057467:0;ll
+: 1610057475:0;mpv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4
+: 1610057481:0;nvim Environment_Ratio.py
+: 1610057497:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610057506:0;z zsh
+: 1610057509:0;nvim .zshrc
+: 1610058057:0;ls
+: 1610058061:0;mpv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4
+: 1610058074:0;mpv crowd.config_PNN_model_bnc_students_oneway_circle.mp4
+: 1610058080:0;mpv crowd.config_P_model_bnc_students_oneway_circle.mp4
+: 1610058095:0;mkdir with_and_without_ratio_test
+: 1610058111:0;mv *mp4 with_and_without_ratio_test
+: 1610058114:0;cd with_and_without_ratio_test
+: 1610058115:0;ls
+: 1610058120:0;rename
+: 1610058123:0;man rename
+: 1610058138:0;ls
+: 1610058160:0;mv crowd.config_ORCA_model_bnc_students_oneway_circle.mp4 crowd_ORCA_model_bnc_student_oneway_curcle_no_ratio.mp4
+: 1610058166:0;mv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4 crowd_ORCANN_model_bnc_student_oneway_curcle_no_ratio.mp4
+: 1610058174:0;mv crowd.config_PNN_model_bnc_students_oneway_circle.mp4 crowd_PNN_model_bnc_student_oneway_curcle_no_ratio.mp4
+: 1610058178:0;mv crowd.config_P_model_bnc_students_oneway_circle.mp4 crowd_P_model_bnc_student_oneway_curcle_no_ratio.mp4
+: 1610058180:0;ls
+: 1610058196:0;mv crowd_ORCA_model_bnc_student_oneway_curcle_no_ratio.mp4 crowd_ORCA_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610058202:0;mv crowd_ORCANN_model_bnc_student_oneway_curcle_no_ratio.mp4 crowd_ORCANN_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610058210:0;mv crowd_PnN_model_bnc_student_oneway_curcle_no_ratio.mp4 crowd_PNN_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610058219:0;mv crowd_PNN_model_bnc_student_oneway_curcle_no_ratio.mp4 crowd_PNN_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610058226:0;mv crowd_P_model_bnc_student_oneway_curcle_no_ratio.mp4 crowd_P_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610058227:0;ls
+: 1610058229:0;cd ../
+: 1610058230:0;ls
+: 1610058232:0;nvim Environment
+: 1610058236:0;nvim Environment_Ratio.py
+: 1610058256:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610058326:0;z asg
+: 1610058328:0;cd ../
+: 1610058330:0;tar 
+: 1610058367:0;tar -czvf day_asg01 asg01
+: 1610058368:0;ls
+: 1610058379:0;mv day_asg01 day_asg01.tar.gz
+: 1610058394:0;scp day_asg01.tar.gz adday@access1:~
+: 1610058397:0;ssh acces
+: 1610058399:0;ssh access
+: 1610058551:0;exit
+: 1610058553:0;z asg
+: 1610058554:0;ls
+: 1610058558:0;nvim Makefile
+: 1610058568:0;make clean
+: 1610058569:0;ls
+: 1610058570:0;make
+: 1610058573:0;./main
+: 1610058574:0;ls
+: 1610058579:0;sxiv mandrill.p
+: 1610058583:0;sxiv .
+: 1610058601:0;make clean
+: 1610058603:0;ls
+: 1610058605:0;cd ../
+: 1610058605:0;ls
+: 1610058607:0;rm day_asg01.tar.gz
+: 1610058615:0;tar -czvf day_asg01.tar.gz asg01
+: 1610058617:0;ls
+: 1610058619:0;scp day_asg01.tar.gz adday@access1:~
+: 1610058622:0;ssh access
+: 1610058650:0;ls
+: 1610058651:0;cd asg01
+: 1610058652:0;ls
+: 1610058653:0;ll
+: 1610058670:0;rm .idea
+: 1610058680:0;cd ../
+: 1610058680:0;ls
+: 1610058683:0;rm day_asg01.tar.gz
+: 1610058751:0;tar -czvf day_asg01.tar.gz asg01 --exclude=asg01/.idea
+: 1610058759:0;tar -czvf day_asg01.tar.gz asg01 --exclude=/asg01/.idea
+: 1610058791:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610058793:0;ls
+: 1610058795:0;ll
+: 1610058800:0;scp day_asg01.tar.gz adday@access1:~
+: 1610058802:0;ssh access
+: 1610058873:0;z asg
+: 1610058882:0;make
+: 1610058884:0;./main
+: 1610058891:0;md5sum mandrill.pgm
+: 1610058901:0;nvim mandrill.pgm
+: 1610058919:0;ssh access
+: 1610059462:0;ls
+: 1610059466:0;mv *mp4 with_and_without_ratio_test
+: 1610059469:0;ls with_and_without_ratio_test
+: 1610059469:0;ls
+: 1610059482:0;cd with_and_without_ratio_test
+: 1610059482:0;ls
+: 1610059501:0;mv crowd.config_P_model_bnc_students_oneway_circle.mp4 crowd_P_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059508:0;mv crowd.config_PNN_model_bnc_students_oneway_circle.mp4 crowd_PNN_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059516:0;mv crowd.config_ORCANN_model_bnc_students_oneway_circle.mp4 crowd_ORCANN_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059521:0;mv crowd.config_ORCA_model_bnc_students_oneway_circle.mp4 crowd_ORCA_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059523:0;ls
+: 1610059543:0;mpv crowd_ORCANN_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059556:0;mpv crowd_ORCANN_model_bnc_student_oneway_circle_without_ratio.mp4
+: 1610059565:0;mpv crowd_ORCANN_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610059577:0;ll
+: 1610059595:0;rm crowd_P_*
+: 1610059603:0;rm crowd_ORCA_*
+: 1610059603:0;ls
+: 1610059610:0;mpv crowd_PNN_model_bnc_student_oneway_circle_no_ratio.mp4
+: 1610059623:0;mpv crowd_PNN_model_bnc_student_oneway_circle_with_ratio.mp4
+: 1610059637:0;ll
+: 1610059657:0;nvim with_ratio.md
+: 1610059682:0;nvim no_ratio.md
+: 1610059692:0;nvim witOC
+: 1610059703:0;nvim with_ratio.md
+: 1610059761:0;nvim Environment_Ratio.py
+: 1610059767:0;cd ../
+: 1610059767:0;ls
+: 1610059769:0;nvim Environment_Ratio.py
+: 1610059787:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610059798:0;pipenv shell
+: 1610059801:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --eval --save --viz
+: 1610060724:0;nvim no_ratio.md
+: 1610060734:0;nvim with_ratio.md
+: 1610060738:0;cd with_and_without_ratio_test
+: 1610060740:0;nvim with_ratio.md
+: 1610060925:0;cd classes
+: 1610060925:0;ls
+: 1610060983:0;rm -rf ai/ data_visualization network_science
+: 1610060984:0;ls
+: 1610060988:0;cd software_dev
+: 1610060988:0;ls
+: 1610060992:0;mkdir Fall_2020
+: 1610060996:0;mv * Fall_2020
+: 1610060997:0;ls
+: 1610060998:0;cd ../
+: 1610060999:0;ls
+: 1610061001:0;mkdir drl
+: 1610061005:0;mkdir deep_learning
+: 1610061006:0;ls
+: 1610061009:0;cd d
+: 1610061010:0;cd drl
+: 1610061012:0;pipenv shell
+: 1610061024:0;pipenv install pytorch
+: 1610061040:0;pipenv install torch
+: 1610067615:0;z Multiagent
+: 1610067618:0;nvim Environment
+: 1610067622:0;nvim Environment_Ratio.py
+: 1610076588:0;make clena
+: 1610076591:0;make clean
+: 1610076592:0;ls
+: 1610076637:0;make all
+: 1610076640:0;make allll
+: 1610126252:0;autorandr --save semi-docked
+: 1610126260:0;launch_polybar
+: 1610126515:0;pikaur openjdk 11
+: 1610126551:0;ip a
+: 1610126555:0;sudo ip link set lo down
+: 1610126557:0;sudo ip link set lo up
+: 1610126561:0;sudo archlinux-java get
+: 1610126563:0;sudo archlinux-java 
+: 1610126567:0;sudo archlinux-java status
+: 1610126589:0;pikaur -Rn java-8-openjdk
+: 1610126596:0;pikaur -Rn openjdk-8
+: 1610126618:0;pikaur -Rn jdk8-openjdk
+: 1610126637:0;pikaur intellij jre
+: 1610127203:0;maim -s -d 0.1
+: 1610127205:0;maim -s -d 0.1 fasd
+: 1610127244:0;D
+: 1610127283:0;mv William\ L.\ Briggs,\ Lyle\ Cochran,\ Bernard\ Gillett,\ Eric\ Schulz\ -\ Calculus_\ Early\ Transcendentals\ \(3rd\ Ed\)\ \(2018\)\ -\ libgen.lc.pdf ~/doc/books/Calculus_Early_Trancendentals_3rd_ed_Briggs_Cochran_Gillett.pdf
+: 1610128574:0;pikaur -S scrot
+: 1610128594:0;dmenupowermenui
+: 1610128595:0;dmenupowermenu
+: 1610128600:0;z shell
+: 1610128605:0;nvim profile
+: 1610128633:0;alsa
+: 1610128665:0;pikaur -S wmname
+: 1610128682:0;lf
+: 1610128731:0;dsf
+: 1610128758:0;cd ../zsd
+: 1610128759:0;cd ../zsh
+: 1610128759:0;ls
+: 1610128761:0;nvim .zshrc
+: 1610128812:0;lfcd
+: 1610128819:0;ls
+: 1610128820:0;lfcd
+: 1610128829:0;b
+: 1610128833:0;nvim shortcuts
+: 1610128847:0;exit
+: 1610129165:0;pikaur -S gnome-screenshot
+: 1610129194:0;gnome-screenshot -a -f testing
+: 1610129232:0;export DISPLAY=desktop:0
+: 1610129233:0;emacs
+: 1610129282:0;export DISPLAY=desktop:1.0
+: 1610129283:0;emacs
+: 1610129304:0;$DESKTOP
+: 1610129317:0;ll
+: 1610129323:0;nvim .Xauthority
+: 1610129360:0;fish
+: 1610129372:0;nvim .zsh_history
+: 1610129375:0;z zsh
+: 1610129376:0;ls
+: 1610129377:0;nvim .zshrc
+: 1610129382:0;z fish
+: 1610129385:0;nvim config.fish
+: 1610129404:0;cd ../shell
+: 1610129404:0;ls
+: 1610129409:0;nvim profile
+: 1610129419:0;killall xinit
+: 1610129430:0;pkill zoom
+: 1610129476:0;dmenupowermenu
+: 1610129515:0;xhost
+: 1610129516:0;xrdb
+: 1610129541:0;l
+: 1610129541:0;ls
+: 1610129550:0;nvim .config/shell/profile
+: 1610129557:0;rg XAUTHORITY
+: 1610129573:0;rg "export XAUTHORITY"
+: 1610129580:0;rg "XAUTHORITY="
+: 1610129582:0;rg "XAUTHORITY = "
+: 1610129587:0;rg "$XAUTHORITY"
+: 1610129589:0;rg "\$XAUTHORITY"
+: 1610129599:0;rg "XAUTHORITY"
+: 1610129606:0;rg "$XAUTHORITY"
+: 1610129608:0;rg "\$XAUTHORITY"
+: 1610129625:0;cd .config
+: 1610129629:0;rg "XAUTHORITY"
+: 1610129650:0;nvim fish/config.fish
+: 1610129661:0;ls .cac
+: 1610129663:0;cd
+: 1610129695:0;find -iname ".Xauthority" .
+: 1610129703:0;find -iname "\.Xauthority" .
+: 1610129706:0;find -iname "*Xauthority" .
+: 1610129711:0;find . -iname "*Xauthority"
+: 1610129715:0;find . -iname ".Xauthority"
+: 1610129722:0;killall Xorg
+: 1610129729:0;ls
+: 1610129733:0;dmenupowermenu
+: 1610129760:0;cd .config
+: 1610129764:0;rg "DESKTOP"
+: 1610129840:0;gnome-screenshot -a -f testing
+: 1610129846:0;ls
+: 1610129850:0;sxiv testing
+: 1610129852:0;rm testing
+: 1610129855:0;cd ..
+: 1610129856:0;ls
+: 1610129859:0;rm test*
+: 1610129860:0;ls
+: 1610129863:0;rm -r rsync
+: 1610129866:0;ls
+: 1610129868:0;rm -r rsync
+: 1610129871:0;rm -r rsync -f
+: 1610129872:0;ls
+: 1610129873:0;ll
+: 1610129879:0;$DESKTOP
+: 1610129928:0;$XAUTHORITY
+: 1610129931:0;nvim $XAUTHORITY
+: 1610129937:0;/home/alex/.Xauthority
+: 1610129949:0;xauth list
+: 1610129960:0;export DISPLAY=desktop:0
+: 1610129963:0;emacs
+: 1610129989:0;pikaur -S scrot
+: 1610129998:0;scrot
+: 1610130029:0;reboot
+: 1610130122:0;chsh 
+: 1610130134:0;killall Xorg
+: 1610130205:0;scrot
+: 1610130239:0;DISPLAY=:0.0 emacs
+: 1610130308:0;dmenupowermenu
+: 1610130313:0;ls
+: 1610130316:0;rm 2021*
+: 1610130316:0;ls
+: 1610130324:0;$DISPLAY
+: 1610130327:0;$XAUTHORITY
+: 1610130355:0;ls
+: 1610130359:0;ll
+: 1610130371:0;rm .zsh_history
+: 1610130373:0;ls
+: 1610130374:0;ll
+: 1610130379:0;ls .android
+: 1610130397:0;rm -r .android .gnome .mozilla .pylint.d .w3m
+: 1610130399:0;ls
+: 1610130400:0;ll
+: 1610130403:0;ll | wc -l
+: 1610130406:0;ls .java
+: 1610130409:0;ls .java/fonts
+: 1610130411:0;ls .java/fonts/1.8.0_265
+: 1610154461:0;json_resume
+: 1610154479:0;~/.gem/ruby/2.7.0/bin/json_resume
+: 1610154485:0;z json_
+: 1610154487:0;ls
+: 1610154488:0;nvim alexday.json
+: 1610154497:0;git status
+: 1610154506:0;open cv/resume.
+: 1610154507:0;open cv/resume.pdf
+: 1610154522:0;nvim alexday.json
+: 1610218617:0;fzb
+: 1610218619:0;b
+: 1610218623:0;cron
+: 1610218623:0;ls
+: 1610218628:0;nvim cronbat
+: 1610218641:0;cat /sys/class/power_supply/AC/online
+: 1610218654:0;cat /sys/class/power_supply/BAT0/s
+: 1610218657:0;cat /sys/class/power_supply/BAT0/status
+: 1610218685:0;acpi -v
+: 1610218701:0;cat /sys/class/power_supply/BAT0/uevent
+: 1610218724:0;ls /sys/class/power_supply
+: 1610218805:0;cat /sys/class/power_supply/BAT0/ueven
+: 1610218806:0;cat /sys/class/power_supply/BAT0/uevent
+: 1610218865:0;fwupdmgr get-updates
+: 1610218999:0;shutdown -h now
+: 1610219181:0;ls /sys/class/power_supply
+: 1610219184:0;ls /sys/class/power_supply/BAT0
+: 1610219189:0;ls /sys/class/power_supply/BAT0/capacity
+: 1610219194:0;cat /sys/class/power_supply/BAT0/capacity
+: 1610219205:0;cat /sys/class/power_supply/BAT0/uevent
+: 1610219306:0;pikaur -Syu
+: 1610220060:0;upower
+: 1610229631:0;autorandr --save docked
+: 1610229634:0;autorandr --save docked --force
+: 1610229654:0;autorandr
+: 1610229678:0;lsus
+: 1610229679:0;lsusb
+: 1610229716:0;udev
+: 1610229728:0;modinfo usbmouse
+: 1610229736:0;modprobe usbmouse
+: 1610229754:0;libinput debug-events
+: 1610229760:0;sudo libinput debug-events
+: 1610229808:0;lsus
+: 1610229809:0;lsusb
+: 1610229854:0;lsmod
+: 1610229858:0;lsmod | grep mouse
+: 1610229900:0;reboot
+: 1610229982:0;autorandr
+: 1610229989:0;autorandr --load docked
+: 1610230010:0;xrandr --fb 3840x1080 --output DP-2 --crtc 2 --gamma 1.0:1.0:1.0 --mode 1920x1080 --pos 0x0 --rate 60.00 --reflect normal --rotate normal --output HDMI-1 --crtc 1 --gamma 1.0:1.0:1.0 --mode 1920x1080 --pos 1920x0 --rate 60.00 --reflect normal --rotate normal
+: 1610230030:0;autorandr --save docked --force
+: 1610230034:0;arandr
+: 1610230216:0;autorandr --save docked --force
+: 1610230220:0;autorandr --load docked
+: 1610230224:0;autorandr --load docked --force
+: 1610230235:0;nitrogen
+: 1610230281:0;z asg
+: 1610230282:0;ls
+: 1610230285:0;make clean
+: 1610230286:0;ls
+: 1610230287:0;make
+: 1610230289:0;./main
+: 1610230294:0;ls
+: 1610230298:0;sxiv mandrill.pgm
+: 1610230309:0;sxiv --help
+: 1610230314:0;man sxiv
+: 1610230925:0;du -t
+: 1610230927:0;make clean
+: 1610230928:0;du 
+: 1610230935:0;ls
+: 1610230937:0;ll
+: 1610230940:0;nvim README
+: 1610230984:0;cat Makefile
+: 1610231062:0;make clean
+: 1610231063:0;ls
+: 1610231065:0;cd ../
+: 1610231066:0;ls
+: 1610231067:0;rm day_asg01.tar.gz
+: 1610231070:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610231121:0;cd asg01
+: 1610231125:0;nvim pgm.cpp
+: 1610231593:0;pip install cpplint
+: 1610231599:0;cpplint --help
+: 1610231609:0;cpplint
+: 1610231613:0;cpplint main.cpp
+: 1610231636:0;nvim main.cpp
+: 1610231642:0;cpplint main.cpp
+: 1610231661:0;OA
+: 1610231662:0;cpplint main.cpp
+: 1610231666:0;make
+: 1610231690:0;cpplint main.cpp
+: 1610231850:0;cpplint pgm.h
+: 1610235649:0;z asg
+: 1610235650:0;make
+: 1610235655:0;make clean
+: 1610235656:0;make
+: 1610235659:0;./main
+: 1610235665:0;sxiv mandrill.pgm
+: 1610235899:0;make
+: 1610235901:0;make clena
+: 1610235903:0;make clean
+: 1610235904:0;make
+: 1610235915:0;sxiv mandrill.pgm &
+: 1610235920:0;./main 1
+: 1610235921:0;sxiv mandrill.pgm &
+: 1610235925:0;./main 2
+: 1610235927:0;./main 3
+: 1610235929:0;./main 1
+: 1610235931:0;./main 3
+: 1610235932:0;./main 1
+: 1610235934:0;./main 3
+: 1610235939:0;clear
+: 1610236204:0;make
+: 1610236207:0;sxiv mandrill.pgm &
+: 1610236210:0;main
+: 1610236212:0;./main
+: 1610236214:0;./main 2
+: 1610236216:0;./main 3
+: 1610236698:0;z asg
+: 1610236699:0;make
+: 1610243208:0;z asg
+: 1610243213:0;cpplint main.cpp
+: 1610243221:0;cpplint Netpbm.h
+: 1610243283:0;cpplint ppm.cpp
+: 1610243482:0;cpplint ppm.h
+: 1610243512:0;cpplint pgm.h
+: 1610243550:0;cpplint main.cpp
+: 1610243559:0;cpplint pgm.cpp
+: 1610250977:0;killall emacs
+: 1610250985:0;pikaur -Syu
+: 1610250994:0;reboot
+: 1610251102:0;killall emacs
+: 1610311712:0;lslbk
+: 1610311713:0;lsblk
+: 1610331248:0;ls
+: 1610331254:0;z Multiagent
+: 1610331256:0;nvim Environment_Ratio.py
+: 1610339925:0;killall Xorg
+: 1610385536:0;nmtui
+: 1610385575:0;ip a
+: 1610385681:0;nmtui
+: 1610385877:0;nmcli device wifi list
+: 1610385980:0;D
+: 1610385983:0;nvim eduroam-linux-Clemson_University.py
+: 1610385998:0;D
+: 1610386001:0;python eduroam-linux-Clemson_University.py
+: 1610386045:0;h
+: 1610386054:0;nmtui
+: 1610386185:0;env | grep DISPLAY
+: 1610386225:0;dmenupowermenu
+: 1610388259:0;nmtui
+: 1610391022:0;ssh joey
+: 1610391036:0;ls
+: 1610391039:0;z asg
+: 1610391039:0;ls
+: 1610391041:0;make clean
+: 1610391042:0;ls
+: 1610391052:0;type man
+: 1610391061:0;file mandrill.ppm
+: 1610391067:0;cd ../
+: 1610391069:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610391070:0;ls
+: 1610391074:0;scp day_asg01.tar.gz adday@access1:~
+: 1610391121:0;make
+: 1610391123:0;cd asg01
+: 1610391124:0;make
+: 1610391133:0;nvim ppm.h
+: 1610391193:0;sudo ip link set lo down
+: 1610391197:0;sudo ip link set lo up
+: 1610391221:0;nmtui
+: 1610391309:0;htop
+: 1610391319:0;nmtui
+: 1610391328:0;curl clemson.edu
+: 1610391333:0;nmtui
+: 1610391339:0;nm
+: 1610391344:0;type nm
+: 1610391347:0;man nm
+: 1610391354:0;nmtui
+: 1610391379:0;curl clemson.edu
+: 1610391395:0;curl 1.1.1.1
+: 1610391397:0;ip a
+: 1610391409:0;ping 198.21.206.235
+: 1610391552:0;make clean
+: 1610391553:0;make
+: 1610391637:0;g++ -std=c++14 -c -o ppm.o ppm.cpp
+: 1610391667:0;g++ -std=c++14 -c -o pgm.o pgm.cpp
+: 1610391680:0;make clean
+: 1610391689:0;g++ -std=c++14 -c -o ppm.o ppm.cpp
+: 1610391693:0;g++ -std=c++14 -c -o pgm.o pgm.cpp
+: 1610391803:0;z asg
+: 1610391804:0;ls
+: 1610391807:0;make clean
+: 1610391807:0;../
+: 1610391808:0;ls
+: 1610391810:0;rm day_asg01.tar.gz
+: 1610391812:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610391816:0;scp day_asg01.tar.gz adday@access1:~
+: 1610393493:0;nmtui
+: 1610393511:0;nmcli
+: 1610393513:0;nmtui
+: 1610393523:0;systemctl restart NetworkManager
+: 1610393533:0;nmtui
+: 1610394330:0;systemd-inhibit
+: 1610394370:0;nmtui
+: 1610394436:0;systemd-resolve
+: 1610394446:0;resolvectl status
+: 1610394474:0;nvim /etc/resolv.conf
+: 1610394540:0;D
+: 1610394542:0;python eduroam-linux-Clemson_University.py
+: 1610394558:0;nmtui
+: 1610394571:0;sudo systemctl restart NetworkManager
+: 1610394581:0;nmtui
+: 1610394638:0;D
+: 1610394640:0;python eduroam-linux-Clemson_University.py
+: 1610394668:0;ls
+: 1610394668:0;ll
+: 1610394670:0;h
+: 1610394673:0;nvim .cat_installer
+: 1610394699:0;nmtui
+: 1610394729:0;nvim /etc/resolv.conf
+: 1610394753:0;D
+: 1610394753:0;ls
+: 1610394755:0;nvim eduroam-linux-Clemson_University.py
+: 1610394813:0;nvim /etc/resolv.conf
+: 1610394823:0;ping 130.127.255.250\
+
+: 1610394867:0;nmtui
+: 1610395008:0;sudo systemctl restart NetworkManager
+: 1610395026:0;nmtui
+: 1610395029:0;ls
+: 1610395033:0;sudo systemctl restart NetworkManager
+: 1610395057:0;nmtui
+: 1610395059:0;nmcli
+: 1610395066:0;killall nmtui
+: 1610395074:0;sudo systemctl status NetworkManager
+: 1610395105:0;nmtui
+: 1610395117:0;resolvectl status
+: 1610395143:0;sudo systemctl status NetworkManager
+: 1610395154:0;nmtui
+: 1610395162:0;sudo systemctl stop NetworkManager
+: 1610395176:0;sudo systemctl start NetworkManager
+: 1610395180:0;nmtui
+: 1610395201:0;ip a
+: 1610395219:0;sudo ip link set wlan0 up
+: 1610395227:0;nmtui
+: 1610395282:0;nvim /etc/resolv.conf
+: 1610395333:0;NetworkManager
+: 1610395335:0;NetworkManager --help
+: 1610395338:0;NetworkManager --V
+: 1610395341:0;NetworkManager -V
+: 1610395045:0;resolvectl status
+: 1610395363:0;curl 1.1.1.1
+: 1610395366:0;curl google.com
+: 1610395375:0;resolvectl status
+: 1610395454:0;cat /etc/resolv.conf
+: 1610395459:0;ping 130.127.255.250
+: 1610395462:0;ping 130.127.255.251
+: 1610395477:0;ping 1.1.1.1
+: 1610395495:0;ip a
+: 1610395509:0;ping 198.21.175.255
+: 1610395544:0;ip r
+: 1610395555:0;ping 192.21.168.0
+: 1610395560:0;ping 192.21.168.1
+: 1610395564:0;ls
+: 1610395570:0;rm -r .cat_installer
+: 1610395573:0;D
+: 1610395576:0;python eduroam-linux-Clemson_University.py
+: 1610395597:0;nmti
+: 1610395598:0;nmtui
+: 1610395606:0;ip a
+: 1610395611:0;nmtui
+: 1610395630:0;pass 
+: 1610395639:0;pass insert clemson
+: 1610395650:0;env | grep GPG
+: 1610395655:0;env | grep PGP
+: 1610395662:0;z zsh
+: 1610395662:0;ls
+: 1610395664:0;nvim .zshrc
+: 1610395667:0;cd
+: 1610395669:0;nvim .zprofile
+: 1610395679:0;export GNUPGHOME="${XDG_DATA_HOME:-$HOME/.local/share}/gnupg"\
+
+: 1610395684:0;pass insert clemson
+: 1610395696:0;pass clemson
+: 1610395715:0;nmtui
+: 1610395729:0;cat /etc/resolv.conf
+: 1610395734:0;ping 130.127.255.251
+: 1610395773:0;nmtui
+: 1610395797:0;curl 1.1.1.1
+: 1610395803:0;curl google.com
+: 1610395844:0;dmenupowermenu
+: 1610395878:0;curl 1.1.1.1
+: 1610395882:0;ping 130.127.255.251
+: 1610395885:0;cat /etc/resolv.conf
+: 1610395889:0;resolvectl status
+: 1610395894:0;ping 130.127.255.251
+: 1610396004:0;uname -r
+: 1610396035:0;NetworkManager -V
+: 1610396214:0;dmenupowermenu
+: 1610398439:0;autorandr --load docked --force
+: 1610401364:0;z classes
+: 1610401369:0;ls
+: 1610401370:0;cd deep_learning
+: 1610401370:0;ls
+: 1610401375:0;mkdir hw1
+: 1610401378:0;ll
+: 1610401382:0;pipenv shell
+: 1610401386:0;pipenv install torch
+: 1610401416:0;python
+: 1610401445:0;pipenv shell --fancy
+: 1610401495:0;pipenv install jupyter
+: 1610401575:0;jupyter notebook
+: 1610401580:0;jupyter
+: 1610401587:0;pipenv install jupyter_core
+: 1610401622:0;jupyter notebook
+: 1610401640:0;pip install --upgrade jupyterthemes
+: 1610401655:0;jupyter notebook
+: 1610401657:0;jupyter
+: 1610401683:0;python -m jupyter notebook
+: 1610404363:0;D
+: 1610404369:0;mv Homework\ 1.ipynb ~/classes/deep_learning
+: 1610408059:0;ytop
+: 1610408061:0;gotop
+: 1610408079:0;pikaur -S bottom
+: 1610408095:0;pikaur bottom
+: 1610408104:0;z zsh
+: 1610408107:0;nvim aliasrc
+: 1610408109:0;ls
+: 1610408113:0;cd ../shell
+: 1610408113:0;ls
+: 1610408115:0;nvim aliasrc 
+: 1610408164:0;htop
+: 1610408169:0;bottom
+: 1610408190:0;z shell
+: 1610408191:0;nvim aliasrc
+: 1610408198:0;htop
+: 1610408205:0;btm --color gruvbox
+: 1610408210:0;z shell
+: 1610408211:0;nvim aliasrc
+: 1610408960:0;mailsync
+: 1610414691:0;htop
+: 1610414705:0;date
+: 1610414760:0;nitrogen
+: 1610415082:0;p
+: 1610415088:0;pic
+: 1610415093:0;alias | grep pic
+: 1610415096:0;man pic
+: 1610415101:0;pic/
+: 1610415101:0;ls
+: 1610415106:0;sxiv
+: 1610415108:0;sxiv .
+: 1610415200:0;feh
+: 1610415513:0;D
+: 1610415515:0;ll
+: 1610415520:0;mv 4463231.jpg ~/pic
+: 1610418087:0;z json
+: 1610418088:0;ls
+: 1610418090:0;nvim alexday.json
+: 1610418160:0;emacs cv/resume.pdf&
+: 1610418186:0;nvim alexday.json
+: 1610418189:0;make
+: 1610418196:0;nvim makefile
+: 1610418223:0;make
+: 1610418238:0;nvim alexday.json
+: 1610418307:0;ls
+: 1610418311:0;nvim templates/cv.mustache
+: 1610418367:0;make
+: 1610418377:0;nvim templates/cv.mustache
+: 1610418388:0;make
+: 1610418425:0;nvim templates/cv.mustache
+: 1610420963:0;make
+: 1610420977:0;google-chrome-beta ./cv/resume.pdf
+: 1610421019:0;nvim alexday.json
+: 1610421031:0;make
+: 1610421053:0;nvim alexday.json
+: 1610421134:0;git add templates/cv.mustache
+: 1610421151:0;git commit -m "Cleaned up and standardized vspaces"
+: 1610421155:0;git status
+: 1610421162:0;git status --verbose
+: 1610421176:0;git add cv/resume.pdf
+: 1610421183:0;git commit -m "Add rendered cv"
+: 1610421190:0;git add alexday.json
+: 1610421195:0;git status --verbose
+: 1610421204:0;git commit -m "Changed wording and added RA position"
+: 1610421206:0;git status
+: 1610421208:0;git add makefile
+: 1610421212:0;git status --verbose
+: 1610421222:0;git commit -m "Absolute path for json_resume"
+: 1610421224:0;git status
+: 1610421227:0;git add cv/pubs.bib
+: 1610421229:0;git status --verbose
+: 1610421238:0;git commit -m "Period after forthcoming"
+: 1610421241:0;git status
+: 1610421245:0;git push
+: 1610421267:0;mv ./cv/resume.pdf ../alexday.me/static/pdf/AlexDayCV.pdf
+: 1610421271:0;z alexday
+: 1610421274:0;git status
+: 1610421279:0;git add static/pdf/AlexDayCV.pdf
+: 1610421283:0;git commit -m "Update CV"
+: 1610421284:0;git push
+: 1610421288:0;z json
+: 1610424026:0;z deep
+: 1610424028:0;ls
+: 1610424031:0;mv Homework\ 1.ipynb hw1
+: 1610424033:0;ls
+: 1610424037:0;pipenv shell --fancy
+: 1610424040:0;exit
+: 1610424042:0;pipenv shell
+: 1610424046:0;ls
+: 1610424050:0;jupyter notebook
+: 1610424060:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1610424066:0;jupyter notebook
+: 1610424068:0;ip a
+: 1610424082:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610424085:0;ip a
+: 1610424087:0;jupyter notebook
+: 1610428184:0;ssh palmeto
+: 1610464447:0;pikaur -S network-manager-applet
+: 1610464464:0;network-manager-applet
+: 1610464471:0;nm-applet
+: 1610467131:0;nmtui
+: 1610468158:0;sudo 
+: 1610468161:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610468239:0;cat /etc/resolv.conf
+: 1610468242:0;ping 130.127.255.251
+: 1610468245:0;nmtui
+: 1610468323:0;cat /etc/resolv.conf
+: 1610468326:0;ping 130.127.255.251
+: 1610468332:0;ping 8.8.8.8
+: 1610468345:0;nmtui
+: 1610468463:0;ping --help
+: 1610468473:0;cat /etc/resolv.conf
+: 1610468480:0;ping -v 130.127.255.250
+: 1610468485:0;ping -vvv 130.127.255.250
+: 1610468489:0;nmtui
+: 1610468584:0;ping -vvv 130.127.255.250
+: 1610468590:0;ping -vvv localhost
+: 1610468597:0;ping --help
+: 1610468608:0;ip a
+: 1610468624:0;ip link
+: 1610468671:0;nmtui
+: 1610468728:0;ssh joey
+: 1610468757:0;nmtui
+: 1610468761:0;nmtui --help
+: 1610468787:0;nmtui
+: 1610468805:0;ssh joey
+: 1610468816:0;ping 130.127.255.251
+: 1610468916:0;resolvectl status
+: 1610468967:0;nvim /etc/systemd/resolved.conf
+: 1610468985:0;ping 130.127.255.251
+: 1610469095:0;ping 198.21.206.235
+: 1610469100:0;ping 130.127.255.251
+: 1610469115:0;ping archlinux.org
+: 1610470890:0;make clean
+: 1610470891:0;make
+: 1610470933:0;make clean
+: 1610470934:0;make
+: 1610471269:0;make clean
+: 1610471270:0;make
+: 1610471275:0;./main 3
+: 1610472492:0;ping archlinux.org
+: 1610474590:0;nmtui
+: 1610474601:0;ip a
+: 1610474605:0;nmtui
+: 1610474609:0;ping archlinux.org
+: 1610475104:0;nmtui
+: 1610479527:0;remaps
+: 1610489475:0;htrop
+: 1610489476:0;htopp
+: 1610489477:0;htop
+: 1610489809:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610489813:0;htop
+: 1610489823:0;z alg
+: 1610489824:0;z asg
+: 1610489827:0;ls
+: 1610489831:0;time main
+: 1610489836:0;time ./main
+: 1610489861:0;make
+: 1610489863:0;./main
+: 1610489900:0;for i in $(seq 1 10); do time ./main -i -c exit; done\
+
+: 1610489915:0;echo "512x512" | bc
+: 1610489918:0;echo "512 x 512" | bc
+: 1610489926:0;echo "512 * 512" | bc
+: 1610490049:0;make
+: 1610490054:0;for i in $(seq 1 10); do time ./main -i -c exit; done\
+
+: 1610490075:0;make
+: 1610490079:0;./main
+: 1610490096:0;make
+: 1610490097:0;./main
+: 1610490150:0;make
+: 1610490151:0;./main
+: 1610490173:0;make
+: 1610490174:0;./main
+: 1610490226:0;make
+: 1610490228:0;make clean
+: 1610490229:0;make
+: 1610490231:0;./main
+: 1610490235:0;for i in $(seq 1 10); do time ./main -i -c exit; done\
+
+: 1610490246:0;make
+: 1610490248:0;for i in $(seq 1 10); do time ./main -i -c exit; done\
+
+: 1610490275:0;make
+: 1610490277:0;for i in $(seq 1 10); do time ./main -i -c exit; done\
+
+: 1610490339:0;make clean
+: 1610490340:0;ls
+: 1610490342:0;cd ../
+: 1610490342:0;ls
+: 1610490344:0;rm day_asg01.tar.gz
+: 1610490346:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610490347:0;scp day_asg01.tar.gz adday@access1:~
+: 1610490349:0;ssh joey
+: 1610493835:0;pikaur gccmapc
+: 1610493838:0;pikaur gccmacs
+: 1610493842:0;pikaur gcc emacs
+: 1610496621:0;z Multiagent
+: 1610496626:0;pipenv shell
+: 1610496639:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --mode P --save --viz
+: 1610497016:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --mode P --viz
+: 1610497045:0;!
+: 1610497046:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/crowd.config --mode P --viz
+: 1610497169:0;ls
+: 1610497175:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --viz
+: 1610497201:0;pkill -9 python
+: 1610497203:0;ll
+: 1610497260:0;ls data/playback
+: 1610497264:0;ll data/playback
+: 1610497277:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --viz --save
+: 1610497305:0;ls
+: 1610497305:0;ll
+: 1610497313:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --viz
+: 1610497466:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --save
+: 1610497475:0;ll
+: 1610497486:0;python playback.py --help
+: 1610497509:0;python playback.py --save_file playback_circle.config_P_model_bnc_students_oneway_circle --config ./scenes/circle.config
+: 1610497660:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --save
+: 1610497665:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode P --viz
+: 1610497793:0;python Environment_Ratio.py --model ./models/model_bnc_students_oneway_circle --config scenes/circle.config --mode ORCA --save
+: 1610504212:0;htop
+: 1610504761:0;lfcd
+: 1610504770:0;lf
+: 1610504924:0;ls
+: 1610504926:0;open Day_Kaur_Liao_NSF_Grant.docx
+: 1610504930:0;libreoffice Day_Kaur_Liao_NSF_Grant.docx
+: 1610558252:0;z shell
+: 1610558254:0;nvim .zprofile
+: 1610558263:0;ll
+: 1610558266:0;nvim profile
+: 1610558279:0;env 
+: 1610558283:0;env | grep DISPLAY
+: 1610558288:0;env | grep XAUTh
+: 1610558289:0;env | grep XAUT
+: 1610558328:0;maim
+: 1610558333:0;env
+: 1610558337:0;env | grep XAUTH
+: 1610558354:0;export XAUTHORITY=/home/alex/.Xauthority
+: 1610558355:0;maim
+: 1610558576:0;cff
+: 1610561355:0;killall zoom
+: 1610572065:0;htop
+: 1610572225:0;z asg
+: 1610572229:0;scp day_asg01.tar.gz adday@access1:~
+: 1610572232:0;ssh joey
+: 1610572246:0;ls
+: 1610572251:0;make clean
+: 1610572252:0;cd ../
+: 1610572254:0;ls
+: 1610572256:0;rm day_asg01.tar.gz
+: 1610572258:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610572260:0;scp day_asg01.tar.gz adday@access1:~
+: 1610572262:0;ssh joey17.computing.clemson.edu
+: 1610572267:0;ssh joey
+: 1610572298:0;ssh access
+: 1610572306:0;ping access
+: 1610572316:0;ssh adday@access1.cs.clemson.edu
+: 1610572320:0;ping clemson.edu
+: 1610572324:0;ping cs.clemson.edu
+: 1610572331:0;ping access1.cs.clemson.edu
+: 1610572338:0;ls
+: 1610572386:0;ping access1.cs.clemson.edu
+: 1610572389:0;ping access
+: 1610572398:0;scp day_asg01.tar.gz adday@access1:~
+: 1610572402:0;ssh access1
+: 1610572406:0;ssh joey1
+: 1610575225:0;cat /etc/resolv.conf
+: 1610575236:0;ping 208.67.220.220
+: 1610575245:0;ping 8.8.8.8
+: 1610589142:0;D
+: 1610589144:0;ext CA
+: 1610589153:0;cd CA
+: 1610589153:0;ls
+: 1610589155:0;ll
+: 1610589157:0;cd ../
+: 1610589159:0;rm -r CA
+: 1610589163:0;ext CA.zip
+: 1610589175:0;ls
+: 1610589177:0;cd CA
+: 1610589178:0;ls
+: 1610589180:0;cd CA
+: 1610589181:0;ls
+: 1610589185:0;cd build
+: 1610589186:0;ls
+: 1610589188:0;cd Release
+: 1610589189:0;ls
+: 1610589191:0;nvim orca.ini
+: 1610589198:0;../../
+: 1610589200:0;ls
+: 1610589207:0;cd visualiser
+: 1610589207:0;ls
+: 1610589211:0;cd src
+: 1610589211:0;ls
+: 1610589214:0;nvim VisualizerCallisto.cpp
+: 1610628769:0;killall zoom
+: 1610641070:0;D
+: 1610641072:0;ext day_
+: 1610641076:0;ext day_asg01.tar.gz
+: 1610641078:0;cd day_asg01.tar
+: 1610641080:0;ls
+: 1610641081:0;cd asg01
+: 1610641081:0;ls
+: 1610641098:0;cd ../
+: 1610641106:0;gunzip day_asg01.tar
+: 1610641108:0;gunzip day_asg01.tar.gz
+: 1610641114:0;tar xvf day_asg01.tar
+: 1610641125:0;ls
+: 1610641130:0;rm -r day_
+: 1610641134:0;rm day_
+: 1610641136:0;rm day_*
+: 1610641137:0;ls
+: 1610641147:0;rm -rf day_asg01.tar
+: 1610641148:0;ls
+: 1610641155:0;gunzip day_asg01.tar.gz
+: 1610641164:0;tar xvf day_asg01.tar
+: 1610641168:0;cd asg01
+: 1610641170:0;make clean
+: 1610641171:0;make
+: 1610641176:0;./main
+: 1610641177:0;ls
+: 1610641182:0;sxiv mandrill.pgm
+: 1610641196:0;classez
+: 1610641197:0;z classes
+: 1610641197:0;ls
+: 1610641200:0;cd computer_vision
+: 1610641200:0;ls
+: 1610641211:0;rm day_asg01.tar.gz
+: 1610641215:0;mkdir asg02
+: 1610641227:0;cp ./asg01/* asg02
+: 1610641229:0;cd asg02
+: 1610641230:0;amke
+: 1610641231:0;make
+: 1610641235:0;./main
+: 1610641288:0;nvim main.cpp
+: 1610641303:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610641533:0;z asg
+: 1610641535:0;ls
+: 1610641536:0;make
+: 1610641537:0;./main
+: 1610641538:0;ls
+: 1610641576:0;sxiv mandrill.ppm
+: 1610641580:0;sxiv mandrill.pgm
+: 1610641587:0;mv mandrill.pgm ../asg02
+: 1610641698:0;cd ../asg02
+: 1610641774:0;make
+: 1610641776:0;./main
+: 1610641779:0;ls
+: 1610641792:0;cd ../asg01
+: 1610641792:0;ls
+: 1610641794:0;./main
+: 1610641795:0;ls
+: 1610641800:0;mv maindrill.pgm ../asg02/
+: 1610641806:0;mv mandrill.pgm ../asg02
+: 1610641811:0;cd ../asg02
+: 1610641813:0;ls
+: 1610641821:0;rm mandrill.ppm
+: 1610641837:0;make
+: 1610641867:0;killall clion
+: 1610641869:0;killall clion-eap
+: 1610641875:0;killall -9 clion-eap
+: 1610641908:0;make
+: 1610641936:0;ls
+: 1610641939:0;sxiv mandrill2k.pgm
+: 1610645569:0;ls
+: 1610645570:0;ll
+: 1610645572:0;cd .idea
+: 1610645572:0;ls
+: 1610645576:0;nvim asg02.iml
+: 1610645582:0;nvim modules.xml
+: 1610645585:0;nvim misc.xml
+: 1610649444:0;cd ../
+: 1610649445:0;make clean
+: 1610649446:0;make
+: 1610649549:0;z asg
+: 1610649550:0;cd ../
+: 1610649556:0;mv asg001 asg002
+: 1610649567:0;ls asg002
+: 1610649593:0;mv asg02/*.h asg002
+: 1610649596:0;mv asg02/*.cpp asg002
+: 1610649719:0;mv asg02/mandrill2k.pgm asg002
+: 1610649731:0;cd asg002
+: 1610649736:0;mv mandrill2k.pgm mandrill.pgm
+: 1610649750:0;ll
+: 1610649752:0;sxiv mandrill.pgm
+: 1610649901:0;ls
+: 1610650009:0;sxiv mandrill-convolved.pgm
+: 1610650624:0;ll
+: 1610650822:0;sxiv mandrill-convolved.pgm
+: 1610651003:0;cd ../asg01
+: 1610651004:0;ls
+: 1610651008:0;make
+: 1610651011:0;./main 1
+: 1610651012:0;./main 2
+: 1610651021:0;sxiv mandrill.pgm
+: 1610651034:0;mv mandrill.pgm ../asg002
+: 1610651040:0;cd ../asg002
+: 1610651041:0;ls
+: 1610651044:0;sxiv mandrill-convolved.pgm
+: 1610651054:0;cd ../
+: 1610651057:0;rm asg02 -r
+: 1610651061:0;ls
+: 1610651063:0;cd asg01
+: 1610651064:0;ls
+: 1610651068:0;./main 1
+: 1610651073:0;sxiv mandrill.pgm
+: 1610651180:0;mv mandrill.pgm ../asg002
+: 1610651184:0;cd ../asg002
+: 1610651186:0;sxiv mandrill.pgm
+: 1610651194:0;sxiv mandrill-convolved.pgm
+: 1610651259:0;sxiv .
+: 1610651669:0;sxiv ~/dl
+: 1610651694:0;mv ~/dl/brain_398.ascii.pgm brain.pgm
+: 1610651698:0;nvim brain.pgm
+: 1610651711:0;rm brain.pgm
+: 1610651712:0;ls
+: 1610651830:0;sxiv mandrill-convolved.pgm
+: 1610651904:0;sxiv .
+: 1610651960:0;rm mandrill-convolved.pgm
+: 1610651961:0;sxiv .
+: 1610652277:0;sxiv
+: 1610652279:0;sxiv .
+: 1610652288:0;ls
+: 1610652336:0;sxiv .
+: 1610652508:0;D
+: 1610652511:0;nvim Valve_original_
+: 1610652517:0;nvim Valve_original__1_.pgm
+: 1610652534:0;cp Valve_original__1_.pgm ~/classes/computer_vision/asg002/valve.pgm
+: 1610652545:0;sxiv .
+: 1610652758:0;ls
+: 1610652768:0;sxiv valve2.pgm
+: 1610652810:0;D
+: 1610652815:0;rm asg01 -r
+: 1610652820:0;tar -xzf day_asg01.tar.gz
+: 1610652821:0;ls
+: 1610652822:0;cd asg01
+: 1610652823:0;s
+: 1610652824:0;ls
+: 1610652827:0;nvim pgm.cpp
+: 1610652858:0;make
+: 1610652861:0;./main
+: 1610652862:0;ls
+: 1610652864:0;sxiv mandrill.pg
+: 1610652866:0;sxiv mandrill.pgm
+: 1610652869:0;ls
+: 1610652871:0;make clean
+: 1610652872:0;cd ../
+: 1610652875:0;rm day_asg01.tar.gz
+: 1610652883:0;tar --exclude=asg01/.idea -czvf day_asg01.tar.gz asg01 
+: 1610652885:0;ls
+: 1610652911:0;ll
+: 1610652920:0;mkdir asg01_test
+: 1610652930:0;mv day_asg01\ \(1\).tar.gz asg01_test
+: 1610652931:0;ls
+: 1610652933:0;cd asg01_test
+: 1610652933:0;ls
+: 1610652935:0;ext day_asg01\ \(1\).tar.gz
+: 1610652937:0;cd day_asg01\ \(1\).tar
+: 1610652938:0;ls
+: 1610652940:0;cd asg01
+: 1610652940:0;ls
+: 1610652941:0;make
+: 1610652943:0;./main
+: 1610652948:0;sxiv mandrill.pgm
+: 1610652958:0;sxiv .
+: 1610654107:0;ssh joey1
+: 1610655111:0;z asg002
+: 1610655112:0;ls
+: 1610655142:0;sxiv mandril-is-unchanged.pgm
+: 1610655150:0;md5sum mandrill.pgm
+: 1610655157:0;md5sum mandril-is-unchanged.pgm
+: 1610655981:0;z 002
+: 1610655982:0;ls
+: 1610655989:0;sxiv mandrill-sobel
+: 1610655991:0;sxiv mandrill-sobel.pgm
+: 1610656147:0;ll
+: 1610656153:0;sxiv mandrill-sobel.pgm
+: 1610656424:0;sxiv mandrill-box-blur.pgm
+: 1610656651:0;sxiv mandrill-gauss.pgm
+: 1610657907:0;python
+: 1610657943:0;pip install numpy
+: 1610657949:0;python
+: 1610660237:0;nvim json
+: 1610660241:0;z json
+: 1610660241:0;lks
+: 1610660242:0;ls
+: 1610660244:0;nvim alexday.json
+: 1610660351:0;make
+: 1610660373:0;ls
+: 1610660376:0;cd cv
+: 1610660376:0;ls
+: 1610660387:0;pdflatex resume.tex
+: 1610660397:0;google-chrome-beta resume.
+: 1610660400:0;google-chrome-beta resume.pdf
+: 1610660415:0;cd ../
+: 1610660416:0;ls
+: 1610660418:0;make
+: 1610660426:0;nvim alexday.json
+: 1610660454:0;make
+: 1610660470:0;nvim alexday.json
+: 1610661038:0;make
+: 1610661048:0;nvim alexday.json
+: 1610661060:0;amke
+: 1610661062:0;make
+: 1610665501:0;z dl
+: 1610665501:0;ls
+: 1610665513:0;mv Bikesgray.pgm ~/classes/computer_vision/asg002/
+: 1610665516:0;z 002
+: 1610665519:0;mv Bikesgray.pgm bikes.pgm
+: 1610665522:0;nvim bikes.pgm
+: 1610665607:0;z 001
+: 1610665609:0;z 002
+: 1610665609:0;ls
+: 1610665615:0;sxiv bikes.pgm
+: 1610665618:0;nvim bikes.pgm
+: 1610665636:0;D
+: 1610665640:0;sxiv Bikesgray.pgm
+: 1610665653:0;mv Bikesgray.pgm ~/classes/computer_vision/asg002/bikes.pgm
+: 1610665657:0;z asg002
+: 1610665660:0;sxiv bikes.pgm
+: 1610665709:0;z 002
+: 1610665713:0;sxiv .
+: 1610671917:0;pacmd load-module module-loopback latensy_msec=1
+: 1610671928:0;pulsemixer
+: 1610671967:0;pacmd unload-module module-loopback
+: 1610671973:0;pacmd load-module module-loopback latensy_msec=1
+: 1610671975:0;pacmd unload-module module-loopback
+: 1610671990:0;pactl load-module module-loopback latency_msec=1\
+
+: 1610672005:0;pactl load-module module-loopback latency_msec=3000\
+
+: 1610672009:0;pactl load-module module-loopback latency_msec=6000\
+
+: 1610672035:0;pacmd unload-module module-loopback
+: 1610672036:0;pactl load-module module-loopback latency_msec=6000\
+
+: 1610672052:0;pacmd unload-module module-loopback
+: 1610715074:0;launch_polybar
+: 1610731442:0;cat /etc/resolv.conf
+: 1610733409:0;ls
+: 1610733415:0;cd code
+: 1610733416:0;ls
+: 1610733418:0;cd MultiagentLocomotion
+: 1610733419:0;ls
+: 1610733422:0;mkdir simulation
+: 1610733425:0;cd simulat
+: 1610733430:0;cd simulator
+: 1610733431:0;ls
+: 1610733443:0;cp ../Environment_Ratio.py .
+: 1610733445:0;rm Environment
+: 1610733447:0;rm Environment.py
+: 1610733449:0;cd ../
+: 1610733451:0;rm -r simulation
+: 1610733586:0;z ratio
+: 1610733588:0;cd ../simulator
+: 1610733589:0;ls
+: 1610733591:0;python
+: 1610733608:0;ls
+: 1610733628:0;python
+: 1610733709:0;pipenv shell
+: 1610733712:0;python
+: 1610733818:0;rg length_vector
+: 1610733827:0;cd simulator
+: 1610733828:0;ls
+: 1610733830:0;python
+: 1610733962:0;mypyls
+: 1610734166:0;python
+: 1610734177:0;cp ../rvo2.cpython-36m-x86_64-linux-gnu.so .
+: 1610734188:0;cp ../Powerlaw.cpython-36m-x86_64-linux-gnu.so .
+: 1610734417:0;pikaur pycharm
+: 1610734632:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610735381:0;htop
+: 1610737042:0;z Multiagent
+: 1610737045:0;cd simulator
+: 1610737045:0;ls
+: 1610737050:0;pipenv shell
+: 1610737059:0;python Agent.p
+: 1610737060:0;python Agent.py
+: 1610737064:0;cd simulator
+: 1610737068:0;python Agent.py
+: 1610737091:0;cd ../Powerlaw
+: 1610737091:0;ls
+: 1610737092:0;git pull
+: 1610737100:0;git pull remote master
+: 1610737105:0;git pull origin master
+: 1610737108:0;git stash
+: 1610737109:0;git pull origin master
+: 1610737120:0;python setup.py build_ext --inplace
+: 1610737127:0;ls
+: 1610737138:0;cp Powerlaw.cpython-36m-x86_64-linux-gnu.so ../simulator/
+: 1610737143:0;cd ../simulator
+: 1610737145:0;python Agent.py
+: 1610737533:0;OA
+: 1610737535:0;python Agent.py
+: 1610739236:0;python Environment.py
+: 1610739239:0;ls
+: 1610739248:0;python
+: 1610739266:0;python Environment.py
+: 1610739385:0;ls
+: 1610739388:0;nvim playback_orca
+: 1610739394:0;cd ../
+: 1610739398:0;python -m metrics
+: 1610739402:0;python -m metrics --help
+: 1610739414:0;python -m metrics ./simulator/playback_orca
+: 1610739428:0;python -m metrics ./simulator/playback_orca --pref-speed 1.5
+: 1610739524:0;cd simulator
+: 1610739529:0;python Environment.py
+: 1610739533:0;cd ../
+: 1610739537:0;python -m metrics ./simulator/playback_orca --pref-speed 1.5
+: 1610739588:0;python ./simulator/Agent.py
+: 1610739592:0;python ./simulator/Environment.py
+: 1610739596:0;cd simulator
+: 1610739599:0;python Environment
+: 1610739601:0;python Environment.py
+: 1610739608:0;cd ../
+: 1610739611:0;python -m metrics ./simulator/playback_orca --pref-speed 1.5
+: 1610741570:0;cd simulator
+: 1610741571:0;ls
+: 1610741575:0;python Environment.py
+: 1610759023:0;sxiv .
+: 1610759185:0;z asg002
+: 1610759188:0;nvim bikes.pgm
+: 1610759377:0;sxiv .
+: 1610760066:0;ls
+: 1610760068:0;ll
+: 1610760076:0;rm mandrill-*
+: 1610760079:0;ls
+: 1610760080:0;ll
+: 1610760084:0;rm valve2.pgm
+: 1610760084:0;ls
+: 1610760086:0;ll
+: 1610760094:0;sxiv .
+: 1610760144:0;rm *.pgm-*
+: 1610760147:0;ll
+: 1610760153:0;rm mandril-is-unchanged.pgm
+: 1610760154:0;ls
+: 1610760429:0;rm *.pgm-*
+: 1610760431:0;ls
+: 1610760444:0;ll
+: 1610760476:0;rm *-*
+: 1610760481:0;ls
+: 1610761109:0;./main
+: 1610761114:0;./cmake-build-debug/asg002
+: 1610761121:0;cd cmake-build-debug
+: 1610761123:0;./asg002
+: 1610761732:0;make clean
+: 1610761733:0;ls
+: 1610761736:0;cd ..
+: 1610761737:0;make clean
+: 1610761739:0;ls
+: 1610761740:0;make
+: 1610761840:0;./main
+: 1610761853:0;make
+: 1610761856:0;./main
+: 1610761859:0;ls
+: 1610761860:0;make clean
+: 1610761865:0;ls
+: 1610761866:0;ll
+: 1610761867:0;ls
+: 1610761871:0;rm -rf cmake-build-debug
+: 1610761872:0;ls
+: 1610761874:0;rm CMakeLists.txt
+: 1610761874:0;ls
+: 1610761920:0;z asg002
+: 1610761921:0;ls
+: 1610761925:0;rm -r cmake-build-debug
+: 1610761927:0;ls
+: 1610761929:0;make
+: 1610761946:0;rm -r cmake-build-debug
+: 1610761971:0;ls
+: 1610761975:0;rm -rf cmake-build-debug
+: 1610762104:0;ls
+: 1610762106:0;cd ../
+: 1610762109:0;mkdir asg02
+: 1610762116:0;cp ./asg002/* ./asg02
+: 1610762117:0;ls
+: 1610762121:0;rm -rf asg002
+: 1610762126:0;ls
+: 1610762127:0;cd asg0
+: 1610762128:0;cd asg02
+: 1610762129:0;ls
+: 1610762162:0;make
+: 1610762433:0;z 002
+: 1610762433:0;ls
+: 1610762435:0;z asg
+: 1610762437:0;ls
+: 1610762438:0;ll
+: 1610762440:0;nvim .idea
+: 1610762451:0;cd .idea
+: 1610762452:0;ls
+: 1610762454:0;nvim misc.xml
+: 1610762458:0;nvim modules.xml
+: 1610762462:0;nvim workspace.xml
+: 1610762498:0;z 002
+: 1610762500:0;z 02
+: 1610762505:0;mv convolution.* convolution2.*
+: 1610762509:0;mv convolution.h convolution2.h
+: 1610762514:0;mv convolution.cpp convolution2.cpp
+: 1610762792:0;z 002
+: 1610762794:0;z 02
+: 1610762797:0;rg filter.h
+: 1610762800:0;rg filter.cpp
+: 1610762805:0;cd .idea
+: 1610762808:0;rg filter.
+: 1610762810:0;rg filter
+: 1610762813:0;rg main
+: 1610762818:0;rg pgm
+: 1610762820:0;cd ../
+: 1610766810:0;curl pacise.org
+: 1610766821:0;curl granite.sru.edu
+: 1610766825:0;curl granite.sru.edu/~pacise
+: 1610771165:0;z json
+: 1610771167:0;nvim alexday.json
+: 1610771613:0;make
+: 1610780538:0;cat /etc/resolv.conf
+: 1610780545:0;ping 8.8.8.8
+: 1610780551:0;curl youtube.com
+: 1610780564:0;nmtui
+: 1610780593:0;reboot -h now
+: 1610780597:0;sudo reboot -h now
+: 1610780653:0;curl youtube.com
+: 1610780658:0;ping archlinux.org
+: 1610850335:0;z json
+: 1610850354:0;ls
+: 1610850358:0;nvim templates/cv.mustache
+: 1610850364:0;nvim templates/resume.mustache
+: 1610850589:0;make
+: 1610850598:0;nvim templates/resume.mustache
+: 1610850606:0;make
+: 1610850624:0;nvim templates/resume.mustache
+: 1610850651:0;make
+: 1610850680:0;nvim templates/resume.mustache
+: 1610850737:0;make
+: 1610850750:0;nvim templates/resume.mustache
+: 1610850777:0;make
+: 1610850781:0;ls
+: 1610850783:0;cd resume
+: 1610850784:0;ls
+: 1610850784:0;ll
+: 1610850795:0;nvim resume.tex
+: 1610850835:0;pdflatex resume.tex
+: 1610850840:0;nvim resume.tex
+: 1610850858:0;make
+: 1610850889:0;cd ../
+: 1610850893:0;nvim templates/resume.mustache
+: 1610850904:0;nvim templates/cv.mustache
+: 1610850929:0;make
+: 1610850937:0;nvim templates/cv.mustache
+: 1610850944:0;nvim templates/resume.mustache
+: 1610851440:0;nvim resume/resume.tex
+: 1610852021:0;nvim templates/cv.mustache
+: 1610853274:0;z json
+: 1610853274:0;ls
+: 1610853309:0;cd templates
+: 1610853309:0;ls
+: 1610853315:0;mv definitions.tex definitions.mustache
+: 1610853380:0;mv definitions.mustache definitions.tex
+: 1610853413:0;ls
+: 1610853424:0;ln definitions.tex ../cv
+: 1610853428:0;ln definitions.tex ../resume
+: 1610853430:0;ls ../resume
+: 1610853580:0;z json
+: 1610853603:0;cp cv/resume.pdf ../alexday.me/static/pdf/AlexDayResume.pdf
+: 1610853613:0;cp cv/resume.pdf ../alexday.me/static/pdf/AlexDayCV.pdf
+: 1610853621:0;cp resume/resume.pdf ../alexday.me/static/pdf/AlexDayResume.pdf
+: 1610853627:0;z alexday
+: 1610853628:0;ls
+: 1610853630:0;git status
+: 1610853636:0;git add static/pdf/AlexDay*.pdf
+: 1610853638:0;git status
+: 1610853645:0;git commit -m "Update resume and cv"
+: 1610853669:0;cp ../json_resume/alexday.json ./static/json/alexday.json
+: 1610853675:0;git add static/json/alexday.json
+: 1610853683:0;git commit -m "Update resume json file"
+: 1610853686:0;ls
+: 1610853688:0;cd content
+: 1610853688:0;ls
+: 1610853692:0;cd news
+: 1610853692:0;ls
+: 1610853735:0;cd ../
+: 1610853735:0;ls
+: 1610853803:0;z alexday.me
+: 1610853805:0;git push
+: 1610853814:0;git status
+: 1610853822:0;nvim .gitinore
+: 1610853828:0;git status
+: 1610853836:0;mv .gitinore .gitignore
+: 1610853837:0;ls
+: 1610853839:0;git status
+: 1610853844:0;git add .gitignore
+: 1610853852:0;git commit -m "Ignore hugo directories"
+: 1610853855:0;git push
+: 1610853861:0;cd ../json_resume
+: 1610853862:0;ls
+: 1610853866:0;git status
+: 1610854314:0;ls
+: 1610854318:0;cat json
+: 1610854321:0;rm json
+: 1610854329:0;cat \*message\*-20210111-181512
+: 1610854332:0;rm \*message\*-20210111-181512
+: 1610854333:0;ls
+: 1610854336:0;rm chrome-pjibgclleladliembfgfagdaldikeohf-Default.desktop
+: 1610854336:0;ll
+: 1610911557:0;mpv
+: 1610911596:0;mpv /dev/video0
+: 1610911657:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f alsa -i default -c:v libx264 -preset ultrafast -c:a aac webcam.mp4
+: 1610911669:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset ultrafast -c:a aac webcam.mp4
+: 1610911681:0;mpv webcam.mp4
+: 1610911691:0;rm webcam.mp4
+: 1610911703:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset ultrafast -c:a aac webcam.mp4
+: 1610911714:0;mpv webcam.mp4
+: 1610911730:0;pulsemixer
+: 1610911758:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610911769:0;mpv webcam.mp4
+: 1610911810:0;mpv /dev/video0
+: 1610912020:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912170:0;mpv webcam.mp4
+: 1610912198:0;rm webcam.mp4
+: 1610912244:0;mpv /dev/video0
+: 1610912281:0;rm webcam.mp4
+: 1610912315:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912338:0;rm webcam.mp4
+: 1610912339:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912343:0;rm webcam.mp4
+: 1610912345:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912372:0;rm webcam.mp4
+: 1610912374:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912380:0;rm webcam.mp4
+: 1610912381:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912387:0;rm 
+: 1610912389:0;rm webcam.mp4
+: 1610912391:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912540:0;rm webcam.mp4
+: 1610912894:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912898:0;rm webcam.mp4
+: 1610912901:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912919:0;rm webcam.mp4
+: 1610912920:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610912949:0;mpv webcam.mp4
+: 1610912979:0;rm webcam.mp4
+: 1610912982:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913040:0;ls
+: 1610913042:0;mpv webcam.mp4
+: 1610913105:0;ffmpeg -ss 00:00:3.0 -i webcam.mp4 -c copy -t 00:00:27.0 intro.mp4
+: 1610913109:0;mpv intro.mp4
+: 1610913135:0;ffmpeg -ss 00:00:4.0 -i webcam.mp4 -c copy -t 00:00:27.0 intro.mp4
+: 1610913138:0;mpv intro.mp4
+: 1610913149:0;rm webcam.mp4
+: 1610913153:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913204:0;rm webcam.mp4
+: 1610913214:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913222:0;rm webcam.mp4
+: 1610913224:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913273:0;rm webcam.mp4
+: 1610913279:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913296:0;rm webcam.mp4
+: 1610913315:0;ffmpeg -f v4l2 -video_size 1920x1080 -i /dev/video0 -f pulse -i default -c:v libx264 -preset superfast -c:a aac webcam.mp4
+: 1610913685:0;pikaur kdn
+: 1610913719:0;pikaur -S kdenlive
+: 1610913961:0;file webcam.mp4
+: 1610914827:0;ls
+: 1610914830:0;mpv AlexDayCareerMGMT120.mp4
+: 1610918850:0;killall kdenlive
+: 1610918857:0;nmtui
+: 1610919212:0;z Multi
+: 1610919232:0;python simulator/Environment
+: 1610919234:0;python simulator/Environment.py
+: 1610919240:0;pipenv shell
+: 1610919243:0;python simulator/Environment.py
+: 1610919248:0;cd simulator
+: 1610919250:0;python Environment
+: 1610919252:0;python Environment.py
+: 1610919422:0;~/.emacs.d/bin/doom update
+: 1610919427:0;~/.emacs.d/bin/doom upgrade
+: 1610919839:0;ip a
+: 1610919851:0;ip link
+: 1610920236:0;sudo ip link set lo down && sudo ip link set lo up
+: 1610920338:0;cd simulator
+: 1610920340:0;python Environment.py
+: 1610924765:0;ls
+: 1610924773:0;ls ../
+: 1610924774:0;ls
+: 1610924780:0;find . -iname "test.mp4
+: 1610924782:0;find . -iname "test.mp4"
+: 1610924860:0;python Environment.py
+: 1610924947:0;killall -9 python
+: 1610925104:0;z sim
+: 1610925107:0;python Environment.py
+: 1610925111:0;pipenv shell
+: 1610925117:0;cd simulator
+: 1610925119:0;python Environment
+: 1610925121:0;python Environment.py
+: 1610925250:0;ls
+: 1610925295:0;s
+: 1610925297:0;ls
+: 1610925302:0;mpv test.mp4
+: 1610925439:0;python Environment.py
+: 1611005455:0;z simulat
+: 1611005455:0;ls
+: 1611005465:0;mpv filename.mp4
+: 1611005859:0;z simulat
+: 1611005859:0;ls
+: 1611005863:0;ll
+: 1611005871:0;mpv new.mp4
+: 1611005883:0;ffmpeg
+: 1611005905:0;z simulato
+: 1611005906:0;ls
+: 1611005907:0;ll
+: 1611006050:0;ls
+: 1611006054:0;z simulato
+: 1611006054:0;ls
+: 1611006058:0;mpv asdf.mp4
+: 1611006081:0;ls
+: 1611006084:0;z simulato
+: 1611006084:0;ll
+: 1611006159:0;z simul
+: 1611006160:0;ls
+: 1611006163:0;mpv asdf.mp4
+: 1611006183:0;z simul
+: 1611006185:0;mpv asdf.mp4
+: 1611006203:0;z simul
+: 1611006206:0;mpv asdf.mp4
+: 1611006321:0;htop
+: 1611006332:0;ls
+: 1611006333:0;z simul
+: 1611006334:0;ls
+: 1611006335:0;l
+: 1611006336:0;ll
+: 1611006581:0;z simul
+: 1611006582:0;ll
+: 1611006598:0;mpv asdf.mp4
+: 1611006712:0;z simul
+: 1611006714:0;mpv asdf.mp4
+: 1611008951:0;z simul
+: 1611008955:0;mpv out.mp4
+: 1611009201:0;z simul
+: 1611009207:0;mpv out.mp4
+: 1611009378:0;rm out.mp4
+: 1611010005:0;z simulk
+: 1611010007:0;z simul
+: 1611010008:0;mpv out.mp4
+: 1611010063:0;cd ..
+: 1611010065:0;ls scenes
+: 1611012381:0;z simul
+: 1611012381:0;ls
+: 1611012387:0;mpv ORCA_0.01.
+: 1611012389:0;mpv ORCA_0.01.mp4
+: 1611012536:0;mpv ORCA_0.1.mp4
+: 1611012547:0;cd ../
+: 1611012547:0;ls
+: 1611012562:0;python -m metrics ./simulator/ORCA_0.01.playback --prefspeed 1.5
+: 1611012566:0;pipenv shell
+: 1611012570:0;python -m metrics ./simulator/ORCA_0.01.playback --prefspeed 1.5
+: 1611012578:0;python -m metrics ./simulator/ORCA_0.01.playback --pref-speed 1.5
+: 1611012597:0;nvim simulator/ORCA_0.01.playback
+: 1611012639:0;python -m metrics ./simulator/ORCA_0.1.playback --pref-speed 1.5
+: 1611012667:0;python -m metrics ./simulator/ORCA_0.01.playback --pref-speed 1.5
+: 1611012708:0;python -m metrics ./simulator/ORCA_0.033.playback --pref-speed 1.5
+: 1611021519:0;autorandr
+: 1611021522:0;autorandr --load docked --force
+: 1611023685:0;z simul
+: 1611023707:0;python __init__.py
+: 1611023711:0;pipenv shell
+: 1611023719:0;python __init__.py --help
+: 1611023722:0;cd simulator
+: 1611023725:0;python __init__.py --help
+: 1611023740:0;python __init__.py --viz --save
+: 1611023789:0;python __init__.py --help
+: 1611023893:0;python __init__.py --config ../scenes/crowd.config --viz
+: 1611023929:0;z simul
+: 1611023931:0;pipenv shell
+: 1611023934:0;cd simulator
+: 1611023934:0;ls
+: 1611023939:0;rm *.mp4
+: 1611023941:0;ls
+: 1611023944:0;rm ORCA*
+: 1611023946:0;ls
+: 1611023949:0;rm playback*
+: 1611023950:0;ls
+: 1611023964:0;python __init__.py --config ../scenes/crowd.config --save crowd_orca.mp4
+: 1611024527:0;python __init__.py --config ../scenes/crowd.config --vis
+: 1611024530:0;python __init__.py --config ../scenes/crowd.config --viz
+: 1611024606:0;OA
+: 1611024607:0;python __init__.py --config ../scenes/crowd.config --viz
+: 1611024855:0;python __init__.py --config ../scenes/circle.config --viz
+: 1611025555:0;cat /sys/devices/platform/thinkpad_acpi/leds/tpacpi::thinklight/brightness
+: 1611025573:0;cat /sys/devices/platform/thinkpad_acpi/leds/tpacpi::thinkvantage/brightness
+: 1611030152:0;python __init__.py --config ../scenes/circle.config --viz
+: 1611030171:0;python __init__.py --config ../scenes/two_groups.config --viz
+: 1611031911:0;z sim
+: 1611031914:0;pipenv shelkl
+: 1611031916:0;pipenv shell
+: 1611031919:0;ls
+: 1611031920:0;cd simulator
+: 1611031920:0;ls
+: 1611031921:0;python __init__.py --config ../scenes/two_groups.config --viz
+: 1611032003:0;ls ../models
+: 1611079028:0;nmtui
+: 1611079055:0;cat /etc/resolv.conf
+: 1611079058:0;ping 130.127.255.251
+: 1611079063:0;nmtui
+: 1611079076:0;reboot -h now
+: 1611079079:0;sudo reboot -h now
+: 1611079150:0;cat /etc/hosts
+: 1611079162:0;cat /etc/re
+: 1611079164:0;cat /etc/resolv.conf
+: 1611079167:0;ping 130.127.255.251
+: 1611079374:0;z asg02
+: 1611079377:0;sxiv .
+: 1611079468:0;OA
+: 1611079470:0;sxiv .
+: 1611079803:0;z asg02
+: 1611079803:0;ls
+: 1611079804:0;make
+: 1611079808:0;./main
+: 1611079810:0;ls
+: 1611079821:0;sxiv mandrill-box-blur.pgm
+: 1611079826:0;sxiv .
+: 1611080160:0;z asg02
+: 1611080169:0;cp ../asg01/pgm.* .
+: 1611080173:0;cp ../asg01/ppm.* .
+: 1611080176:0;rm ppm.o
+: 1611080201:0;make clean
+: 1611080320:0;ip a
+: 1611080326:0;sudo ip link set lo down && sudo ip link set lo up
+: 1611080332:0;ip a
+: 1611080336:0;cat /etc/resolv.conf
+: 1611080338:0;ping 130.127.255.251
+: 1611080351:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611080353:0;ip a
+: 1611080898:0;sxiv Black.ppm
+: 1611080902:0;nvim Black.ppm
+: 1611081164:0;z asg02
+: 1611081170:0;mv ../asg01/mandrill.ppm .
+: 1611081210:0;sxiv mandrill-out.ppm
+: 1611081306:0;sxiv mandrill.p
+: 1611081307:0;sxiv mandrill.pgm
+: 1611081310:0;sxiv mandrill.ppm
+: 1611081325:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611081339:0;ping 
+: 1611081352:0;iwd
+: 1611081355:0;iwdctl
+: 1611081360:0;sudo systemctl status iwd
+: 1611081989:0;sxiv mandrill-out.ppm
+: 1611082000:0;hexdump mandrill-out.ppm | more
+: 1611082027:0;hexdump mandril.ppm | more
+: 1611082032:0;hexdump mandrill.ppm | more
+: 1611082044:0;nvim mandrill-out.ppm
+: 1611082052:0;nvim mandrill.ppm
+: 1611082079:0;nvim mandrill-out.ppm
+: 1611082092:0;head mandrill.ppm
+: 1611082101:0;less mandrill.ppm
+: 1611082127:0;sxiv mandrill-out.ppm
+: 1611082734:0;sxiv mandrill-gradient.ppm
+: 1611082746:0;sxiv bikes-gradient.ppm
+: 1611082773:0;sxiv .
+: 1611083635:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611086473:0;sxiv mandrill-gradient.pgm
+: 1611086530:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611086627:0;nmtui
+: 1611086634:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611086696:0;ping 208.67.220.220
+: 1611086714:0;sudo ip link set lo down && sudo ip link set lo up
+: 1611087147:0;sudo ip link set wlan0 down && sudo ip link set wlan0 up
+: 1611087297:0;z simul
+: 1611087300:0;pipenv shell
+: 1611087303:0;cd simulator
+: 1611087313:0;python __init__.py --config ../scenes/two_groups.config --viz --model ../models/zara
+: 1611087323:0;python __init__.py --config ../scenes/two_groups.config --viz --model ../models/model_bnc_students_oneway_circle
+: 1611087559:0;python __init__.py --config ../scenes/crowd.config --viz --model ../models/model_bnc_students_oneway_circle
+: 1611091336:0;dot
+: 1611091345:0;c
+: 1611091346:0;cf
+: 1611091348:0;cd fish
+: 1611091348:0;ls
+: 1611091350:0;nvim aliases.fish
+: 1611091356:0;cd ../shell
+: 1611091357:0;ls
+: 1611091360:0;nvim aliasrc
+: 1611091378:0;dots
+: 1611091387:0;alias 	dots='/usr/bin/git --git-dir=$HOME/.config/.dotfiles/ --work-tree=$HOME' \\
+
+: 1611091388:0;dots
+: 1611091397:0;dots add ./.config/shell
+: 1611091399:0;dots add ./.config/zsh
